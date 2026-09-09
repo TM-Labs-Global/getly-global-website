@@ -1,9 +1,10 @@
 "use client";
 
 import { useMemo, useState, useRef, useEffect } from "react";
+import { createPortal } from "react-dom";
 import Image from "next/image";
 import { usePathname, useRouter } from "next/navigation";
-import { ChevronDown, Check, Search } from "lucide-react";
+import { ChevronDown, Check, Search, X } from "lucide-react";
 import { locales, localeDetails, Locale, defaultLocale } from "@/i18n";
 import { getFlagUrl } from "@/shared/utils/flags";
 
@@ -11,17 +12,24 @@ interface LanguageSwitcherProps {
   isDark?: boolean;
   className?: string;
   variant?: "dropdown" | "modal" | "compact";
+  direction?: "down" | "up" | "auto";
 }
 
 export default function LanguageSwitcher({
   isDark = false,
   className = "",
+  direction = "down",
 }: LanguageSwitcherProps) {
   const pathname = usePathname();
   const router = useRouter();
   const [isOpen, setIsOpen] = useState(false);
   const [query, setQuery] = useState("");
+  const [mounted, setMounted] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
 
   // Determine active locale from current URL pathname
   const pathSegments = pathname.split("/").filter(Boolean);
@@ -34,24 +42,36 @@ export default function LanguageSwitcher({
     if (!q) return locales;
     return locales.filter((loc) => {
       const option = localeDetails[loc];
-      return option.nativeName.toLowerCase().includes(q) || option.label.toLowerCase().includes(q);
+      return (
+        option.nativeName.toLowerCase().includes(q) ||
+        option.label.toLowerCase().includes(q) ||
+        loc.toLowerCase().includes(q)
+      );
     });
   }, [query]);
 
-  // Handle outside click to close
+  // Handle outside click & escape key to close
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
       if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
         setIsOpen(false);
       }
     }
+    function handleKeyDown(event: KeyboardEvent) {
+      if (event.key === "Escape") {
+        setIsOpen(false);
+      }
+    }
+
     if (isOpen) {
       document.addEventListener("mousedown", handleClickOutside);
+      document.addEventListener("keydown", handleKeyDown);
     } else {
       setQuery("");
     }
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
+      document.removeEventListener("keydown", handleKeyDown);
     };
   }, [isOpen]);
 
@@ -99,14 +119,13 @@ export default function LanguageSwitcher({
         />
       </button>
 
-      {/* Language picker — modeled directly on revolut.com's own region
-          switcher (inspected live): a pill search field at the top, then a
-          plain single-column list of circular flag + name rows, no card
-          header, no second line of text per row. Adapted into Getly's
-          light theme (Revolut's is on their black footer) using the same
-          --canvas / --navy / --blue tokens as the rest of the site. */}
+      {/* Desktop Dropdown: Positioned relative to button */}
       {isOpen && (
-        <div className="absolute right-0 mt-3 w-[300px] rounded-[28px] bg-white border border-[var(--line)] shadow-2xl p-3 z-50 animate-in fade-in zoom-in-95 duration-150">
+        <div
+          className={`hidden md:block absolute right-0 ${
+            direction === "up" ? "bottom-full mb-3" : "top-full mt-3"
+          } w-[300px] rounded-[28px] bg-white border border-[var(--line)] shadow-2xl p-3 z-50 animate-in fade-in zoom-in-95 duration-150 text-[var(--navy)]`}
+        >
           <div className="relative mb-2">
             <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-[var(--mist)]" />
             <input
@@ -114,11 +133,11 @@ export default function LanguageSwitcher({
               value={query}
               onChange={(event) => setQuery(event.target.value)}
               placeholder="Search"
-              className="w-full pl-10 pr-4 py-2.5 rounded-full bg-[var(--canvas)] text-sm text-[var(--navy)] placeholder:text-[var(--mist)] outline-none focus:ring-2 focus:ring-[var(--blue)]/30"
+              className="w-full pl-10 pr-4 py-2 rounded-full bg-[var(--canvas)] text-sm text-[var(--navy)] placeholder:text-[var(--mist)] outline-none focus:ring-2 focus:ring-[var(--blue)]/30"
             />
           </div>
 
-          <div className="max-h-72 overflow-y-auto" data-lenis-prevent>
+          <div className="max-h-72 overflow-y-auto space-y-0.5" data-lenis-prevent>
             {filteredLocales.map((loc) => {
               const option = localeDetails[loc];
               const isSelected = loc === currentLocale;
@@ -132,16 +151,19 @@ export default function LanguageSwitcher({
                     isSelected ? "bg-[var(--canvas)]" : "hover:bg-[var(--canvas)]"
                   }`}
                 >
-                  <div className="relative w-8 h-8 rounded-full overflow-hidden shrink-0 ring-1 ring-black/5">
+                  <div className="relative w-7 h-7 rounded-full overflow-hidden shrink-0 ring-1 ring-black/5">
                     <Image src={getFlagUrl(option.flag, 32)} alt="" fill className="object-cover" />
                   </div>
-                  <span
-                    className={`flex-1 text-sm ${
-                      isSelected ? "font-bold text-[var(--blue)]" : "font-medium text-[var(--navy)]"
-                    }`}
-                  >
-                    {option.nativeName}
-                  </span>
+                  <div className="flex-1 flex flex-col min-w-0">
+                    <span
+                      className={`text-sm leading-tight truncate ${
+                        isSelected ? "font-bold text-[var(--blue)]" : "font-medium text-[var(--navy)]"
+                      }`}
+                    >
+                      {option.nativeName}
+                    </span>
+                    <span className="text-[11px] text-[var(--mist)] truncate">{option.label}</span>
+                  </div>
                   {isSelected && <Check className="w-4 h-4 text-[var(--blue)] shrink-0" strokeWidth={2.5} />}
                 </button>
               );
@@ -153,6 +175,103 @@ export default function LanguageSwitcher({
           </div>
         </div>
       )}
+
+      {/* Mobile Portal Modal: Rendered to document.body so it can NEVER be clipped by mobile drawer/navbar frame */}
+      {mounted &&
+        isOpen &&
+        createPortal(
+          <div
+            className="fixed inset-0 z-[999999] bg-black/65 backdrop-blur-sm flex items-end sm:items-center justify-center p-4 md:hidden animate-in fade-in duration-200"
+            onClick={() => setIsOpen(false)}
+          >
+            <div
+              className="w-full max-w-sm bg-white rounded-3xl p-5 shadow-2xl flex flex-col max-h-[82vh] border border-slate-200 text-[var(--navy)] animate-in slide-in-from-bottom-6 duration-200"
+              onClick={(e) => e.stopPropagation()}
+              data-lenis-prevent
+            >
+              {/* Modal Header */}
+              <div className="flex items-center justify-between pb-3 border-b border-slate-100 mb-3">
+                <div className="flex items-center gap-2">
+                  <span className="font-bold text-base text-[var(--navy)]">Select Language</span>
+                  <span className="text-xs text-[var(--mist)] uppercase font-semibold">
+                    ({locales.length})
+                  </span>
+                </div>
+                <button
+                  type="button"
+                  onClick={() => setIsOpen(false)}
+                  className="p-1.5 rounded-full hover:bg-slate-100 text-slate-400 hover:text-slate-700 transition-colors"
+                  aria-label="Close"
+                >
+                  <X className="w-5 h-5" />
+                </button>
+              </div>
+
+              {/* Search Bar */}
+              <div className="relative mb-3">
+                <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-[var(--mist)]" />
+                <input
+                  type="text"
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                  placeholder="Search language or country..."
+                  autoFocus
+                  className="w-full pl-10 pr-4 py-2.5 rounded-full bg-[var(--canvas)] text-sm text-[var(--navy)] placeholder:text-[var(--mist)] outline-none focus:ring-2 focus:ring-[var(--blue)]/30"
+                />
+              </div>
+
+              {/* Languages List */}
+              <div
+                className="flex-1 overflow-y-auto space-y-1 pr-1 overscroll-contain"
+                data-lenis-prevent
+              >
+                {filteredLocales.map((loc) => {
+                  const option = localeDetails[loc];
+                  const isSelected = loc === currentLocale;
+
+                  return (
+                    <button
+                      key={loc}
+                      type="button"
+                      onClick={() => switchLocale(loc)}
+                      className={`w-full flex items-center gap-3.5 px-3.5 py-3 rounded-2xl text-left transition-colors ${
+                        isSelected
+                          ? "bg-[var(--canvas)] ring-1 ring-[var(--blue)]/20"
+                          : "hover:bg-[var(--canvas)] active:bg-slate-100"
+                      }`}
+                    >
+                      <div className="relative w-8 h-8 rounded-full overflow-hidden shrink-0 ring-1 ring-black/10">
+                        <Image src={getFlagUrl(option.flag, 32)} alt="" fill className="object-cover" />
+                      </div>
+                      <div className="flex-1 flex flex-col min-w-0">
+                        <span
+                          className={`text-sm leading-tight truncate ${
+                            isSelected
+                              ? "font-bold text-[var(--blue)]"
+                              : "font-semibold text-[var(--navy)]"
+                          }`}
+                        >
+                          {option.nativeName}
+                        </span>
+                        <span className="text-xs text-[var(--mist)] truncate">{option.label}</span>
+                      </div>
+                      {isSelected && (
+                        <Check className="w-4 h-4 text-[var(--blue)] shrink-0" strokeWidth={2.5} />
+                      )}
+                    </button>
+                  );
+                })}
+
+                {filteredLocales.length === 0 && (
+                  <p className="px-3 py-8 text-center text-sm text-[var(--ink-soft)]">
+                    No languages found
+                  </p>
+                )}
+              </div>
+            </div>
+          </div>,
+          document.body
+        )}
     </div>
   );
 }

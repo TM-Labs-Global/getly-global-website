@@ -261,7 +261,7 @@ export default function Footer() {
         <div className="pt-6 sm:pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-white/50">
           <p>©2025 Getly Technologies Limited. All rights reserved.</p>
           <div className="flex items-center gap-4">
-            <LanguageSwitcher isDark={true} />
+            <LanguageSwitcher isDark={true} direction="up" />
             <span className="hidden sm:inline text-white/20">|</span>
             <p className="text-center sm:text-right text-white/70">{t("superAppSubtitle")}</p>
           </div>
