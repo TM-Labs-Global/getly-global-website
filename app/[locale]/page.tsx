@@ -1,3 +1,4 @@
+import Preloader from "@/features/home/components/Preloader";
 import Hero from "@/features/home/components/Hero";
 import PartnerLogos from "@/features/home/components/PartnerLogos";
 import PillarGrid from "@/features/home/components/PillarGrid";
@@ -49,6 +50,7 @@ export default function HomePage() {
     <>
       <JsonLd data={organizationSchema} />
       <JsonLd data={appSchema} />
+      <Preloader />
       
       <div className="w-full max-w-full overflow-x-hidden">
         <Hero />

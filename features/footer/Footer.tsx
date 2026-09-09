@@ -26,15 +26,9 @@ export default function Footer() {
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[300px] bg-[var(--blue)]/15 blur-[120px] pointer-events-none rounded-full" />
 
       <div className="max-w-7xl mx-auto px-6 relative z-10">
-        {/* Brand block sits at its own natural width and the three nav
-            lists are grouped into one flex row that hugs its own content
-            instead of being stretched across equal grid tracks — a 5-column
-            grid gave each short list (Product/Company/Support) a track far
-            wider than its longest line, piling up as dead space to the
-            right of "Support" before the section's border. */}
-        <div className="flex flex-col lg:flex-row lg:items-start lg:justify-between gap-12 pb-12 sm:pb-14 border-b border-white/10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12 pb-12 sm:pb-14 border-b border-white/10">
           {/* Brand Info & Slogan */}
-          <div className="max-w-sm space-y-6">
+          <div className="lg:col-span-2 space-y-6">
             <Link href="/" className="inline-block">
               <div className="relative w-32 sm:w-36 h-9 sm:h-10">
                 <Image
@@ -114,8 +108,6 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Nav columns, packed together by their own content width */}
-          <div className="flex flex-wrap gap-x-16 gap-y-10 sm:gap-x-20">
           {/* Product Links */}
           <div className="space-y-4">
             <h4 className="text-xs font-bold uppercase tracking-wider text-white/50">{t("product")}</h4>
@@ -216,11 +208,10 @@ export default function Footer() {
               </li>
             </ul>
           </div>
-          </div>
         </div>
 
         {/* Regulatory Notice & Contact Information */}
-        <div className="pt-8 sm:pt-10 pb-4 sm:pb-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
+        <div className="pt-8 sm:pt-10 pb-6 sm:pb-8 border-b border-white/10 flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
           <div className="space-y-2 text-xs text-white/60 leading-relaxed max-w-4xl">
             <p>
               Getly Limited, a subsidiary of Takeout Media Ltd, is a technology company working in partnership with licensed financial institutions. We are registered as Money Lending Agents under the High Court of Nigeria and audited for compliance with the Nigeria Data Protection Regulation (NDPR). Registered address: 36 Sokode Crescent, Wuse Zone 5, Abuja, Nigeria. Email:{" "}
@@ -267,7 +258,7 @@ export default function Footer() {
         </div>
 
         {/* Copyright Bar & Language Selector */}
-        <div className="pt-4 sm:pt-6 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-white/50">
+        <div className="pt-6 sm:pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-white/50">
           <p>©2025 Getly Technologies Limited. All rights reserved.</p>
           <div className="flex items-center gap-4">
             <LanguageSwitcher isDark={true} />
