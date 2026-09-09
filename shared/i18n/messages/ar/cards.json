@@ -1,0 +1,56 @@
+{
+  "badge": "بطاقات سفر افتراضية",
+  "title": "بطاقة مخصصة لكل عملية شراء.",
+  "subtitle": "أصدر بطاقات افتراضية فورية للتسوق الدولي، الاشتراكات الرقمية، حجوزات الطيران والمطاعم.",
+  "cta": "إصدار بطاقتك الآن",
+  "features": {
+    "title": "إصدار فوري وتحكم كامل",
+    "desc": "أنشئ بطاقات افتراضية في ثوانٍ من هاتفك الذكي. استخدمها لدى المتاجر الإلكترونية مع إشعارات فورية بكل معاملة.",
+    "item1": "إصدار فوري للبطاقات مع تحديد حدود إنفاق مخصصة",
+    "item2": "تجميد وإلغاء تجميد البطاقة بضغطة زر لأقصى درجات الأمان",
+    "item3": "قبول عالمي لدى المتاجر الإلكترونية وشركات الطيران"
+  },
+  "faq": {
+    "title": "أسئلة شائعة حول البطاقات",
+    "q1": "هل بطاقات جيتلي الافتراضية مقبولة عالمياً؟",
+    "a1": "نعم، تعمل بطاقات جيتلي لدى جميع المتاجر الإلكترونية ومنصات السفر والخدمات الرقمية.",
+    "q2": "هل يمكنني تجميد بطاقتي في حال فقدان الهاتف؟",
+    "a2": "نعم، يمكنك إيقاف وتفعيل أي بطاقة فوراً من لوحة تحكم الأمان في تطبيق جيتلي."
+  },
+  "editions": {
+    "badge": "Card Editions",
+    "title": "A card that looks like you.",
+    "subtitle": "Pick a finish, or carry a piece of the city you love.",
+    "opticsLabel": "Finishes",
+    "landmarkLabel": "Landmark Series"
+  },
+  "protected": {
+    "badge": "Security",
+    "title": "Your card, protected.",
+    "subtitle": "Every Getly card comes with built-in protection — freeze it instantly, set your own limits, and get notified the moment it's used.",
+    "item1": "Freeze your card in one tap, whenever you need to",
+    "item2": "Set your own spending limits, card by card",
+    "item3": "Real-time alerts on every transaction"
+  },
+  "capabilities": {
+    "badge": "Card Features",
+    "title": "Instant Generation & Total Control",
+    "subtitle": "Create virtual cards in seconds right from your smartphone. Use them everywhere online payment cards are accepted with real-time spending notifications.",
+    "item1": {
+      "title": "Instant card creation with custom spending limits",
+      "desc": "Generate a new virtual card in seconds, and set your own spending limit on it — so every card only ever has the power to spend exactly what you allow."
+    },
+    "item2": {
+      "title": "One-tap card freeze and unfreeze",
+      "desc": "For complete peace of mind, freeze any card the moment something feels off, then unfreeze it just as fast the moment you're ready to spend again."
+    },
+    "item3": {
+      "title": "Accepted by merchants everywhere",
+      "desc": "Use your Getly card across online stores and flight bookings worldwide, wherever payment cards are accepted."
+    },
+    "item4": {
+      "title": "Funded straight from your wallet",
+      "desc": "No separate top-up step. Every virtual card draws instantly from your Getly wallet balance the moment you spend."
+    }
+  }
+}

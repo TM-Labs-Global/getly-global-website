@@ -1,0 +1,33 @@
+:root {
+  /* Brand Colors */
+  --blue: #0069ff;
+  --blue-600: #0057d6;
+  --blue-700: #0044ad;
+  --navy: #0f184c;
+  --amber: #f0ad4e;
+  --lemon: #f3ff00; /* Getly Electric Lemon */
+  --green: #16a672;
+  --red: #e4463d;
+
+  /* Surface & Ink Colors */
+  --ink: #0f184c;
+  --ink-soft: #494c4f;
+  --mist: #7e868c;
+  --canvas: #eff6ff;
+  --surface: #ffffff;
+  --surface-2: #f5f9ff;
+  --line: #d7e6fb;
+  --line-strong: #b7d1f5;
+
+  /* Radius Scale */
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 20px;
+  --r-xl: 28px;
+  --r-full: 999px;
+
+  /* Shadows & Elevation */
+  --shadow-flat: 0 1px 2px rgba(15, 24, 76, 0.07);
+  --shadow-soft: 0 1px 3px rgba(15, 24, 76, 0.05), 0 20px 40px -18px rgba(15, 24, 76, 0.2);
+  --shadow-glow: inset 0 1px 1px rgba(255, 255, 255, 0.35), 0 4px 15px rgba(0, 105, 255, 0.4);
+}

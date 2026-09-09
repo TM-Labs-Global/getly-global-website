@@ -1,0 +1,54 @@
+{
+  "badge": "Legal & Regulatory Compliance",
+  "lastUpdated": "Last updated: September 2026",
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "How Getly collects, uses, and safeguards your personal data and travel information.",
+    "section1Title": "1. Information We Collect",
+    "section1Desc": "Getly collects personal information necessary to deliver travel services, wallet management, eSIM provisioning, hotel stays, and flight bookings. This includes profile information, identity verification records, device technical specifications, and transaction logs.",
+    "section2Title": "2. How We Use Your Information",
+    "section2Desc": "We process your information strictly to operate the Getly super app, verify identity, deliver eSIM profiles, process payment transactions, prevent fraudulent behavior, and comply with regulatory obligations.",
+    "section3Title": "3. Data Security & Storage",
+    "section3Desc": "We implement multi-layered encryption, biometric authentication, and strict access controls to safeguard your personal data against unauthorized access, loss, or misuse."
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "description": "General Terms of Service and user agreement for the Getly mobile app and platform.",
+    "section1Title": "1. Acceptance of Terms",
+    "section1Desc": "By downloading, accessing, or using the Getly mobile application or website, you agree to be bound by these Terms of Service.",
+    "section2Title": "2. Services Provided",
+    "section2Desc": "Getly provides multi-currency wallet functionality, virtual travel card issuance, global eSIM mobile data plans, flight bookings, hotel reservations, travel insurance, and digital visa support in partnership with licensed financial and travel providers.",
+    "section3Title": "3. User Responsibilities",
+    "section3Desc": "You agree to provide accurate identification details, maintain the security of your device credentials, and utilize the services in compliance with all applicable local and international laws."
+  },
+  "cookie": {
+    "title": "Cookie Policy",
+    "description": "How Getly uses cookies and local storage to optimize your browsing and app experience.",
+    "section1Title": "1. What Are Cookies",
+    "section1Desc": "Cookies and local storage tokens are small data files placed on your browser or device that allow us to remember your preferences and ensure secure sessions.",
+    "section2Title": "2. How We Use Cookies",
+    "section2Desc": "Getly uses essential cookies for secure session management and authentication, functional cookies to store language and currency preferences, and aggregated analytics cookies to monitor platform performance.",
+    "section3Title": "3. Managing Your Preferences",
+    "section3Desc": "You can customize or disable non-essential cookies at any time through your browser settings or directly via our website preference controls."
+  },
+  "aml": {
+    "title": "Anti-Money Laundering (AML) Policy",
+    "description": "Getly's Anti-Money Laundering, Counter-Terrorist Financing, and Know Your Customer (KYC) standards.",
+    "section1Title": "1. Compliance Framework",
+    "section1Desc": "Getly maintains strict Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF) procedures in compliance with international FATF recommendations and regional regulatory bodies.",
+    "section2Title": "2. Identity Verification (KYC)",
+    "section2Desc": "All users undergo tiered Customer Due Diligence (CDD) before accessing high-limit wallet services, card issuance, or booking tools, including biometric liveness checks and government document verification.",
+    "section3Title": "3. Transaction Monitoring & Sanctions",
+    "section3Desc": "Automated monitoring systems scan activity in real time against global sanctions lists, PEP databases, and suspicious activity patterns to prevent financial crime."
+  },
+  "complaints": {
+    "title": "Complaints & Dispute Resolution",
+    "description": "How Getly handles customer complaints, escalations, and dispute resolution.",
+    "section1Title": "1. Our Commitment",
+    "section1Desc": "We strive to deliver exceptional service. If you experience an issue with your wallet, card, eSIM, or booking, our dedicated support team is available 24/7 to resolve your concern promptly.",
+    "section2Title": "2. How to Submit a Complaint",
+    "section2Desc": "You can submit an official complaint directly through the in-app Help Center or by emailing complaints@getly.app with your transaction reference and issue details.",
+    "section3Title": "3. Resolution Timelines & Escalation",
+    "section3Desc": "We acknowledge all formal complaints within 24 hours and aim to provide a full resolution within 15 business days. If you remain unsatisfied, you have the right to escalate the matter to independent dispute resolution authorities."
+  }
+}

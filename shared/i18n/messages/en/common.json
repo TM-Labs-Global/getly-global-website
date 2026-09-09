@@ -1,0 +1,54 @@
+{
+  "brand": {
+    "name": "Getly",
+    "headline": "The Super App For Modern Traveller",
+    "slogan": "Turning unfamiliar places into unforgettable experiences."
+  },
+  "nav": {
+    "home": "Home",
+    "wallet": "Wallet",
+    "cards": "Travel Cards",
+    "esim": "eSIM",
+    "flights": "Flights",
+    "hotels": "Hotels",
+    "insurance": "Insurance",
+    "visa": "Visa",
+    "aiTripPlanner": "AI Trip Planner",
+    "coverage": "Coverage",
+    "security": "Security",
+    "pricing": "Fees",
+    "downloadApp": "Get the App",
+    "products": "Products",
+    "company": "Company",
+    "resources": "Resources",
+    "howItWorks": "How It Works"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Turning unfamiliar places into unforgettable experiences.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "support": "Support",
+    "aboutUs": "About Us",
+    "press": "Press & Media",
+    "blog": "Blog & News",
+    "faq": "Help & FAQ",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "superAppSubtitle": "Global Travel Super App",
+    "downloadCTA": "Experience modern global travel"
+  },
+  "buttons": {
+    "getApp": "Get Getly App",
+    "exploreFeatures": "Explore Features",
+    "learnMore": "Discover details",
+    "fundWallet": "Fund Wallet",
+    "getCard": "Get Card Now",
+    "buyEsim": "Buy Global eSIM",
+    "bookFlight": "Book Flight",
+    "bookHotel": "Book Hotel",
+    "getInsurance": "Get Travel Protection",
+    "applyVisa": "Apply for Visa"
+  }
+}

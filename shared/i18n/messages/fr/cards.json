@@ -1,0 +1,56 @@
+{
+  "badge": "Cartes de Voyage Virtuelles",
+  "title": "Une carte pour chaque achat.",
+  "subtitle": "Générez des cartes virtuelles instantanées pour vos achats en ligne, abonnements, vols et restaurants.",
+  "cta": "Obtenir une Carte",
+  "features": {
+    "title": "Génération Instantanée & Contrôle Total",
+    "desc": "Créez vos cartes virtuelles en quelques secondes depuis votre smartphone. Utilisez-les sur tous les sites marchands avec notifications d'achat en temps réel.",
+    "item1": "Création instantanée avec plafonds de dépenses personnalisés",
+    "item2": "Verrouillage et déverrouillage d'un simple geste pour une sécurité totale",
+    "item3": "Acceptation mondiale sur les boutiques en ligne et compagnies aériennes"
+  },
+  "faq": {
+    "title": "FAQ Cartes",
+    "q1": "Les cartes virtuelles Getly sont-elles acceptées dans le monde entier ?",
+    "a1": "Oui, elles fonctionnent sur les plateformes de commerce en ligne internationales, sites de voyage et abonnements.",
+    "q2": "Puis-je bloquer ma carte en cas d'imprévu ?",
+    "a2": "Oui, vous pouvez geler et réactiver n'importe quelle carte d'un simple clic dans votre tableau de bord."
+  },
+  "editions": {
+    "badge": "Card Editions",
+    "title": "A card that looks like you.",
+    "subtitle": "Pick a finish, or carry a piece of the city you love.",
+    "opticsLabel": "Finishes",
+    "landmarkLabel": "Landmark Series"
+  },
+  "protected": {
+    "badge": "Security",
+    "title": "Your card, protected.",
+    "subtitle": "Every Getly card comes with built-in protection — freeze it instantly, set your own limits, and get notified the moment it's used.",
+    "item1": "Freeze your card in one tap, whenever you need to",
+    "item2": "Set your own spending limits, card by card",
+    "item3": "Real-time alerts on every transaction"
+  },
+  "capabilities": {
+    "badge": "Card Features",
+    "title": "Instant Generation & Total Control",
+    "subtitle": "Create virtual cards in seconds right from your smartphone. Use them everywhere online payment cards are accepted with real-time spending notifications.",
+    "item1": {
+      "title": "Instant card creation with custom spending limits",
+      "desc": "Generate a new virtual card in seconds, and set your own spending limit on it — so every card only ever has the power to spend exactly what you allow."
+    },
+    "item2": {
+      "title": "One-tap card freeze and unfreeze",
+      "desc": "For complete peace of mind, freeze any card the moment something feels off, then unfreeze it just as fast the moment you're ready to spend again."
+    },
+    "item3": {
+      "title": "Accepted by merchants everywhere",
+      "desc": "Use your Getly card across online stores and flight bookings worldwide, wherever payment cards are accepted."
+    },
+    "item4": {
+      "title": "Funded straight from your wallet",
+      "desc": "No separate top-up step. Every virtual card draws instantly from your Getly wallet balance the moment you spend."
+    }
+  }
+}

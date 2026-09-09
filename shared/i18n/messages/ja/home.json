@@ -1,0 +1,163 @@
+{
+  "hero": {
+    "badge": "グローバルトラベルスーパーアプリ",
+    "headline": "現代の旅行者のためのスーパーアプリ",
+    "headlineLine1": "現代の旅行者のための",
+    "headlineLine2": "スーパーアプリ",
+    "subhead": "見知らぬ場所を、忘れられない特別な体験に。世界中で使えるマルチ通貨ウォレット、バーチャルカード、eSIM、航空券・ホテル予約、旅行保険、ビザ申請がひとつに。",
+    "ctaPrimary": "アプリをダウンロード",
+    "ctaSecondary": "機能を見る"
+  },
+  "ticker": [
+    "グローバルウォレット",
+    "バーチャルカード",
+    "グローバルeSIM",
+    "航空券予約",
+    "ホテル宿泊",
+    "旅行保険",
+    "ビザ申請",
+    "AI旅行プランナー",
+    "即時チャージ",
+    "マルチ通貨対応"
+  ],
+  "partners": {
+    "backedBy": "世界中の業界リーダーから信頼されています"
+  },
+  "pillars": {
+    "title": "旅に必要なすべてを、ひとつのアプリに。",
+    "subtitle": "旅行の準備に煩わされる必要はありません。Getlyはお金、通信、宿泊、航空券をスマートに統合します。",
+    "wallet": {
+      "eyebrow": "グローバルウォレット",
+      "headlineLine1": "ひとつのウォレットで、",
+      "headlineLine2": "世界中どこでも使える。",
+      "desc": "チャージ、世界中での決済、引き出しも自由自在。",
+      "cta": "ウォレットを見る",
+      "badge": "世界中で決済可能"
+    },
+    "cards": {
+      "eyebrow": "バーチャルカード",
+      "headlineLine1": "あらゆる支払いに、",
+      "headlineLine2": "即時発行カードを。",
+      "desc": "ウォレット残高から即座にバーチャルカードを発行して利用可能。",
+      "cta": "カードを見る",
+      "badge": "即時発行"
+    },
+    "esim": {
+      "eyebrow": "グローバルeSIM",
+      "headlineLine1": "着陸と同時に、",
+      "headlineLine2": "すぐにつながる。",
+      "desc": "物理SIM不要。データプランを選んで数秒で接続。",
+      "cta": "eSIMを見る",
+      "badge": "180カ国以上対応"
+    },
+    "flights": {
+      "eyebrow": "航空券予約",
+      "headlineLine1": "ウォレットから、",
+      "headlineLine2": "直接フライトを予約。",
+      "desc": "アプリから離れずに400社以上の航空会社を検索・予約。",
+      "cta": "フライトを見る",
+      "badge": "HND → CDG"
+    },
+    "hotels": {
+      "eyebrow": "ホテル宿泊",
+      "headlineLine1": "旅のスタイルに合わせた",
+      "headlineLine2": "最適な宿泊施設。",
+      "desc": "世界中の厳選ブティックホテルやリゾートを残高から直接予約。",
+      "cta": "ホテルを見る",
+      "badge": "100万軒以上"
+    },
+    "insurance": {
+      "eyebrow": "旅行保険",
+      "headlineLine1": "着陸したその瞬間から、",
+      "headlineLine2": "安心の包括補償。",
+      "desc": "緊急医療費、手荷物紛失、フライト遅延をワンタップでカバー。",
+      "cta": "保険を見る",
+      "badge": "24時間年中無休対応"
+    },
+    "visa": {
+      "eyebrow": "ビザ申請",
+      "headlineLine1": "手間なくスムーズな",
+      "headlineLine2": "ビザ手続き。",
+      "desc": "入国要件を確認し、デジタル書類を提出して進捗をリアルタイム追跡。",
+      "cta": "ビザを見る",
+      "badge": "120以上の目的地"
+    }
+  },
+  "pillarsIcons": {
+    "eyebrow": "Super App Features",
+    "headlineLine1": "Everything you need",
+    "headlineLine2": "in one app.",
+    "subtitle": "Travel is already complicated enough. Getly combines your wallet, travel cards, eSIM, and flights in one place."
+  },
+  "ai": {
+    "badge": "Getly AI コンパニオン",
+    "title": "あなた専用の日程表とスマートな旅行ガイド",
+    "subtitle": "Getly AIが1日の予算を計画し、おすすめスポットを提案し、旅の準備をサポートします。",
+    "cta": "AIプランナーを体験",
+    "feature1Title": "スマートな旅程作成",
+    "feature1Desc": "旅行スタイルに合わせて、数秒で日ごとのスケジュールを自動生成。",
+    "feature2Title": "予算ガイド",
+    "feature2Desc": "現地通貨で食事や交通費などの1日の目安費用を自動算出。",
+    "hoverHint": "カーソルを合わせてGetly AIを体験"
+  },
+  "howItWorks": {
+    "badge": "シンプルな手順",
+    "title": "Getlyの使い方",
+    "subtitle": "簡単4ステップでスタート",
+    "step1Eyebrow": "ステップ 1",
+    "step1Title": "Getlyアプリをダウンロード",
+    "step1Desc": "App StoreまたはGoogle Playから入手し、すぐに本人確認を完了。",
+    "step2Eyebrow": "ステップ 2",
+    "step2Title": "ウォレットに入金",
+    "step2Desc": "デビットカードや銀行決済などの手段で簡単に入金。",
+    "step3Eyebrow": "ステップ 3",
+    "step3Title": "カード作成＆eSIM開通",
+    "step3Desc": "バーチャルカードを発行し、高速eSIMデータを開通。",
+    "step4Eyebrow": "ステップ 4",
+    "step4Title": "世界中をスマートに旅する",
+    "step4Desc": "海外決済、フライト予約、ホテル宿泊まで安心して楽しめます。"
+  },
+  "trust": {
+    "badge": "旅行者に選ばれる理由",
+    "headlineLine1": "180以上の国と地域で",
+    "headlineLine2": "選ばれています。",
+    "subtitle": "透明な手数料、リアルタイムのサポート、そしてどこにいても同じように使えるウォレット。",
+    "stat1Value": "世界対応",
+    "stat1Label": "旅行者のための専用設計",
+    "stat2Value": "0円",
+    "stat2Label": "カード発行手数料*",
+    "stat3Value": "24/7",
+    "stat3Label": "アプリ内サポート",
+    "stat4Value": "1アプリ",
+    "stat4Label": "旅のすべてをひとつに"
+  },
+  "coverage": {
+    "badge": "グローバル対応",
+    "title": "180カ国以上の目的地に対応",
+    "subtitle": "航空券予約、eSIM接続、バーチャルカード決済まで、Getlyが常にあなたをサポート。",
+    "viewAll": "対応国と通信エリアをすべて見る",
+    "feature1": "着陸した瞬間からeSIMデータがすぐ使える",
+    "feature2": "手動両替不要のマルチ通貨ウォレット",
+    "feature3": "バーチャルカードはオンラインのどこでも利用可能"
+  },
+  "faq": {
+    "badge": "よくある質問",
+    "title": "よくある質問",
+    "subtitle": "Getlyに関するご質問に分かりやすくお答えします。",
+    "viewAll": "すべてのよくある質問を見る",
+    "q1": "Getlyとは何ですか？",
+    "a1": "Getlyは現代の旅行者やビジネスパーソン向けのスーパーアプリです。マルチ通貨ウォレット、バーチャルカード、eSIM、フライト・ホテル予約、旅行保険、ビザ申請を統合しています。",
+    "q2": "ウォレットへの入金方法を教えてください。",
+    "a2": "デビットカードや銀行決済オプション、主要な国際決済手段から即座に入金できます。",
+    "q3": "グローバルeSIMはどのように機能しますか？",
+    "a3": "180カ国以上に対応したデジタルeSIMプロファイルを提供しています。QRコードまたはアプリ内からワンタップで即座に接続できます。",
+    "q4": "ウォレット残高で航空券やホテルを予約できますか？",
+    "a4": "はい！400社以上の航空券と100万軒以上のホテルを、不当な為替手数料なしに残高から直接予約できます。"
+  },
+  "download": {
+    "eyebrow": "あなたの旅はここから始まる",
+    "headlineLine1": "ひとつのアプリで、",
+    "headlineLine2": "広がる世界へ。",
+    "subtitle": "Getlyをダウンロードして、ウォレット、ネット環境、予約、旅の相棒をいつでも手元に。"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "badge": "Gestión Digital de Visados",
+  "title": "Visados rápidos sin complicaciones.",
+  "subtitle": "Verifica requisitos de entrada, envía tus documentos con seguridad y sigue el estado de tu visado en tiempo real.",
+  "cta": "Consultar Requisitos de Visado",
+  "features": {
+    "title": "Comprobación Inteligente y Aprobación Rápida",
+    "desc": "Conoce los documentos exactos que necesitas antes de comprar vuelos. Getly agiliza formularios y emisión de visados.",
+    "item1": "Comprobación de requisitos y visados electrónicos para más de 120 países",
+    "item2": "Bóveda digital segura con escaneo automatizado de pasaporte",
+    "item3": "Seguimiento en directo con notificaciones push sobre el estado consular"
+  },
+  "visual": {
+    "tag": "Inmigración Global",
+    "title": "120+ Destinos Admitidos",
+    "badge": "Vía Rápida"
+  },
+  "faq": {
+    "title": "Preguntas sobre Visados",
+    "q1": "¿Con qué rapidez se procesan los visados?",
+    "a1": "El tiempo depende del país de destino, desde 24 horas para visados electrónicos hasta plazos consulares estándar.",
+    "q2": "¿Mis datos y documentos están protegidos?",
+    "a2": "Todos los documentos se cifran con los más altos estándares y se envían únicamente a entidades oficiales acreditadas."
+  }
+}

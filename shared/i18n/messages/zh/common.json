@@ -1,0 +1,54 @@
+{
+  "brand": {
+    "name": "Getly",
+    "headline": "专为现代旅行者打造的超级应用",
+    "slogan": "让每一次探索都成为难忘的精彩体验。"
+  },
+  "nav": {
+    "home": "首页",
+    "wallet": "多币种钱包",
+    "cards": "旅行卡",
+    "esim": "全球 eSIM",
+    "flights": "机票预订",
+    "hotels": "全球酒店",
+    "insurance": "旅行保障",
+    "visa": "签证办理",
+    "aiTripPlanner": "AI 行程助手",
+    "coverage": "覆盖国家",
+    "security": "安全保障",
+    "pricing": "资费说明",
+    "downloadApp": "下载应用",
+    "products": "Products",
+    "company": "Company",
+    "resources": "Resources",
+    "howItWorks": "How It Works"
+  },
+  "footer": {
+    "rights": "版权所有。",
+    "tagline": "让每一次探索都成为难忘的精彩体验。",
+    "product": "产品功能",
+    "company": "关于我们",
+    "legal": "法律条款",
+    "support": "帮助支持",
+    "aboutUs": "公司介绍",
+    "press": "媒体中心",
+    "blog": "官方博客",
+    "faq": "常见问题",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "superAppSubtitle": "全球旅行超级应用",
+    "downloadCTA": "开启属于您的全球现代旅行"
+  },
+  "buttons": {
+    "getApp": "获取 Getly 应用",
+    "exploreFeatures": "探索全部功能",
+    "learnMore": "了解详情",
+    "fundWallet": "钱包充值",
+    "getCard": "立即开卡",
+    "buyEsim": "购买全球 eSIM",
+    "bookFlight": "预订机票",
+    "bookHotel": "预订酒店",
+    "getInsurance": "获取旅行保障",
+    "applyVisa": "申请签证"
+  }
+}

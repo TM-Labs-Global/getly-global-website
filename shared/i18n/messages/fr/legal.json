@@ -1,0 +1,54 @@
+{
+  "badge": "Conformité Légale & Réglementaire",
+  "lastUpdated": "Dernière mise à jour : Septembre 2026",
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "description": "Comment Getly collecte, utilise et protège vos données personnelles et vos informations de voyage.",
+    "section1Title": "1. Informations Collectées",
+    "section1Desc": "Getly collecte les données personnelles indispensables à la fourniture des services de voyage, à la gestion du portefeuille, à l'activation des forfaits eSIM, aux hôtels et aux réservations de vols.",
+    "section2Title": "2. Utilisation de vos Données",
+    "section2Desc": "Nous traitons vos données exclusivement pour faire fonctionner l'application Getly, vérifier votre identité, activer vos profils eSIM, exécuter vos paiements et prévenir toute activité frauduleuse.",
+    "section3Title": "3. Sécurité et Conservation",
+    "section3Desc": "Nous appliquons un chiffrement multicouche, une authentification biométrique et des protocoles d'accès rigoureux pour préserver l'intégrité de vos données."
+  },
+  "terms": {
+    "title": "Conditions Générales d'Utilisation",
+    "description": "Conditions générales d'utilisation et contrat d'utilisateur pour l'application et la plateforme Getly.",
+    "section1Title": "1. Acceptation des Conditions",
+    "section1Desc": "En téléchargeant, consultant ou utilisant l'application mobile ou le site Getly, vous acceptez d'être lié par les présentes Conditions Générales d'Utilisation.",
+    "section2Title": "2. Services Fournis",
+    "section2Desc": "Getly propose des fonctionnalités de portefeuille multi-devises, l'émission de cartes virtuelles, des forfaits de données mobiles eSIM, des réservations de vols, d'hôtels, des assurances et des visas digitaux avec des partenaires agréés.",
+    "section3Title": "3. Responsabilités de l'Utilisateur",
+    "section3Desc": "Vous vous engagez à fournir des informations d'identité exactes, à préserver la confidentialité de vos identifiants et à utiliser nos services dans le respect des lois en vigueur."
+  },
+  "cookie": {
+    "title": "Politique des Cookies",
+    "description": "Comment Getly utilise les cookies et le stockage local pour optimiser votre navigation.",
+    "section1Title": "1. Qu'est-ce qu'un Cookie",
+    "section1Desc": "Les cookies et éléments de stockage local sont de petits fichiers déposés sur votre navigateur permettant de mémoriser vos préférences et de sécuriser vos sessions.",
+    "section2Title": "2. Utilisation des Cookies",
+    "section2Desc": "Getly utilise des cookies essentiels pour la sécurité et l'authentification, des cookies fonctionnels pour enregistrer vos préférences de langue et de devises, et des cookies analytiques agrégés.",
+    "section3Title": "3. Gestion de vos Préférences",
+    "section3Desc": "Vous pouvez à tout moment personnaliser ou désactiver les cookies non essentiels depuis les paramètres de votre navigateur ou via notre outil de préférences."
+  },
+  "aml": {
+    "title": "Politique Anti-Blanchiment (AML)",
+    "description": "Normes Getly en matière de lutte contre le blanchiment d'argent et vérification d'identité (KYC).",
+    "section1Title": "1. Cadre Réglementaire",
+    "section1Desc": "Getly applique des procédures strictes de lutte contre le blanchiment d'argent (AML) et le financement du terrorisme (CTF) conformément aux recommandations du GAFI.",
+    "section2Title": "2. Vérification d'Identité (KYC)",
+    "section2Desc": "Tous les utilisateurs font l'objet d'une procédure de vigilance (CDD) adaptée avant d'accéder aux plafonds élevés de portefeuille ou à l'émission de cartes.",
+    "section3Title": "3. Surveillance & Sanctions",
+    "section3Desc": "Des systèmes automatisés analysent les transactions en temps réel et vérifient les listes de sanctions internationales pour prévenir la criminalité financière."
+  },
+  "complaints": {
+    "title": "Réclamations & Résolution des Litiges",
+    "description": "Comment Getly traite les réclamations clients et la médiation.",
+    "section1Title": "1. Notre Engagement",
+    "section1Desc": "Nous accordons une priorité absolue à la satisfaction client. Notre équipe d'assistance dédiée est joignable 24/7 pour répondre à vos questions.",
+    "section2Title": "2. Soumettre une Réclamation",
+    "section2Desc": "Vous pouvez formuler une réclamation officielle depuis le centre d'aide de l'application ou par courriel à complaints@getly.app.",
+    "section3Title": "3. Délais de Traitement",
+    "section3Desc": "Nous accusons réception de toute réclamation sous 24 heures et apportons une réponse circonstanciée dans un délai maximum de 15 jours ouvrés."
+  }
+}

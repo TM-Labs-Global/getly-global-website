@@ -1,0 +1,25 @@
+{
+  "badge": "Alojamiento Mundial",
+  "title": "Alojamientos a medida para cada viaje.",
+  "subtitle": "Reserva hoteles boutique, apartamentos y resorts en más de 180 países directamente con tu billetera multidivisa.",
+  "cta": "Reservar Hoteles en la App",
+  "features": {
+    "title": "Reservas Transparentes en Tiempo Real",
+    "desc": "Sin sorpresas de tipo de cambio al pagar. Asegura tu estancia con tarifas locales claras y confirmación instantánea.",
+    "item1": "Acceso a más de 1,000,000 de alojamientos verificados",
+    "item2": "Paga directamente con saldo multidivisa sin sobrecostes de cambio",
+    "item3": "Cancelación flexible y soporte de reservas 24/7 en la app"
+  },
+  "visual": {
+    "tag": "Estancias Seleccionadas",
+    "title": "Check-in Rápido y Llaves Digitales",
+    "badge": "180+ Países"
+  },
+  "faq": {
+    "title": "Preguntas sobre Hoteles",
+    "q1": "¿Cómo pago las reservas de hotel en Getly?",
+    "a1": "Puedes pagar al instante usando el saldo de tu billetera Getly o tu tarjeta virtual sin tarifas internacionales.",
+    "q2": "¿Los precios son definitivos sin cargos ocultos?",
+    "a2": "Sí, el precio mostrado en la app es el importe exacto con todos los impuestos incluidos."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "badge": "Global eSIM Connectivity",
+  "title": "Global data plans. Zero physical SIM cards.",
+  "subtitle": "Land in any country and connect to high-speed internet instantly without expensive roaming fees.",
+  "cta": "Get eSIM Data",
+  "features": {
+    "title": "Instant Activation in 180+ Destinations",
+    "desc": "No more searching for local SIM kiosks at airport arrivals. Getly lets you browse regional data packages, install via QR code, and connect the moment your flight lands.",
+    "item1": "Instant QR code or 1-tap in-app profile installation",
+    "item2": "Flexible local, regional, and global data bundles",
+    "item3": "Zero roaming bill surprises when traveling abroad"
+  },
+  "faq": {
+    "title": "eSIM FAQs",
+    "q1": "Is my smartphone compatible with Getly eSIM?",
+    "a1": "Most modern smartphones from Apple, Google, and Samsung support eSIM technology. You can check compatibility instantly in the app.",
+    "q2": "Do I lose my primary phone number when using Getly eSIM?",
+    "a2": "No. Your eSIM operates alongside your physical SIM, allowing you to keep your primary number active for WhatsApp and messages."
+  }
+}

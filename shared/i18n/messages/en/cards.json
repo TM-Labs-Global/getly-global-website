@@ -1,0 +1,56 @@
+{
+  "badge": "Virtual Travel Cards",
+  "title": "A card for every purchase.",
+  "subtitle": "Generate instant virtual cards for global shopping, subscriptions, flight bookings, and travel dining.",
+  "cta": "Get Card Now",
+  "features": {
+    "title": "Instant Generation & Total Control",
+    "desc": "Create virtual cards in seconds right from your smartphone. Use them everywhere online payment cards are accepted with real-time spending notifications.",
+    "item1": "Instant card creation with custom spending limits",
+    "item2": "One-tap card freeze and unfreeze for complete peace of mind",
+    "item3": "Global merchant acceptance across online stores and flight bookings"
+  },
+  "faq": {
+    "title": "Virtual Cards FAQs",
+    "q1": "Are Getly virtual cards accepted worldwide?",
+    "a1": "Yes, Getly virtual cards work across international online merchants, travel platforms, and digital subscription services.",
+    "q2": "Can I freeze my card if I misplace my device?",
+    "a2": "Yes, you can freeze and unfreeze any virtual card with a single tap in your Getly security dashboard."
+  },
+  "editions": {
+    "badge": "Card Editions",
+    "title": "A card that looks like you.",
+    "subtitle": "Pick a finish, or carry a piece of the city you love.",
+    "opticsLabel": "Finishes",
+    "landmarkLabel": "Landmark Series"
+  },
+  "protected": {
+    "badge": "Security",
+    "title": "Your card, protected.",
+    "subtitle": "Every Getly card comes with built-in protection — freeze it instantly, set your own limits, and get notified the moment it's used.",
+    "item1": "Freeze your card in one tap, whenever you need to",
+    "item2": "Set your own spending limits, card by card",
+    "item3": "Real-time alerts on every transaction"
+  },
+  "capabilities": {
+    "badge": "Card Features",
+    "title": "Instant Generation & Total Control",
+    "subtitle": "Create virtual cards in seconds right from your smartphone. Use them everywhere online payment cards are accepted with real-time spending notifications.",
+    "item1": {
+      "title": "Instant card creation with custom spending limits",
+      "desc": "Generate a new virtual card in seconds, and set your own spending limit on it — so every card only ever has the power to spend exactly what you allow."
+    },
+    "item2": {
+      "title": "One-tap card freeze and unfreeze",
+      "desc": "For complete peace of mind, freeze any card the moment something feels off, then unfreeze it just as fast the moment you're ready to spend again."
+    },
+    "item3": {
+      "title": "Accepted by merchants everywhere",
+      "desc": "Use your Getly card across online stores and flight bookings worldwide, wherever payment cards are accepted."
+    },
+    "item4": {
+      "title": "Funded straight from your wallet",
+      "desc": "No separate top-up step. Every virtual card draws instantly from your Getly wallet balance the moment you spend."
+    }
+  }
+}

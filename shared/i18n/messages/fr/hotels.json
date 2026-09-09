@@ -1,0 +1,25 @@
+{
+  "badge": "Hébergements Mondiaux",
+  "title": "Des hébergements adaptés à chaque voyage.",
+  "subtitle": "Réservez des hôtels de charme, appartements urbains et complexes de luxe dans plus de 180 pays directement depuis votre portefeuille.",
+  "cta": "Réserver des Hôtels dans l'App",
+  "features": {
+    "title": "Réservations Fluides et Tarifs en Temps Réel",
+    "desc": "Aucune mauvaise surprise de change au moment de régler. Bloquez votre hébergement avec des tarifs locaux clairs.",
+    "item1": "Accès à plus d'un million d'établissements vérifiés",
+    "item2": "Paiement direct depuis votre solde sans frais de change cachés",
+    "item3": "Annulation flexible et support dédié 24h/24 dans l'application"
+  },
+  "visual": {
+    "tag": "Séjours d'Exception",
+    "title": "Enregistrement Rapide & Clés Digitales",
+    "badge": "180+ Pays"
+  },
+  "faq": {
+    "title": "Questions sur les Hôtels",
+    "q1": "Comment régler mes réservations d'hôtel sur Getly ?",
+    "a1": "Vous pouvez payer instantanément depuis votre solde Getly ou avec votre carte virtuelle sans frais internationaux.",
+    "q2": "Les prix affichés sont-ils garantis sans frais cachés ?",
+    "a2": "Oui, le prix affiché dans l'application est le montant exact débité, toutes taxes incluses."
+  }
+}

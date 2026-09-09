@@ -1,0 +1,28 @@
+# Getly
+
+> The Super App For Modern Traveller — one hidden global wallet, virtual
+> cards, eSIM, flight bookings, hotel stays, travel protection, and visa processing
+> in a single app for travellers, immigrants, and professionals.
+
+## Product
+- [Wallet](https://getly.app/wallet): One wallet, every currency you touch.
+- [Cards](https://getly.app/cards): A virtual card for every purchase.
+- [eSIM](https://getly.app/esim): Global data plans, no physical SIM.
+- [Flights & Bookings](https://getly.app/flights): Book flights without leaving your wallet.
+- [Hotel Stays](https://getly.app/hotels): Book boutique stays worldwide.
+- [Travel Protection](https://getly.app/insurance): Comprehensive global travel and health coverage.
+- [Visa Processing](https://getly.app/visa): Digital visa assistance and entry requirement checks.
+- [AI Trip Planner](https://getly.app/ai-trip-planner): Personalised itineraries and budget planning.
+
+## Company
+- [About](https://getly.app/about): Mission and story.
+- [Security & Trust](https://getly.app/security): How Getly protects your money.
+- [Countries & Coverage](https://getly.app/coverage): Where Getly works.
+
+## Support
+- [FAQ](https://getly.app/faq): Common questions, by category.
+- [Help](https://getly.app/faq): Contact support.
+
+## Optional
+- [Blog](https://getly.app/blog): Product updates and travel content.
+- [Press](https://getly.app/press): Press mentions and coverage.

@@ -1,0 +1,20 @@
+{
+  "badge": "Globale eSIM-Konnektivität",
+  "title": "Weltweite Datentarife. Keine physische SIM-Karte.",
+  "subtitle": "In jedem Land landen und sofort mit Highspeed-Internet verbinden – ganz ohne teure Roaming-Kosten.",
+  "cta": "eSIM-Daten holen",
+  "features": {
+    "title": "Sofortige Aktivierung in 180+ Reisezielen",
+    "desc": "Kein langes Suchen nach SIM-Schaltern am Flughafen. Wählen Sie regionale Datenpakete und installieren Sie Ihr Profil direkt nach der Landung.",
+    "item1": "Sofortige Installation per QR-Code oder 1-Klick-In-App-Aktivierung",
+    "item2": "Flexible lokale, regionale und weltweite Datenpakete",
+    "item3": "Keine unerwarteten Roaming-Rechnungen im Ausland"
+  },
+  "faq": {
+    "title": "eSIM FAQs",
+    "q1": "Ist mein Smartphone mit Getly eSIM kompatibel?",
+    "a1": "Die meisten modernen Geräte von Apple, Google und Samsung unterstützen eSIM. Sie können dies in der App prüfen.",
+    "q2": "Behalte ich meine normale Handynummer?",
+    "a2": "Ja, die eSIM arbeitet parallel zu Ihrer physischen SIM, sodass Ihre WhatsApp-Nummer und Anrufe aktiv bleiben."
+  }
+}

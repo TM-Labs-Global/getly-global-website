@@ -1,0 +1,25 @@
+{
+  "badge": "Digitale Visumsabwicklung",
+  "title": "Schnelle Visa ohne bürokratischen Stress.",
+  "subtitle": "Einreisebestimmungen prüfen, Reisedokumente sicher hochladen und Visumsanträge mit lizenzierten Experten verfolgen.",
+  "cta": "Visumsbestimmungen prüfen",
+  "features": {
+    "title": "Smarte Eignungsprüfung & Schnelle Bearbeitung",
+    "desc": "Wissen Sie genau, welche Dokumente Sie vor der Flugbuchung benötigen. Getly erleichtert eVisa- und Botschaftsanträge.",
+    "item1": "Prüfung von Einreisebestimmungen und eVisas für über 120 Länder",
+    "item2": "Verschlüsselter Dokumentensafe mit automatischem Pass-Scan",
+    "item3": "Live-Statusverfolgung mit Push-Nachrichten bei Genehmigung"
+  },
+  "visual": {
+    "tag": "Globale Einreise",
+    "title": "120+ Unterstützte Länder",
+    "badge": "Express-Verfahren"
+  },
+  "faq": {
+    "title": "Visums-FAQs",
+    "q1": "Wie schnell werden eVisas bearbeitet?",
+    "a1": "Die Dauer variiert je nach Land, von 24 Stunden bei automatisierten eVisas bis hin zu Standardfristen bei Konsulaten.",
+    "q2": "Sind meine Passdaten geschützt?",
+    "a2": "Alle Dokumente werden nach höchsten Sicherheitsstandards verschlüsselt und nur an offizielle Behörden übermittelt."
+  }
+}

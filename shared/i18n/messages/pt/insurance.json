@@ -1,0 +1,25 @@
+{
+  "badge": "Proteção Global de Viagem",
+  "title": "Cobertura completa onde quer que você pouse.",
+  "subtitle": "Emergências médicas, atrasos de voo, extravio de bagagem e esportes radicais protegidos em um toque no app.",
+  "cta": "Contratar Proteção",
+  "features": {
+    "title": "Apólice Instantânea & Reembolso Digital",
+    "desc": "Proteja uma viagem específica ou viagens ilimitadas no ano. Envie comprovantes médicos pelo app para análise rápida.",
+    "item1": "Até US$ 1.000.000 para despesas médicas hospitalares e emergências",
+    "item2": "Compensação por cancelamento de voo, interrupção e bagagem atrasada",
+    "item3": "Central de atendimento de emergência multilíngue 24/7 no mundo todo"
+  },
+  "visual": {
+    "tag": "Seguradoras Homologadas",
+    "title": "Proteção Global com Nota Máxima",
+    "badge": "Suporte 24/7"
+  },
+  "faq": {
+    "title": "Perguntas sobre Seguros",
+    "q1": "Quando devo contratar o seguro de viagem?",
+    "a1": "Você pode contratar antes do embarque ou programar a ativação automática para a decolagem do seu voo.",
+    "q2": "Como solicitar reembolso ou acionar a assistência?",
+    "a2": "Basta anexar seus laudos ou recibos no app Getly. Nossa equipe parceira analisa a maioria dos casos em 48 horas."
+  }
+}

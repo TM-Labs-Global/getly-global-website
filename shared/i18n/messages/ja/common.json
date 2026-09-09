@@ -1,0 +1,54 @@
+{
+  "brand": {
+    "name": "Getly",
+    "headline": "現代の旅行者のためのスーパーアプリ",
+    "slogan": "見知らぬ場所を、忘れられない特別な体験に。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "wallet": "ウォレット",
+    "cards": "トラベルカード",
+    "esim": "eSIM",
+    "flights": "航空券予約",
+    "hotels": "ホテル予約",
+    "insurance": "旅行保険",
+    "visa": "ビザ申請",
+    "aiTripPlanner": "AIプランナー",
+    "coverage": "対応エリア",
+    "security": "セキュリティ",
+    "pricing": "料金プラン",
+    "downloadApp": "アプリを入手",
+    "products": "Products",
+    "company": "Company",
+    "resources": "Resources",
+    "howItWorks": "How It Works"
+  },
+  "footer": {
+    "rights": "無断転載を禁じます。",
+    "tagline": "見知らぬ場所を、忘れられない特別な体験に。",
+    "product": "プロダクト",
+    "company": "企業情報",
+    "legal": "法的情報",
+    "support": "サポート",
+    "aboutUs": "私たちについて",
+    "press": "プレス＆メディア",
+    "blog": "ブログ＆最新情報",
+    "faq": "ヘルプ＆よくある質問",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "superAppSubtitle": "グローバルトラベルスーパーアプリ",
+    "downloadCTA": "最先端のグローバルトラベルを体験"
+  },
+  "buttons": {
+    "getApp": "Getlyアプリを入手",
+    "exploreFeatures": "機能を見る",
+    "learnMore": "詳細を見る",
+    "fundWallet": "残高をチャージ",
+    "getCard": "カードを発行",
+    "buyEsim": "グローバルeSIMを購入",
+    "bookFlight": "航空券を予約",
+    "bookHotel": "ホテルを予約",
+    "getInsurance": "旅行保険に加入",
+    "applyVisa": "ビザを申請"
+  }
+}

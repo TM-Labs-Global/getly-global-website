@@ -1,0 +1,95 @@
+{
+  "badge": "Weltweite Flugbuchungen",
+  "title": "Flüge direkt aus Ihrem Wallet buchen.",
+  "subtitle": "Über 400 internationale Airlines vergleichen, transparente Preise sehen und direkt aus Ihrem Währungsguthaben buchen.",
+  "cta": "Flüge in der App buchen",
+  "features": {
+    "title": "Globales Streckennetz & Direkte Bezahlung",
+    "desc": "Sparen Sie sich Wechselkursgebühren und umständliche Zahlungsseiten von Drittanbietern. Buchen Sie Flüge einfach und direkt.",
+    "item1": "Über 400 globale und regionale Airlines im direkten Vergleich",
+    "item2": "Direkt aus dem Wallet ohne Wechselgebühren bezahlen",
+    "item3": "Sofortiges digitales E-Ticket und Gepäckhinweise"
+  },
+  "howItWorks": {
+    "badge": "So funktioniert's",
+    "title": "Buche einen Flug in wenigen Minuten",
+    "subtitle": "Von der Suche bis zum E-Ticket — die gesamte Buchung läuft direkt über dein Wallet.",
+    "step1": {
+      "eyebrow": "Schritt 01",
+      "title": "Route suchen",
+      "desc": "Gib Start- und Zielort ein — Getly zieht Preise von großen Airlines und regionalen Fluggesellschaften."
+    },
+    "step2": {
+      "eyebrow": "Schritt 02",
+      "title": "Preise in deiner Währung vergleichen",
+      "desc": "Jeder Preis wird in der Währung deines Wallets angezeigt — keine Überraschungen an der Kasse."
+    },
+    "step3": {
+      "eyebrow": "Schritt 03",
+      "title": "Direkt aus deinem Wallet bezahlen",
+      "desc": "Bestätige den Preis und bezahle direkt aus deinem Getly-Guthaben — ohne Kartendaten, ohne FX-Gebühren."
+    },
+    "step4": {
+      "eyebrow": "Schritt 04",
+      "title": "Sofort dein E-Ticket erhalten",
+      "desc": "Bestätigung und E-Ticket landen sofort in der App und in deinem Postfach, sobald die Zahlung bestätigt ist."
+    }
+  },
+  "photoFeature": {
+    "entry1": {
+      "title": "Buchen ohne Rätselraten",
+      "desc": "Vergleiche Tarife großer und regionaler Airlines – alle in der Währung deines Wallets. Kein Kopfrechnen, keine Überraschungen bei der Umrechnung.",
+      "tag": "Einmal suchen, in Sekunden buchen"
+    },
+    "entry2": {
+      "title": "Direkt aus deinem Wallet bezahlen",
+      "desc": "Keine separate Buchungsseite, keine erneute Karteneingabe. Dein Tarif wird sofort von deinem Getly-Guthaben beglichen – in der Währung, die du schon hast.",
+      "tag": "Ein Wallet, jeder Tarif"
+    }
+  },
+  "trustCluster": {
+    "badge": "Sicher gebucht",
+    "title": "Jede Buchung ist gut aufgehoben",
+    "subtitle": "Von der Suche bis zur Bordkarte werden deine Reisedaten und dein Geld gleich sorgfältig behandelt.",
+    "item1": "Wir sind rund um die Uhr für dich da – wohin deine Reise auch geht",
+    "item2": "Deine Buchungs- und Zahlungsdaten bleiben durchgehend verschlüsselt",
+    "item3": "Intelligente Überwachung erkennt ungewöhnliche Aktivitäten auf deiner Karte"
+  },
+  "fareCarousel": {
+    "badge": "Von der Suche bis zum Ticket, an einem Ort",
+    "title": "Alles zu deinem Tarif, bevor du dich entscheidest",
+    "subtitle": "Vergleiche Tarife, bezahle in deiner eigenen Währung und erhalte dein Ticket – ohne die App zu verlassen oder auf eine Bestätigungs-E-Mail zu warten.",
+    "cta": "So funktioniert die Buchung",
+    "item1": "Vergleiche Tarife von über 400 Airlines",
+    "item2": "Bezahle in deiner eigenen Währung, ohne FX-Gebühren",
+    "item3": "Erhalte dein E-Ticket, sobald die Zahlung eingeht",
+    "item4": "Automatische Hinweise zum Freigepäck"
+  },
+  "tabbedFeature": {
+    "badge": "So finanzierst du deine Reise",
+    "tabs": {
+      "topUp": {
+        "label": "Aufladen",
+        "title": "In Sekunden aufladen",
+        "desc": "Lade Geld von einer verknüpften Karte oder deiner Bank – sobald es ankommt, kannst du es nutzen."
+      },
+      "split": {
+        "label": "Kosten teilen",
+        "title": "Teile die Kosten mit deiner Reisegruppe",
+        "desc": "Unterwegs in der Gruppe? Teile die Kosten für Hotel oder Aktivitäten auf, und jeder zahlt seinen Anteil aus dem eigenen Getly-Wallet."
+      },
+      "payLocally": {
+        "label": "Lokal zahlen",
+        "title": "Zahle wie ein Einheimischer, wo immer du landest",
+        "desc": "Bezahle kontaktlos in Geschäften, Restaurants und Taxis im Ausland mit deiner Getly-Karte – ohne manuelle Umrechnung, ohne Rätselraten beim Kurs."
+      }
+    }
+  },
+  "faq": {
+    "title": "Flugbuchung FAQs",
+    "q1": "Wie erhalte ich meine Flugtickets?",
+    "a1": "Ihr E-Ticket und die Buchungsreferenz werden sofort in der App angezeigt und per E-Mail zugestellt.",
+    "q2": "Kann ich Flüge umbuchen oder stornieren?",
+    "a2": "Ja, Umbuchungen und Stornierungen können direkt in der App gemäß den Tarifregeln der Airline vorgenommen werden."
+  }
+}

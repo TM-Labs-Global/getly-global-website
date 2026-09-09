@@ -1,0 +1,25 @@
+{
+  "badge": "Digital Visa Processing",
+  "title": "Fast-track visas with zero hassle.",
+  "subtitle": "Check entry requirements, submit verified travel documents, and track your visa application status in real time with licensed immigration experts.",
+  "cta": "Check Visa Requirements",
+  "features": {
+    "title": "Smart Eligibility & Expedited Filing",
+    "desc": "Know exactly what documents you need before booking flights. Getly streamlines embassy forms and eVisa applications with zero bureaucratic friction.",
+    "item1": "Instant entry requirement and eVisa checks for 120+ destinations",
+    "item2": "Encrypted digital document vault with automated passport scanning",
+    "item3": "Live application tracking with push updates on consular approvals"
+  },
+  "visual": {
+    "tag": "Global Immigration",
+    "title": "120+ Supported Destinations",
+    "badge": "Fast-Track"
+  },
+  "faq": {
+    "title": "Visa Processing FAQs",
+    "q1": "How fast are eVisa applications processed?",
+    "a1": "Processing times vary by destination, ranging from 24 hours for automated eVisas to standard consular timeframes for complex visas.",
+    "q2": "Is my personal passport information secure?",
+    "a2": "Yes, all uploaded documents and biometric details are protected with multi-layered encryption and shared only with accredited consular authorities."
+  }
+}

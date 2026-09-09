@@ -1,0 +1,25 @@
+{
+  "badge": "Vistos Digitais Descomplicados",
+  "title": "Vistos rápidos sem dor de cabeça.",
+  "subtitle": "Consulte regras de entrada, envie seus documentos com segurança e acompanhe a aprovação do visto em tempo real.",
+  "cta": "Consultar Requisitos de Visto",
+  "features": {
+    "title": "Análise Inteligente & Emissão Ágil",
+    "desc": "Saiba com exatidão quais documentos precisa antes de emitir as passagens. O Getly simplifica formulários consulares.",
+    "item1": "Verificação de requisitos e emissão de eVisas para mais de 120 países",
+    "item2": "Cofre digital com escaneamento automatizado do passaporte",
+    "item3": "Acompanhamento em tempo real com notificações push de aprovação"
+  },
+  "visual": {
+    "tag": "Imigração Global",
+    "title": "120+ Destinos Atendidos",
+    "badge": "Processo Expresso"
+  },
+  "faq": {
+    "title": "Perguntas sobre Vistos",
+    "q1": "Qual o prazo para emissão de um visto eletrônico?",
+    "a1": "O prazo varia conforme o destino, indo de 24 horas para vistos eletrônicos automatizados a prazos consulares padrão.",
+    "q2": "Meus dados de passaporte estão protegidos?",
+    "a2": "Todos os documentos são protegidos por criptografia de ponta e compartilhados somente com órgãos consulares oficiais."
+  }
+}

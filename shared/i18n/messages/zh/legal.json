@@ -1,0 +1,54 @@
+{
+  "badge": "法律条款与合规声明",
+  "lastUpdated": "最近更新时间：2026年9月",
+  "privacy": {
+    "title": "隐私保护政策",
+    "description": "Getly 如何收集、使用和保护您的个人数据及出行信息。",
+    "section1Title": "1. 我们收集的信息",
+    "section1Desc": "Getly 收集提供跨境旅行、多币种钱包、eSIM 流量、酒店住宿及机票预订所需的基本个人信息，包括身份资料、设备信息及交易记录。",
+    "section2Title": "2. 信息的使用方式",
+    "section2Desc": "我们严格将您的信息用于运营 Getly 应用、核验身份、激活 eSIM、处理支付交易及防范欺诈风险，严守合规标准。",
+    "section3Title": "3. 数据安全与存储",
+    "section3Desc": "我们采用多层高强度加密存储与生物识别验证技术，确保您的隐私数据不受未经授权的访问或泄露。"
+  },
+  "terms": {
+    "title": "用户服务协议",
+    "description": "Getly 移动应用及官方平台的用户服务条款与通用协议。",
+    "section1Title": "1. 条款的接受",
+    "section1Desc": "下载、访问或使用 Getly 应用程序即表示您同意受本用户服务协议的约束。",
+    "section2Title": "2. 提供的服务",
+    "section2Desc": "Getly 携手持牌金融与旅游合作伙伴，提供多币种钱包、虚拟旅行卡、全球 eSIM、机票酒店预订、境外保险及电子签证服务。",
+    "section3Title": "3. 用户责任与义务",
+    "section3Desc": "您同意提供真实有效的个人身份信息，妥善保管设备凭据，并在遵守各项适用法律的前提下使用本服务。"
+  },
+  "cookie": {
+    "title": "Cookie 与隐私政策",
+    "description": "Getly 如何使用 Cookie 和本地存储技术优化您的使用体验。",
+    "section1Title": "1. 什么是 Cookie",
+    "section1Desc": "Cookie 是保存在您浏览器或设备上的小型数据文件，用于记录偏好设置并保障账户会话安全。",
+    "section2Title": "2. Cookie 的用途",
+    "section2Desc": "Getly 使用必要型 Cookie 维护登录会话安全，使用功能型 Cookie 保存语言与货币偏好，并使用汇总分析 Cookie 监测系统性能。",
+    "section3Title": "3. 管理您的偏好",
+    "section3Desc": "您可以随时在浏览器设置中或通过我们网站的偏好控制面板禁用非必要 Cookie。"
+  },
+  "aml": {
+    "title": "反洗钱合规政策 (AML)",
+    "description": "Getly 反洗钱、反恐怖融资及客户身份识别 (KYC) 政策标准。",
+    "section1Title": "1. 合规管理框架",
+    "section1Desc": "Getly 严格遵循国际金融行动特别工作组 (FATF) 建议及各地金融监管机构的反洗钱 (AML) 规定。",
+    "section2Title": "2. 客户身份验证 (KYC)",
+    "section2Desc": "所有用户在获取高额度钱包或虚拟卡之前，均需完成分级尽职调查 (CDD) 及官方身份证件核验。",
+    "section3Title": "3. 交易监控与制裁筛查",
+    "section3Desc": "智能化监控系统对交易进行实时风险评估，并比对全球制裁名单以预防金融违法行为。"
+  },
+  "complaints": {
+    "title": "客户申诉与争议解决",
+    "description": "Getly 客户投诉受理流程及争议调解机制。",
+    "section1Title": "1. 我们的服务承诺",
+    "section1Desc": "我们始终致力于提供高品质服务。若您遇到任何产品或服务问题，全天候专属客服团队将竭诚为您解决。",
+    "section2Title": "2. 如何提交申诉",
+    "section2Desc": "您可通过应用内帮助中心直接发起投诉，或发送邮件至 complaints@getly.app 并附上相关订单编号与详情。",
+    "section3Title": "3. 处理时效与调解",
+    "section3Desc": "我们将在 24 小时内确认受理，并在 15 个工作日内提供最终处理方案。"
+  }
+}

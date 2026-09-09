@@ -1,0 +1,54 @@
+{
+  "badge": "Rechtliche Hinweise & Compliance",
+  "lastUpdated": "Zuletzt aktualisiert: September 2026",
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "description": "Wie Getly Ihre personenbezogenen Daten und Reisedaten erhebt, verarbeitet und schützt.",
+    "section1Title": "1. Erhobene Informationen",
+    "section1Desc": "Getly erhebt personenbezogene Daten, die für die Bereitstellung von Reisedienstleistungen, Wallet-Verwaltung, eSIM-Bereitstellung, Hotels und Flugbuchungen erforderlich sind.",
+    "section2Title": "2. Nutzung Ihrer Daten",
+    "section2Desc": "Wir verarbeiten Ihre Daten ausschließlich für den Betrieb der Getly App, zur Identitätsprüfung, Bereitstellung von eSIM-Profilen, Zahlungsabwicklung und Betrugsprävention.",
+    "section3Title": "3. Datensicherheit & Speicherung",
+    "section3Desc": "Wir setzen auf mehrschichtige Verschlüsselung, biometrische Authentifizierung und strenge Zugriffskontrollen zum Schutz Ihrer Daten."
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "description": "Allgemeine Geschäftsbedingungen und Nutzervereinbarung für die Getly Plattform und App.",
+    "section1Title": "1. Annahme der Bedingungen",
+    "section1Desc": "Durch das Herunterladen, Zugreifen auf oder die Nutzung der Getly App stimmen Sie diesen Nutzungsbedingungen verbindlich zu.",
+    "section2Title": "2. Leistungsangebot",
+    "section2Desc": "Getly bietet Multi-Währungs-Wallet-Funktionen, virtuelle Reisekarten, globale eSIM-Datenpakete, Flug- und Hotelbuchungen, Reiseschutz und digitale Visa in Zusammenarbeit mit lizenzierten Partnern.",
+    "section3Title": "3. Pflichten der Nutzer",
+    "section3Desc": "Sie verpflichten sich, wahrheitsgemäße Angaben zu machen, Ihre Zugangsdaten sicher zu verwahren und die Dienste gesetzeskonform zu nutzen."
+  },
+  "cookie": {
+    "title": "Cookie-Richtlinie",
+    "description": "Wie Getly Cookies und lokalen Speicher zur Optimierung Ihres Nutzungserlebnisses einsetzt.",
+    "section1Title": "1. Was sind Cookies",
+    "section1Desc": "Cookies sind kleine Textdateien, die auf Ihrem Endgerät gespeichert werden, um Einstellungen zu sichern und geschützte Sitzungen zu gewährleisten.",
+    "section2Title": "2. Verwendung von Cookies",
+    "section2Desc": "Getly nutzt essenzielle Cookies für Sicherheit und Authentifizierung, funktionale Cookies für Sprach- und Währungseinstellungen sowie aggregierte Analyse-Cookies.",
+    "section3Title": "3. Einstellungen verwalten",
+    "section3Desc": "Sie können nicht-essenzielle Cookies jederzeit in Ihren Browsereinstellungen oder über unsere Cookie-Verwaltung anpassen oder deaktivieren."
+  },
+  "aml": {
+    "title": "Geldwäscheprävention (AML)",
+    "description": "Getlys Standards zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie Identitätsprüfung (KYC).",
+    "section1Title": "1. Compliance-Rahmenwerk",
+    "section1Desc": "Getly hält sich strikt an internationale FATF-Empfehlungen und regulatorische Vorgaben zur Geldwäschebekämpfung (AML).",
+    "section2Title": "2. Identitätsprüfung (KYC)",
+    "section2Desc": "Nutzer durchlaufen eine risikobasierte Legitimationsprüfung (CDD) inklusive Prüfung amtlicher Ausweisdokumente vor Freischaltung höherer Limits.",
+    "section3Title": "3. Transaktionsüberwachung & Sanktionslisten",
+    "section3Desc": "Automatisierte Überwachungssysteme prüfen Aktivitäten in Echtzeit gegen weltweite Sanktionslisten zur Bekämpfung von Finanzkriminalität."
+  },
+  "complaints": {
+    "title": "Beschwerdemanagement & Streitbeilegung",
+    "description": "Wie Getly Kundenbeschwerden bearbeitet und faire Lösungen findet.",
+    "section1Title": "1. Unser Engagement",
+    "section1Desc": "Kundenzufriedenheit steht bei uns an erster Stelle. Unser Support-Team steht Ihnen 24/7 zur Verfügung, um Anliegen rasch zu klären.",
+    "section2Title": "2. Beschwerde einreichen",
+    "section2Desc": "Offizielle Beschwerden können direkt im In-App-Hilfebereich oder per E-Mail an complaints@getly.app eingereicht werden.",
+    "section3Title": "3. Bearbeitungsfristen",
+    "section3Desc": "Wir bestätigen den Eingang innerhalb von 24 Stunden und streben eine abschließende Klärung innerhalb von 15 Werktagen an."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "badge": "Protection Voyage Internationale",
+  "title": "Une protection complète dès votre atterrissage.",
+  "subtitle": "Frais médicaux d'urgence, perte de bagages, retards de vol et couverture aventure activables en un clic.",
+  "cta": "Souscrire à l'Assurance",
+  "features": {
+    "title": "Attestation Immédiate et Déclaration en Ligne",
+    "desc": "Assurez un voyage ponctuel ou l'ensemble de vos déplacements à l'année. Transmettez vos justificatifs directement dans l'application.",
+    "item1": "Jusqu'à 1 000 000 $ de prise en charge médicale et hospitalière d'urgence",
+    "item2": "Indemnisation en cas d'annulation de vol ou retard de bagages",
+    "item3": "Plateforme d'assistance multilingue joignable 24/7 partout dans le monde"
+  },
+  "visual": {
+    "tag": "Assureurs Reconnus",
+    "title": "Protection Mondiale de Premier Rang",
+    "badge": "Assistance 24/7"
+  },
+  "faq": {
+    "title": "Questions sur l'Assurance",
+    "q1": "Quand activer ma protection de voyage ?",
+    "a1": "Vous pouvez souscrire avant votre départ ou programmer l'activation automatique au moment du décollage.",
+    "q2": "Comment déclarer un sinistre ?",
+    "a2": "Téléchargez vos factures ou rapports médicaux dans l'application Getly. Nos équipes traitent votre dossier sous 48 heures."
+  }
+}

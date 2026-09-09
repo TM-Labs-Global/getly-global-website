@@ -1,0 +1,25 @@
+{
+  "badge": "Global Travel Protection",
+  "title": "Comprehensive cover wherever you land.",
+  "subtitle": "Emergency medical, trip delay, baggage loss, and adventure sports coverage activated with one tap in your Getly app.",
+  "cta": "Get Travel Protection",
+  "features": {
+    "title": "Instant Policy & Paperless Claims",
+    "desc": "Cover a single getaway or protect your travels all year round. File claims and submit medical bills directly through the Getly app for rapid reimbursement.",
+    "item1": "Up to $1,000,000 in emergency medical treatment and hospitalization",
+    "item2": "Trip cancellation, interruption, and flight delay compensation",
+    "item3": "24/7 global emergency assistance hotline wherever you travel"
+  },
+  "visual": {
+    "tag": "Verified Underwriters",
+    "title": "A-Rated Global Protection",
+    "badge": "24/7 Care"
+  },
+  "faq": {
+    "title": "Travel Insurance FAQs",
+    "q1": "When should I activate my travel protection?",
+    "a1": "You can purchase coverage before your departure or set it to activate automatically the moment your flight takes off.",
+    "q2": "How do I submit an insurance claim?",
+    "a2": "Simply upload your receipts or medical reports in the Getly app. Our insurance partners process most claims within 48 hours."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "badge": "虚拟旅行卡",
+  "title": "随时生成，满足每一笔消费需求。",
+  "subtitle": "即刻签发虚拟卡，用于境外网购、在线订阅、机票预订与餐厅消费。",
+  "cta": "立即申领卡片",
+  "features": {
+    "title": "秒级发卡 & 全面自主掌控",
+    "desc": "直接通过手机在几秒内生成虚拟卡。在全球支持在线支付的商户处畅行无阻，每笔消费均有实时通知提醒。",
+    "item1": "即时生成卡片并可自定义设置消费限额",
+    "item2": "一键冻结与解冻，保障资金安全无忧",
+    "item3": "全球各大电商平台与航空公司广泛支持"
+  },
+  "faq": {
+    "title": "旅行卡常见问题",
+    "q1": "Getly 虚拟卡是否在全球范围内通用？",
+    "a1": "是的，Getly 虚拟卡可在全球主流在线商户、旅行预订平台及数字订阅服务中使用。",
+    "q2": "如果更换设备，我可以冻结卡片吗？",
+    "a2": "可以，您可以在 Getly 安全控制台中一键随时冻结或恢复卡片。"
+  },
+  "editions": {
+    "badge": "Card Editions",
+    "title": "A card that looks like you.",
+    "subtitle": "Pick a finish, or carry a piece of the city you love.",
+    "opticsLabel": "Finishes",
+    "landmarkLabel": "Landmark Series"
+  },
+  "protected": {
+    "badge": "Security",
+    "title": "Your card, protected.",
+    "subtitle": "Every Getly card comes with built-in protection — freeze it instantly, set your own limits, and get notified the moment it's used.",
+    "item1": "Freeze your card in one tap, whenever you need to",
+    "item2": "Set your own spending limits, card by card",
+    "item3": "Real-time alerts on every transaction"
+  },
+  "capabilities": {
+    "badge": "Card Features",
+    "title": "Instant Generation & Total Control",
+    "subtitle": "Create virtual cards in seconds right from your smartphone. Use them everywhere online payment cards are accepted with real-time spending notifications.",
+    "item1": {
+      "title": "Instant card creation with custom spending limits",
+      "desc": "Generate a new virtual card in seconds, and set your own spending limit on it — so every card only ever has the power to spend exactly what you allow."
+    },
+    "item2": {
+      "title": "One-tap card freeze and unfreeze",
+      "desc": "For complete peace of mind, freeze any card the moment something feels off, then unfreeze it just as fast the moment you're ready to spend again."
+    },
+    "item3": {
+      "title": "Accepted by merchants everywhere",
+      "desc": "Use your Getly card across online stores and flight bookings worldwide, wherever payment cards are accepted."
+    },
+    "item4": {
+      "title": "Funded straight from your wallet",
+      "desc": "No separate top-up step. Every virtual card draws instantly from your Getly wallet balance the moment you spend."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "badge": "Protección Global de Viaje",
+  "title": "Cobertura completa dondequiera que aterrices.",
+  "subtitle": "Emergencias médicas, pérdida de equipaje, retrasos de vuelos y cobertura de aventura con un solo toque.",
+  "cta": "Obtener Protección de Viaje",
+  "features": {
+    "title": "Póliza Inmediata y Reclamaciones en la App",
+    "desc": "Activa tu seguro para un viaje o para todo el año. Envía informes médicos y facturas en la app con resolución rápida.",
+    "item1": "Hasta $1,000,000 en gastos médicos de urgencia y hospitalización",
+    "item2": "Compensación por cancelación, interrupción y retraso de equipaje",
+    "item3": "Línea de emergencia multilingüe 24/7 en cualquier lugar"
+  },
+  "visual": {
+    "tag": "Aseguradoras Verificadas",
+    "title": "Protección Global Calificada A",
+    "badge": "Atención 24/7"
+  },
+  "faq": {
+    "title": "Preguntas sobre Seguros",
+    "q1": "¿Cuándo debo activar la protección de viaje?",
+    "a1": "Puedes activarla antes de viajar o programarla para que inicie automáticamente cuando salga tu vuelo.",
+    "q2": "¿Cómo solicito una indemnización?",
+    "a2": "Sube tus facturas o informes médicos en la app Getly. Nuestro equipo revisa tu caso en menos de 48 horas."
+  }
+}

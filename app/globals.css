@@ -1,0 +1,134 @@
+@import "tailwindcss";
+@import "../shared/styles/tokens.css";
+
+@theme {
+  --font-sans: var(--font-cairo), sans-serif;
+  --color-brand-blue: var(--blue);
+  --color-brand-blue-600: var(--blue-600);
+  --color-brand-blue-700: var(--blue-700);
+  --color-brand-navy: var(--navy);
+  --color-brand-amber: var(--amber);
+  --color-brand-lemon: var(--lemon);
+  --color-brand-green: var(--green);
+  --color-brand-red: var(--red);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-mist: var(--mist);
+  --color-canvas: var(--canvas);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+
+  --radius-sm: var(--r-sm);
+  --radius-md: var(--r-md);
+  --radius-lg: var(--r-lg);
+  --radius-xl: var(--r-xl);
+  --radius-full: var(--r-full);
+}
+
+html, body {
+  font-family: var(--font-cairo), sans-serif;
+  background-color: var(--canvas);
+  color: var(--ink);
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* Custom Utilities for Tabular Figures */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Button & Glass elevation utilities */
+.shadow-glow {
+  box-shadow: var(--shadow-glow);
+}
+
+.shadow-soft {
+  box-shadow: var(--shadow-soft);
+}
+
+.shadow-flat {
+  box-shadow: var(--shadow-flat);
+}
+
+/* Navy -> blue hero-surface gradient — the one glossy, saturated card in
+   an otherwise flat/matte layout (HowItWorks step 2, Cards page freeze
+   panel). Documented once here so future "hero" panels reuse it instead
+   of a flat bg-[var(--navy)] or a hand-rolled gradient per component. */
+.bg-gradient-navy-blue {
+  background: linear-gradient(140deg, var(--navy) 0%, #16225e 55%, var(--blue) 130%);
+}
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--canvas);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--line-strong);
+  border-radius: var(--r-full);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--blue);
+}
+
+/* Highlights carousel (home "Everything you need in one app" section) —
+   scroll-snap track with a hidden scrollbar and an animated dot-progress
+   fill, modeled on Apple's own highlights-gallery pattern (apple.com/apple-watch,
+   inspected live: scroll-snap-type: x mandatory, 20px card gap, a 48px pill
+   dot whose ::after fills over the autoplay duration via animation-play-state). */
+.highlights-track {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.highlights-track::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes highlights-dot-progress {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.highlights-dot-progress {
+  animation-name: highlights-dot-progress;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 35s linear infinite;
+  will-change: transform;
+}
+
+.animate-marquee-reverse {
+  display: flex;
+  width: max-content;
+  animation: marquee 35s linear infinite reverse;
+  will-change: transform;
+}
+

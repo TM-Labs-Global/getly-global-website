@@ -1,0 +1,163 @@
+{
+  "hero": {
+    "badge": "全球旅行超级应用",
+    "headline": "专为现代旅行者打造的超级应用",
+    "headlineLine1": "专为现代旅行者打造的",
+    "headlineLine2": "超级应用",
+    "subhead": "让每一次探索都成为难忘的精彩体验。一个应用集成全球多币种钱包、虚拟旅行卡、全球 eSIM 流量、机票与酒店预订、境外保险与签证服务。",
+    "ctaPrimary": "立即下载",
+    "ctaSecondary": "探索功能"
+  },
+  "ticker": [
+    "全球多币种钱包",
+    "即时虚拟卡",
+    "全球 eSIM",
+    "机票预订",
+    "酒店住宿",
+    "旅行保险保障",
+    "电子签证办理",
+    "AI 智能行程规划",
+    "即时充值",
+    "多币种支持"
+  ],
+  "partners": {
+    "backedBy": "深获全球行业领袖的信赖与支持"
+  },
+  "pillars": {
+    "title": "一站式满足出境旅行所需。",
+    "subtitle": "旅行本就不该繁琐。Getly 将跨境金融、网络连接、住宿及机票预订完美融合在极简体验中。",
+    "wallet": {
+      "eyebrow": "全球多币种钱包",
+      "headlineLine1": "一个钱包，",
+      "headlineLine2": "随行全球无界支付。",
+      "desc": "轻松充值、多币种管理、全球消费与随时提现。",
+      "cta": "了解多币种钱包",
+      "badge": "全球通用"
+    },
+    "cards": {
+      "eyebrow": "即时虚拟卡",
+      "headlineLine1": "随时随地生成，",
+      "headlineLine2": "畅享安全支付。",
+      "desc": "即刻签发虚拟卡，直接使用钱包余额进行全球线上线下消费。",
+      "cta": "了解旅行卡",
+      "badge": "即时发卡"
+    },
+    "esim": {
+      "eyebrow": "全球 eSIM",
+      "headlineLine1": "落地即连，",
+      "headlineLine2": "时刻畅享高速网络。",
+      "desc": "一键激活全球流量套餐，无需更换实体 SIM 卡。",
+      "cta": "了解 eSIM",
+      "badge": "覆盖 180+ 国家"
+    },
+    "flights": {
+      "eyebrow": "全球机票预订",
+      "headlineLine1": "直接从钱包余额，",
+      "headlineLine2": "预订全球航线。",
+      "desc": "快速比价并预订全球 400+ 家航空公司机票，免除额外汇率损失。",
+      "cta": "了解机票预订",
+      "badge": "PVG → CDG"
+    },
+    "hotels": {
+      "eyebrow": "精选酒店住宿",
+      "headlineLine1": "量身定制住宿，",
+      "headlineLine2": "伴您舒适出行。",
+      "desc": "直接使用多币种余额预订全球精品酒店、度假村及特色公寓。",
+      "cta": "了解酒店预订",
+      "badge": "100万+ 精选房源"
+    },
+    "insurance": {
+      "eyebrow": "全球旅行保障",
+      "headlineLine1": "全面贴心保障，",
+      "headlineLine2": "落地无忧出行。",
+      "desc": "紧急医疗救助、行李延误、行程变动一键投保，全天候守护。",
+      "cta": "了解旅行保障",
+      "badge": "24/7 全球紧急救援"
+    },
+    "visa": {
+      "eyebrow": "电子签证办理",
+      "headlineLine1": "高效快捷办签，",
+      "headlineLine2": "告别繁琐流程。",
+      "desc": "智能核验入境要求，在线提交数字化材料，实时掌握办签进度。",
+      "cta": "了解签证服务",
+      "badge": "支持 120+ 目的地"
+    }
+  },
+  "pillarsIcons": {
+    "eyebrow": "Super App Features",
+    "headlineLine1": "Everything you need",
+    "headlineLine2": "in one app.",
+    "subtitle": "Travel is already complicated enough. Getly combines your wallet, travel cards, eSIM, and flights in one place."
+  },
+  "ai": {
+    "badge": "Getly AI 智能助手",
+    "title": "个性化行程与智能旅行指南",
+    "subtitle": "Getly AI 实时规划每日预算、推荐地道特色去处并智能管理您的旅行装备。",
+    "cta": "体验 AI 行程助手",
+    "feature1Title": "智能定制行程",
+    "feature1Desc": "根据您的旅行喜好，数秒内生成专属的每日行程规划。",
+    "feature2Title": "实时预算建议",
+    "feature2Desc": "自动按当地货币折算每日餐饮、交通及游玩消费预算。",
+    "hoverHint": "悬停体验 Getly AI 交互"
+  },
+  "howItWorks": {
+    "badge": "极简流程",
+    "title": "Getly 如何运作",
+    "subtitle": "只需 4 步，即刻启程",
+    "step1Eyebrow": "第一步",
+    "step1Title": "下载 Getly 应用程序",
+    "step1Desc": "在 App Store 或 Google Play 下载应用，极速完成身份验证。",
+    "step2Eyebrow": "第二步",
+    "step2Title": "为多币种钱包充值",
+    "step2Desc": "支持借记卡、银行付款或全球通用渠道轻松充值。",
+    "step3Eyebrow": "第三步",
+    "step3Title": "生成虚拟卡并激活 eSIM",
+    "step3Desc": "秒级签发虚拟旅行卡，并一键安装高速移动网络 eSIM。",
+    "step4Eyebrow": "第四步",
+    "step4Title": "自在畅游全球",
+    "step4Desc": "无论境外支付、机票预订还是酒店入住，均可从容应对。"
+  },
+  "trust": {
+    "badge": "旅行者信赖之选",
+    "headlineLine1": "覆盖180多个国家",
+    "headlineLine2": "深受旅行者信赖。",
+    "subtitle": "透明的费用、实时支持,以及无论身在何处都能一致使用的钱包。",
+    "stat1Value": "全球体验",
+    "stat1Label": "专为出境旅行量身打造",
+    "stat2Value": "$0",
+    "stat2Label": "虚拟卡开卡费*",
+    "stat3Value": "24/7",
+    "stat3Label": "全天候客服支持",
+    "stat4Value": "1 个应用",
+    "stat4Label": "搞定出境全程所需"
+  },
+  "coverage": {
+    "badge": "全球足迹",
+    "title": "覆盖全球 180+ 国家与地区",
+    "subtitle": "不论是预订航班、eSIM 上网还是使用虚拟卡消费，Getly 时刻伴您同行。",
+    "viewAll": "查看支持的全部国家与网络覆盖",
+    "feature1": "落地即刻获得eSIM流量",
+    "feature2": "一个多币种钱包，无需手动换汇",
+    "feature3": "虚拟卡可在全球任意在线商户使用"
+  },
+  "faq": {
+    "badge": "疑问解答",
+    "title": "常见问题解答",
+    "subtitle": "关于 Getly 的使用疑问？在此为您一一解答。",
+    "viewAll": "查看全部常见问题",
+    "q1": "什么是 Getly？",
+    "a1": "Getly 是一款专为全球旅行者、商务人士及海外留学生设计的超级应用，集成了多币种钱包、虚拟旅行卡、全球 eSIM 上网、机票预订、酒店住宿、境外保险与电子签证等功能。",
+    "q2": "如何为我的 Getly 钱包充值？",
+    "a2": "您可以使用本地借记卡、银行付款渠道或主流国际支付通道即时完成充值。",
+    "q3": "全球 eSIM 是如何工作的？",
+    "a3": "Getly 支持 180+ 国家的数字化 eSIM 配置文件。在应用内选择套餐后，只需扫码或点击一键安装，即可连接当地高速网络。",
+    "q4": "我可以直接用钱包余额预订机票和酒店吗？",
+    "a4": "当然可以！您可以直接使用多币种余额搜索并预订全球 400+ 家航空公司的航班及 100 多万家严选酒店，无需支付隐性汇率加价。"
+  },
+  "download": {
+    "eyebrow": "您的精彩旅程由此启航",
+    "headlineLine1": "一个应用，",
+    "headlineLine2": "开启无限探索。",
+    "subtitle": "立即下载 Getly，将钱包、网络、预订与专属旅行伴侣随身携带。"
+  }
+}

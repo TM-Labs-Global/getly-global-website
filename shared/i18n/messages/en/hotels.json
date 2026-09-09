@@ -1,0 +1,25 @@
+{
+  "badge": "Worldwide Stays",
+  "title": "Stays tailored for every journey.",
+  "subtitle": "Discover and book handpicked boutique hotels, luxury resorts, and holiday apartments in 180+ countries directly from your multi-currency balance.",
+  "cta": "Book Hotels in App",
+  "features": {
+    "title": "Transparent Pricing & Real-Time Booking",
+    "desc": "No unexpected foreign exchange markups at checkout. Lock in your room with clear local rates, flexible cancellation, and instant confirmation.",
+    "item1": "Access to 1,000,000+ verified hotels, apartments, and luxury villas",
+    "item2": "Pay directly from your multi-currency balance with zero FX markups",
+    "item3": "Flexible cancellation policies and 24/7 dedicated in-app booking support"
+  },
+  "visual": {
+    "tag": "Handpicked Stays",
+    "title": "Instant Check-in & Digital Keys",
+    "badge": "180+ Countries"
+  },
+  "faq": {
+    "title": "Hotel Booking FAQs",
+    "q1": "How do I pay for hotel bookings on Getly?",
+    "a1": "You can pay instantly using your Getly multi-currency balance or your virtual travel card without paying foreign transaction fees.",
+    "q2": "Are the room rates transparent with no hidden resort fees?",
+    "a2": "Yes, Getly displays the total checkout price including mandatory taxes and fees before you confirm."
+  }
+}

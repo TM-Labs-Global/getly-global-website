@@ -1,0 +1,54 @@
+{
+  "brand": {
+    "name": "جيتلي",
+    "headline": "تطبيق السفر الشامل للمسافر العصري",
+    "slogan": "نحول الأماكن الجديدة إلى تجارب لا تُنسى."
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "wallet": "المحفظة",
+    "cards": "بطاقات السفر",
+    "esim": "شريحة eSIM",
+    "flights": "حجز الطيران",
+    "hotels": "الفنادق",
+    "insurance": "التأمين",
+    "visa": "التأشيرات",
+    "aiTripPlanner": "مخطط الرحلات الذكي",
+    "coverage": "التغطية",
+    "security": "الأمان",
+    "pricing": "الرسوم",
+    "downloadApp": "تحميل التطبيق",
+    "products": "Products",
+    "company": "Company",
+    "resources": "Resources",
+    "howItWorks": "How It Works"
+  },
+  "footer": {
+    "rights": "جميع الحقوق محفوظة.",
+    "tagline": "نحول الأماكن الجديدة إلى تجارب لا تُنسى.",
+    "product": "المنتجات",
+    "company": "الشركة",
+    "legal": "الشروط القانونية",
+    "support": "الدعم والمساعدة",
+    "aboutUs": "من نحن",
+    "press": "الصحافة والإعلام",
+    "blog": "المدونة والأخبار",
+    "faq": "الأسئلة الشائعة",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة",
+    "superAppSubtitle": "تطبيق السفر العالمي الشامل",
+    "downloadCTA": "ابدأ تجربة السفر العالمي الحديثة"
+  },
+  "buttons": {
+    "getApp": "تحميل تطبيق جيتلي",
+    "exploreFeatures": "استكشف المزايا",
+    "learnMore": "معرفة المزيد",
+    "fundWallet": "شحن المحفظة",
+    "getCard": "إصدار البطاقة",
+    "buyEsim": "شراء شريحة eSIM",
+    "bookFlight": "حجز رحلة طيران",
+    "bookHotel": "حجز فندق",
+    "getInsurance": "الحصول على تأمين السفر",
+    "applyVisa": "تقديم طلب تأشيرة"
+  }
+}

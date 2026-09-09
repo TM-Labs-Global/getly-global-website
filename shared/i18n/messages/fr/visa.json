@@ -1,0 +1,25 @@
+{
+  "badge": "Traitement Digital des Visas",
+  "title": "Des visas rapides en toute simplicité.",
+  "subtitle": "Consultez les formalités d'entrée, soumettez vos documents de manière sécurisée et suivez votre demande en temps réel.",
+  "cta": "Vérifier les Formalités",
+  "features": {
+    "title": "Vérification Automatique et Approbation Rapide",
+    "desc": "Sachez exactement quels documents fournir avant de prendre vos billets. Getly simplifie vos démarches administratives.",
+    "item1": "Vérification des conditions d'entrée et e-visas pour plus de 120 pays",
+    "item2": "Coffre-fort numérique sécurisé avec scan intelligent du passeport",
+    "item3": "Suivi en direct avec alertes sur l'avancement consulaire"
+  },
+  "visual": {
+    "tag": "Immigration Mondiale",
+    "title": "120+ Destinations Prises en Charge",
+    "badge": "Voie Rapide"
+  },
+  "faq": {
+    "title": "Questions sur les Visas",
+    "q1": "Quels sont les délais d'obtention d'un e-visa ?",
+    "a1": "Les délais varient selon le pays, allant de 24h pour les e-visas instantanés aux délais consulaires habituels.",
+    "q2": "Mes données et documents sont-ils en sécurité ?",
+    "a2": "Vos pièces d'identité sont chiffrées selon les normes de sécurité les plus strictes et transmises uniquement aux autorités compétentes."
+  }
+}

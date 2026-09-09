@@ -1,0 +1,95 @@
+{
+  "badge": "Réservation de Vols Internationaux",
+  "title": "Réservez vos vols directement depuis votre portefeuille.",
+  "subtitle": "Comparez plus de 400 compagnies aériennes internationales avec des tarifs transparents et réglez directement depuis votre solde multi-devises.",
+  "cta": "Réserver des Vols",
+  "features": {
+    "title": "Réseau Mondial de Vols & Paiement Direct",
+    "desc": "Évitez les frais de conversion bancaires et les étapes de paiement complexes. Réservez vos trajets au meilleur prix.",
+    "item1": "Comparez plus de 400 compagnies aériennes internationales et régionales",
+    "item2": "Paiement direct depuis votre solde sans surcoût de change",
+    "item3": "Billets électroniques instantanés et alertes bagages automatiques"
+  },
+  "howItWorks": {
+    "badge": "Comment Ça Marche",
+    "title": "Réservez un vol en quelques minutes",
+    "subtitle": "De la recherche à l'e-billet, toute la réservation se fait sans quitter votre portefeuille.",
+    "step1": {
+      "eyebrow": "Étape 01",
+      "title": "Recherchez votre itinéraire",
+      "desc": "Indiquez votre départ et votre destination, Getly récupère les tarifs des grandes compagnies et des transporteurs régionaux."
+    },
+    "step2": {
+      "eyebrow": "Étape 02",
+      "title": "Comparez les tarifs dans votre devise",
+      "desc": "Chaque tarif s'affiche dans la devise de votre portefeuille, sans surprise au paiement."
+    },
+    "step3": {
+      "eyebrow": "Étape 03",
+      "title": "Payez directement depuis votre portefeuille",
+      "desc": "Confirmez votre tarif et payez directement depuis votre solde Getly — sans données de carte, sans frais de change."
+    },
+    "step4": {
+      "eyebrow": "Étape 04",
+      "title": "Recevez votre e-billet instantanément",
+      "desc": "Votre confirmation et votre e-billet arrivent dans l'app et par e-mail dès que le paiement est validé."
+    }
+  },
+  "photoFeature": {
+    "entry1": {
+      "title": "Réservez sans prise de tête",
+      "desc": "Comparez les tarifs des grandes compagnies aériennes et des transporteurs régionaux, tous affichés dans la devise de votre wallet — sans calcul mental, sans surprise à la conversion.",
+      "tag": "Recherchez une fois, réservez en quelques secondes"
+    },
+    "entry2": {
+      "title": "Payez directement depuis votre wallet",
+      "desc": "Pas de site de réservation séparé, pas de saisie répétée des coordonnées de carte. Votre tarif est réglé instantanément depuis votre solde Getly, dans la devise que vous détenez déjà.",
+      "tag": "Un wallet, tous les tarifs"
+    }
+  },
+  "trustCluster": {
+    "badge": "Réservation sécurisée",
+    "title": "Chaque réservation, bien protégée",
+    "subtitle": "De la recherche à la carte d'embarquement, vos données de voyage et votre argent bénéficient du même soin.",
+    "item1": "Nous sommes là pour vous aider, 24/7 — où que vous voyagiez",
+    "item2": "Vos données de réservation et de paiement restent chiffrées de bout en bout",
+    "item3": "Une surveillance intelligente signale toute activité inhabituelle sur votre carte"
+  },
+  "fareCarousel": {
+    "badge": "De la recherche au billet, au même endroit",
+    "title": "Tout sur votre tarif, avant de vous engager",
+    "subtitle": "Comparez les tarifs, payez dans votre propre devise et recevez votre billet — sans quitter l'application ni attendre un e-mail de confirmation.",
+    "cta": "Voir comment fonctionne la réservation",
+    "item1": "Comparez les tarifs de plus de 400 compagnies aériennes",
+    "item2": "Payez dans votre propre devise, sans frais de change",
+    "item3": "Recevez votre billet électronique dès que le paiement est confirmé",
+    "item4": "Alertes automatiques de franchise bagages"
+  },
+  "tabbedFeature": {
+    "badge": "Financez votre voyage, à votre façon",
+    "tabs": {
+      "topUp": {
+        "label": "Recharger",
+        "title": "Rechargez en quelques secondes",
+        "desc": "Ajoutez de l'argent depuis une carte liée ou votre banque, prêt à être dépensé dès son arrivée."
+      },
+      "split": {
+        "label": "Partager les frais",
+        "title": "Partagez les frais avec votre groupe de voyage",
+        "desc": "Vous voyagez en groupe ? Répartissez le coût d'un hôtel ou d'une activité, et chacun règle sa part depuis son propre wallet Getly."
+      },
+      "payLocally": {
+        "label": "Payer sur place",
+        "title": "Payez comme un local, où que vous atterrissiez",
+        "desc": "Payez sans contact dans les boutiques, restaurants et taxis à l'étranger avec votre carte Getly — sans conversion manuelle, sans deviner le taux."
+      }
+    }
+  },
+  "faq": {
+    "title": "FAQ Vols",
+    "q1": "Comment recevoir mes billets d'avion ?",
+    "a1": "Votre e-billet et votre référence de vol sont envoyés immédiatement dans l'application Getly et par email.",
+    "q2": "Puis-je modifier ou annuler mon vol ?",
+    "a2": "Oui, la gestion des modifications ou annulations s'effectue directement dans l'application selon les règles de la compagnie."
+  }
+}

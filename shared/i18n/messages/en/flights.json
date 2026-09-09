@@ -1,0 +1,95 @@
+{
+  "badge": "Worldwide Flight Bookings",
+  "title": "Book flights without leaving your wallet.",
+  "subtitle": "Search 400+ international airlines, compare transparent fares, and book directly using your multi-currency balance.",
+  "cta": "Book Flights in App",
+  "features": {
+    "title": "Global Route Network & Direct Payment",
+    "desc": "Skip currency conversion charges and complex third-party checkouts. Book local and international routes straight from your wallet.",
+    "item1": "Compare 400+ major global airlines and regional carriers",
+    "item2": "Pay directly from wallet balances with zero foreign exchange fees",
+    "item3": "Instant digital e-tickets and automated baggage allowance alerts"
+  },
+  "howItWorks": {
+    "badge": "How It Works",
+    "title": "Book a flight in minutes",
+    "subtitle": "From search to e-ticket, the whole booking happens without leaving your wallet.",
+    "step1": {
+      "eyebrow": "Step 01",
+      "title": "Search your route",
+      "desc": "Enter where you're flying from and to, and Getly pulls fares from major airlines and regional carriers."
+    },
+    "step2": {
+      "eyebrow": "Step 02",
+      "title": "Compare fares in your currency",
+      "desc": "See every fare priced in your wallet's currency, so there's no guessing at checkout."
+    },
+    "step3": {
+      "eyebrow": "Step 03",
+      "title": "Pay straight from your wallet",
+      "desc": "Confirm your fare and pay directly from your Getly balance — no card details, no FX fees."
+    },
+    "step4": {
+      "eyebrow": "Step 04",
+      "title": "Get your e-ticket instantly",
+      "desc": "Your confirmation and e-ticket land in the app and your inbox the moment payment clears."
+    }
+  },
+  "photoFeature": {
+    "entry1": {
+      "title": "Book without the guesswork",
+      "desc": "Compare fares from major airlines and regional carriers, all priced in your wallet's currency — no mental math, no surprise conversion at checkout.",
+      "tag": "Search once, book in seconds"
+    },
+    "entry2": {
+      "title": "Pay straight from your wallet",
+      "desc": "No separate booking site, no re-entering card details. Your fare settles instantly from your Getly balance, in the currency you're already holding.",
+      "tag": "One wallet, every fare"
+    }
+  },
+  "trustCluster": {
+    "badge": "Booking, Backed By Security",
+    "title": "Every booking, looked after",
+    "subtitle": "From search to boarding pass, your trip details and your money are handled the same careful way.",
+    "item1": "We're here to help, 24/7 — wherever your trip takes you",
+    "item2": "Your booking and payment details stay encrypted, end to end",
+    "item3": "Smart monitoring flags anything unusual on your card"
+  },
+  "fareCarousel": {
+    "badge": "Search To Ticket, All In One Place",
+    "title": "Everything about your fare, before you commit",
+    "subtitle": "Compare fares, pay in your own currency, and get your ticket — without leaving the app or waiting on a confirmation email.",
+    "cta": "See how booking works",
+    "item1": "Compare fares across 400+ airlines",
+    "item2": "Pay in your own currency, zero FX fees",
+    "item3": "Get your e-ticket the instant payment clears",
+    "item4": "Automatic baggage allowance alerts"
+  },
+  "tabbedFeature": {
+    "badge": "Fund Your Trip, Your Way",
+    "tabs": {
+      "topUp": {
+        "label": "Top up",
+        "title": "Top up in seconds",
+        "desc": "Add money from a linked card or your bank, and it's ready to spend the moment it lands."
+      },
+      "split": {
+        "label": "Split the cost",
+        "title": "Split the cost with your travel crew",
+        "desc": "Traveling as a group? Divide a hotel or activity cost and let everyone pay their share from their own Getly wallet."
+      },
+      "payLocally": {
+        "label": "Pay locally",
+        "title": "Pay like a local, wherever you land",
+        "desc": "Tap to pay in shops, restaurants, and taxis abroad with your Getly card — no manual conversion, no guessing the rate."
+      }
+    }
+  },
+  "faq": {
+    "title": "Flight Booking FAQs",
+    "q1": "How do I receive my flight tickets?",
+    "a1": "Your e-ticket and airline confirmation code are delivered instantly to your Getly app and emailed to your registered address.",
+    "q2": "Can I cancel or change my flight booking?",
+    "a2": "Yes, changes and cancellations can be managed directly in the app according to the airline's fare rules."
+  }
+}

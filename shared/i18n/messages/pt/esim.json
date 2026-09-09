@@ -1,0 +1,20 @@
+{
+  "badge": "Conectividade eSIM Global",
+  "title": "Planos de dados globais. Zero chip físico.",
+  "subtitle": "Pouse em qualquer país e acesse a internet de alta velocidade sem tarifas abusivas de roaming.",
+  "cta": "Comprar Dados eSIM",
+  "features": {
+    "title": "Ativação Imediata em 180+ Destinos",
+    "desc": "Diga adeus às filas de chips no aeroporto. Escolha seu pacote regional e conecte-se logo após o pouso.",
+    "item1": "Instalação instantânea via QR code ou 1 toque no app",
+    "item2": "Planos flexíveis locais, regionais e globais",
+    "item3": "Sem surpresas na fatura de roaming no exterior"
+  },
+  "faq": {
+    "title": "Perguntas sobre eSIM",
+    "q1": "Meu smartphone é compatível com a eSIM do Getly?",
+    "a1": "A maioria dos aparelhos modernos da Apple, Google e Samsung é compatível. Você pode checar no app.",
+    "q2": "Eu perco meu número de WhatsApp?",
+    "a2": "Não. A eSIM funciona paralelamente ao seu chip físico, mantendo seu número e WhatsApp normais."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "badge": "Reserva de Vuelos Internacionales",
+  "title": "Reserva vuelos directamente desde tu billetera.",
+  "subtitle": "Compara más de 400 aerolíneas internacionales con precios transparentes y paga directo desde tu saldo multidivisa.",
+  "cta": "Reservar Vuelos en la App",
+  "features": {
+    "title": "Red Global de Rutas y Pago Directo",
+    "desc": "Evita comisiones por cambio de divisa y pasarelas de terceros. Reserva vuelos nacionales e internacionales al mejor precio.",
+    "item1": "Compara más de 400 aerolíneas globales y regionales",
+    "item2": "Paga directo con tu saldo sin costes por conversión de divisa",
+    "item3": "Billetes electrónicos inmediatos y alertas sobre franquicia de equipaje"
+  },
+  "howItWorks": {
+    "badge": "Cómo Funciona",
+    "title": "Reserva un vuelo en minutos",
+    "subtitle": "Desde la búsqueda hasta el e-ticket, toda la reserva ocurre sin salir de tu billetera.",
+    "step1": {
+      "eyebrow": "Paso 01",
+      "title": "Busca tu ruta",
+      "desc": "Ingresa tu origen y destino, y Getly obtiene tarifas de grandes aerolíneas y transportistas regionales."
+    },
+    "step2": {
+      "eyebrow": "Paso 02",
+      "title": "Compara tarifas en tu moneda",
+      "desc": "Cada tarifa se muestra en la moneda de tu billetera, sin sorpresas al pagar."
+    },
+    "step3": {
+      "eyebrow": "Paso 03",
+      "title": "Paga directo desde tu billetera",
+      "desc": "Confirma tu tarifa y paga directamente desde tu saldo Getly — sin datos de tarjeta, sin comisiones de cambio."
+    },
+    "step4": {
+      "eyebrow": "Paso 04",
+      "title": "Recibe tu e-ticket al instante",
+      "desc": "Tu confirmación y e-ticket llegan a la app y a tu correo en cuanto se confirma el pago."
+    }
+  },
+  "photoFeature": {
+    "entry1": {
+      "title": "Reserva sin complicaciones",
+      "desc": "Compara tarifas de las principales aerolíneas y transportistas regionales, todas en la moneda de tu billetera — sin cálculos mentales ni sorpresas en la conversión al pagar.",
+      "tag": "Busca una vez, reserva en segundos"
+    },
+    "entry2": {
+      "title": "Paga directamente desde tu billetera",
+      "desc": "Sin sitios de reserva aparte, sin volver a introducir los datos de tu tarjeta. Tu tarifa se paga al instante desde tu saldo de Getly, en la moneda que ya tienes.",
+      "tag": "Una billetera, cualquier tarifa"
+    }
+  },
+  "trustCluster": {
+    "badge": "Reservas respaldadas por seguridad",
+    "title": "Cada reserva, bien cuidada",
+    "subtitle": "Desde la búsqueda hasta la tarjeta de embarque, tus datos de viaje y tu dinero reciben el mismo cuidado.",
+    "item1": "Estamos aquí para ayudarte, 24/7 — dondequiera que te lleve tu viaje",
+    "item2": "Los datos de tu reserva y pago se mantienen cifrados de extremo a extremo",
+    "item3": "Un monitoreo inteligente detecta cualquier actividad inusual en tu tarjeta"
+  },
+  "fareCarousel": {
+    "badge": "De la búsqueda al boleto, en un solo lugar",
+    "title": "Todo sobre tu tarifa, antes de confirmar",
+    "subtitle": "Compara tarifas, paga en tu propia moneda y recibe tu boleto — sin salir de la app ni esperar un correo de confirmación.",
+    "cta": "Mira cómo funciona la reserva",
+    "item1": "Compara tarifas de más de 400 aerolíneas",
+    "item2": "Paga en tu propia moneda, sin comisiones de cambio",
+    "item3": "Recibe tu boleto electrónico en cuanto se confirme el pago",
+    "item4": "Alertas automáticas de franquicia de equipaje"
+  },
+  "tabbedFeature": {
+    "badge": "Financia tu viaje a tu manera",
+    "tabs": {
+      "topUp": {
+        "label": "Recargar",
+        "title": "Recarga en segundos",
+        "desc": "Agrega dinero desde una tarjeta vinculada o tu banco, y estará listo para gastar en cuanto llegue."
+      },
+      "split": {
+        "label": "Dividir el gasto",
+        "title": "Divide el gasto con tu grupo de viaje",
+        "desc": "¿Viajas en grupo? Divide el costo de un hotel o actividad y que cada quien pague su parte desde su propia billetera Getly."
+      },
+      "payLocally": {
+        "label": "Pagar localmente",
+        "title": "Paga como un local, dondequiera que llegues",
+        "desc": "Paga sin contacto en tiendas, restaurantes y taxis en el extranjero con tu tarjeta Getly — sin conversión manual, sin adivinar el tipo de cambio."
+      }
+    }
+  },
+  "faq": {
+    "title": "Preguntas sobre Vuelos",
+    "q1": "¿Cómo recibo mis billetes de avión?",
+    "a1": "Tu billete electrónico y localizador se envían de inmediato a tu app Getly y a tu correo electrónico.",
+    "q2": "¿Puedo modificar o cancelar mi vuelo?",
+    "a2": "Sí, puedes gestionar cambios o cancelaciones desde la app según las condiciones de la aerolínea."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "badge": "Globaler Reiseschutz",
+  "title": "Rundum-Schutz, egal wo Sie landen.",
+  "subtitle": "Medizinische Notfallversorgung, Flugverspätungen, Gepäckverlust und Abenteuersport mit einem Klick in der App absichern.",
+  "cta": "Reiseschutz abschließen",
+  "features": {
+    "title": "Sofortige Police & Digitale Schadensmeldung",
+    "desc": "Einzelne Reisen oder das ganze Reisejahr absichern. Reichen Sie Rechnungen und Berichte direkt in der App ein.",
+    "item1": "Bis zu 1.000.000 $ für medizinische Notfallbehandlungen und Krankenhausaufenthalte",
+    "item2": "Entschädigung bei Reiserücktritt, Reiseabbruch und Flugverspätung",
+    "item3": "24/7 mehrsprachige Notfall-Hotline weltweit erreichbar"
+  },
+  "visual": {
+    "tag": "Verifizierte Versicherer",
+    "title": "Erstklassiger Weltweiter Schutz",
+    "badge": "24/7 Notfallservice"
+  },
+  "faq": {
+    "title": "Versicherungs-FAQs",
+    "q1": "Wann sollte ich den Reiseschutz aktivieren?",
+    "a1": "Sie können ihn vor Reiseantritt buchen oder so einstellen, dass er automatisch bei Flugstart aktiviert wird.",
+    "q2": "Wie reiche ich einen Schaden ein?",
+    "a2": "Laden Sie Belege und Arztberichte in der Getly App hoch. Unsere Partner bearbeiten Fälle meist innerhalb von 48 Stunden."
+  }
+}

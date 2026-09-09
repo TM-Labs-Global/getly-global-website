@@ -1,0 +1,54 @@
+{
+  "brand": {
+    "name": "Getly",
+    "headline": "Die Super-App für moderne Reisende",
+    "slogan": "Unbekannte Orte in unvergessliche Erlebnisse verwandeln."
+  },
+  "nav": {
+    "home": "Startseite",
+    "wallet": "Wallet",
+    "cards": "Reisekarten",
+    "esim": "eSIM",
+    "flights": "Flüge",
+    "hotels": "Hotels",
+    "insurance": "Versicherung",
+    "visa": "Visa",
+    "aiTripPlanner": "KI-Reiseplaner",
+    "coverage": "Abdeckung",
+    "security": "Sicherheit",
+    "pricing": "Gebühren",
+    "downloadApp": "App holen",
+    "products": "Products",
+    "company": "Company",
+    "resources": "Resources",
+    "howItWorks": "How It Works"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "tagline": "Unbekannte Orte in unvergessliche Erlebnisse verwandeln.",
+    "product": "Produkt",
+    "company": "Unternehmen",
+    "legal": "Rechtliches",
+    "support": "Support",
+    "aboutUs": "Über uns",
+    "press": "Presse & Medien",
+    "blog": "Blog & News",
+    "faq": "Hilfe & FAQ",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "superAppSubtitle": "Globale Reise-Super-App",
+    "downloadCTA": "Erleben Sie modernes globales Reisen"
+  },
+  "buttons": {
+    "getApp": "Getly App holen",
+    "exploreFeatures": "Funktionen entdecken",
+    "learnMore": "Mehr erfahren",
+    "fundWallet": "Wallet aufladen",
+    "getCard": "Karte erhalten",
+    "buyEsim": "Globale eSIM kaufen",
+    "bookFlight": "Flug buchen",
+    "bookHotel": "Hotel buchen",
+    "getInsurance": "Reiseschutz holen",
+    "applyVisa": "Visum beantragen"
+  }
+}

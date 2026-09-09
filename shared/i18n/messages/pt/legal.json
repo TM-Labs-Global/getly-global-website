@@ -1,0 +1,54 @@
+{
+  "badge": "Conformidade Legal e Regulatória",
+  "lastUpdated": "Última atualização: Setembro de 2026",
+  "privacy": {
+    "title": "Política de Privacidade",
+    "description": "Como o Getly coleta, utiliza e protege seus dados pessoais e informações de viagem.",
+    "section1Title": "1. Informações que Coletamos",
+    "section1Desc": "O Getly coleta os dados pessoais necessários para fornecer serviços de viagem, gestão de carteira, planos eSIM, hotéis e reservas aéreas.",
+    "section2Title": "2. Como Usamos seus Dados",
+    "section2Desc": "Processamos seus dados estritamente para operar o aplicativo Getly, verificar sua identidade, ativar eSIMs, processar pagamentos e prevenir fraudes.",
+    "section3Title": "3. Segurança e Armazenamento",
+    "section3Desc": "Utilizamos criptografia multicamadas, autenticação biométrica e controles rigorosos de acesso para proteger suas informações."
+  },
+  "terms": {
+    "title": "Termos de Serviço",
+    "description": "Termos gerais de serviço e contrato do usuário para a plataforma e aplicativo Getly.",
+    "section1Title": "1. Aceitação dos Termos",
+    "section1Desc": "Ao baixar, acessar ou utilizar o aplicativo ou site do Getly, você concorda com estes Termos de Serviço.",
+    "section2Title": "2. Serviços Prestados",
+    "section2Desc": "O Getly oferece carteira multimoeda, cartões virtuais, dados eSIM globais, passagens aéreas, hotéis, seguros e vistos digitais com parceiros licenciados.",
+    "section3Title": "3. Responsabilidades do Usuário",
+    "section3Desc": "Você se compromete a fornecer dados corretos, manter suas credenciais seguras e utilizar os serviços em conformidade com as leis vigentes."
+  },
+  "cookie": {
+    "title": "Política de Cookies",
+    "description": "Como o Getly utiliza cookies e armazenamento local para otimizar sua navegação.",
+    "section1Title": "1. O que são Cookies",
+    "section1Desc": "Cookies são pequenos arquivos salvos no seu dispositivo que permitem lembrar preferências e garantir sessões protegidas.",
+    "section2Title": "2. Uso de Cookies",
+    "section2Desc": "O Getly utiliza cookies essenciais para segurança, cookies funcionais para lembrar preferências de idioma e cookies de análise agregada.",
+    "section3Title": "3. Gerenciamento de Preferências",
+    "section3Desc": "Você pode desativar cookies não essenciais a qualquer momento nas configurações do seu navegador ou pelo nosso painel de controle."
+  },
+  "aml": {
+    "title": "Prevenção à Lavagem de Dinheiro (AML)",
+    "description": "Diretrizes do Getly de combate à lavagem de dinheiro, financiamento ao terrorismo e verificação de identidade (KYC).",
+    "section1Title": "1. Estrutura de Conformidade",
+    "section1Desc": "O Getly cumpre rigorosamente as recomendações internacionais do GAFI/FATF e dos órgãos reguladores de combate a crimes financeiros.",
+    "section2Title": "2. Verificação de Identidade (KYC)",
+    "section2Desc": "Todos os clientes passam por processos de devida diligência (CDD) antes de acessar limites elevados ou emitir cartões.",
+    "section3Title": "3. Monitoramento de Transações",
+    "section3Desc": "Sistemas automatizados monitoram movimentações em tempo real contra listas de sanções globais e padrões suspeitos."
+  },
+  "complaints": {
+    "title": "Reclamações e Resolução de Disputas",
+    "description": "Como o Getly analisa reclamações de clientes e soluciona divergências.",
+    "section1Title": "1. Nosso Compromisso",
+    "section1Desc": "Priorizamos a excelência e transparência. Nosso time de atendimento está disponível 24 horas por dia para ajudar.",
+    "section2Title": "2. Como Enviar uma Reclamação",
+    "section2Desc": "Você pode registrar sua manifestação no suporte do aplicativo ou enviar um e-mail para complaints@getly.app.",
+    "section3Title": "3. Prazos de Resposta",
+    "section3Desc": "Confirmamos o recebimento em até 24 horas e buscamos apresentar a solução definitiva em até 15 dias úteis."
+  }
+}

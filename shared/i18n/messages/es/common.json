@@ -1,0 +1,54 @@
+{
+  "brand": {
+    "name": "Getly",
+    "headline": "La Super App Para el Viajero Moderno",
+    "slogan": "Convirtiendo lugares desconocidos en experiencias inolvidables."
+  },
+  "nav": {
+    "home": "Inicio",
+    "wallet": "Billetera",
+    "cards": "Tarjetas de Viaje",
+    "esim": "eSIM",
+    "flights": "Vuelos",
+    "hotels": "Hoteles",
+    "insurance": "Seguros",
+    "visa": "Visados",
+    "aiTripPlanner": "Planificador IA",
+    "coverage": "Cobertura",
+    "security": "Seguridad",
+    "pricing": "Tarifas",
+    "downloadApp": "Obtener App",
+    "products": "Products",
+    "company": "Company",
+    "resources": "Resources",
+    "howItWorks": "How It Works"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "tagline": "Convirtiendo lugares desconocidos en experiencias inolvidables.",
+    "product": "Producto",
+    "company": "Compañía",
+    "legal": "Legal",
+    "support": "Soporte",
+    "aboutUs": "Sobre Nosotros",
+    "press": "Prensa y Medios",
+    "blog": "Blog y Noticias",
+    "faq": "Ayuda y Preguntas",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos del Servicio",
+    "superAppSubtitle": "Super App Global de Viajes",
+    "downloadCTA": "Descubre una nueva forma de viajar"
+  },
+  "buttons": {
+    "getApp": "Obtener Getly",
+    "exploreFeatures": "Explorar Funciones",
+    "learnMore": "Ver detalles",
+    "fundWallet": "Cargar Fondos",
+    "getCard": "Obtener Tarjeta",
+    "buyEsim": "Comprar eSIM Global",
+    "bookFlight": "Reservar Vuelo",
+    "bookHotel": "Reservar Hotel",
+    "getInsurance": "Protección de Viaje",
+    "applyVisa": "Solicitar Visado"
+  }
+}

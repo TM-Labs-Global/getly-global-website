@@ -1,0 +1,20 @@
+{
+  "badge": "Connectivité eSIM Mondiale",
+  "title": "Forfaits data mondiaux. Zéro carte SIM physique.",
+  "subtitle": "Atterrissez dans n'importe quel pays et connectez-vous immédiatement à l'internet haut débit sans frais d'itinérance excessifs.",
+  "cta": "Obtenir un Forfait eSIM",
+  "features": {
+    "title": "Activation Immédiate dans 180+ Pays",
+    "desc": "Ne perdez plus de temps aux comptoirs d'aéroports. Choisissez votre forfait de données régional et installez votre profil dès l'atterrissage.",
+    "item1": "Installation instantanée via QR code ou en 1 clic dans l'application",
+    "item2": "Forfaits locaux, régionaux et mondiaux flexibles",
+    "item3": "Aucune surprise sur votre facture de téléphonie à l'étranger"
+  },
+  "faq": {
+    "title": "FAQ eSIM",
+    "q1": "Mon téléphone est-il compatible avec l'eSIM Getly ?",
+    "a1": "La plupart des téléphones récents Apple, Google et Samsung sont compatibles. Vérifiez en un instant dans l'application.",
+    "q2": "Est-ce que je conserve mon numéro habituel ?",
+    "a2": "Oui, l'eSIM fonctionne en parallèle de votre carte SIM physique, vous permettant de conserver WhatsApp et vos appels entrants."
+  }
+}

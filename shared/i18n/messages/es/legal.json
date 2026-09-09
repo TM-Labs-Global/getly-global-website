@@ -1,0 +1,54 @@
+{
+  "badge": "Cumplimiento Legal y Normativo",
+  "lastUpdated": "Última actualización: Septiembre de 2026",
+  "privacy": {
+    "title": "Política de Privacidad",
+    "description": "Cómo Getly recopila, utiliza y protege tus datos personales y de viaje.",
+    "section1Title": "1. Información que Recopilamos",
+    "section1Desc": "Getly recopila la información personal necesaria para ofrecer servicios de viaje, gestión de billetera, provisión de eSIM, hoteles y reserva de vuelos. Esto incluye datos de perfil, registros de verificación de identidad, especificaciones técnicas del dispositivo y registros de transacciones.",
+    "section2Title": "2. Cómo Usamos tu Información",
+    "section2Desc": "Procesamos tu información estrictamente para operar la super app Getly, verificar la identidad, entregar perfiles eSIM, procesar transacciones de pago, prevenir fraudes y cumplir con las obligaciones regulatorias.",
+    "section3Title": "3. Seguridad y Almacenamiento de Datos",
+    "section3Desc": "Implementamos cifrado multicapa, autenticación biométrica y estrictos controles de acceso para proteger tus datos personales contra accesos no autorizados, pérdidas o usos indebidos."
+  },
+  "terms": {
+    "title": "Términos del Servicio",
+    "description": "Términos generales del servicio y acuerdo de usuario para la app y plataforma Getly.",
+    "section1Title": "1. Aceptación de los Términos",
+    "section1Desc": "Al descargar, acceder o utilizar la aplicación móvil o el sitio web de Getly, aceptas quedar vinculado por estos Términos del Servicio.",
+    "section2Title": "2. Servicios Prestados",
+    "section2Desc": "Getly ofrece funcionalidades de billetera multidivisa, emisión de tarjetas virtuales de viaje, planes de datos móviles eSIM globales, reservas de vuelos, hoteles, seguros de viaje y soporte para visados digitales en colaboración con proveedores financieros y turísticos autorizados.",
+    "section3Title": "3. Responsabilidades del Usuario",
+    "section3Desc": "Aceptas proporcionar datos de identificación precisos, mantener la seguridad de las credenciales de tu dispositivo y utilizar los servicios de conformidad con las leyes locales e internacionales aplicables."
+  },
+  "cookie": {
+    "title": "Política de Cookies",
+    "description": "Cómo utiliza Getly las cookies y el almacenamiento local para optimizar tu experiencia.",
+    "section1Title": "1. Qué son las Cookies",
+    "section1Desc": "Las cookies y tokens de almacenamiento local son pequeños archivos de datos alojados en tu navegador o dispositivo que nos permiten recordar tus preferencias y garantizar sesiones seguras.",
+    "section2Title": "2. Cómo Usamos las Cookies",
+    "section2Desc": "Getly utiliza cookies esenciales para la gestión segura de sesiones y autenticación, cookies funcionales para guardar tus preferencias de idioma y divisa, y cookies analíticas agregadas para monitorizar el rendimiento de la plataforma.",
+    "section3Title": "3. Gestión de Preferencias",
+    "section3Desc": "Puedes personalizar o deshabilitar las cookies no esenciales en cualquier momento a través de la configuración de tu navegador o directamente mediante nuestros controles de preferencias en el sitio web."
+  },
+  "aml": {
+    "title": "Política contra el Blanqueo de Capitales (AML)",
+    "description": "Estándares de prevención del blanqueo de capitales, financiación del terrorismo y verificación de clientes (KYC).",
+    "section1Title": "1. Marco Normativo",
+    "section1Desc": "Getly mantiene estrictos procedimientos de prevención del blanqueo de capitales (AML) y de la financiación del terrorismo (CTF) en cumplimiento con las recomendaciones del GAFI y los organismos reguladores correspondientes.",
+    "section2Title": "2. Verificación de Identidad (KYC)",
+    "section2Desc": "Todos los usuarios se someten a una debida diligencia del cliente (CDD) escalonada antes de acceder a servicios de billetera de alto límite, emisión de tarjetas o herramientas de reserva, incluyendo verificación biométrica y de documentos oficiales.",
+    "section3Title": "3. Monitorización de Transacciones y Sanciones",
+    "section3Desc": "Sistemas automatizados de monitorización analizan la actividad en tiempo real contrastándola con listas globales de sanciones, bases de datos de personas con responsabilidad pública (PEP) y patrones sospechosos para prevenir delitos financieros."
+  },
+  "complaints": {
+    "title": "Reclamaciones y Resolución de Disputas",
+    "description": "Cómo gestiona Getly las quejas de los clientes, las derivaciones y la resolución de disputas.",
+    "section1Title": "1. Nuestro Compromiso",
+    "section1Desc": "Nos esforzamos por ofrecer un servicio excepcional. Si experimentas algún problema con tu billetera, tarjeta, eSIM o reserva, nuestro equipo de soporte especializado está disponible 24/7 para resolver tu consulta con rapidez.",
+    "section2Title": "2. Cómo Presentar una Reclamación",
+    "section2Desc": "Puedes presentar una queja formal directamente a través del Centro de Ayuda en la app o enviando un correo a complaints@getly.app con la referencia de la transacción y los detalles del caso.",
+    "section3Title": "3. Plazos de Resolución y Derivación",
+    "section3Desc": "Acusamos recibo de todas las quejas formales en un plazo de 24 horas y nuestro objetivo es ofrecer una resolución completa en un máximo de 15 días hábiles. Si no quedas satisfecho, tienes derecho a derivar el asunto a organismos independientes de resolución de disputas."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "badge": "Weltweite Unterkünfte",
+  "title": "Unterkünfte maßgeschneidert für jede Reise.",
+  "subtitle": "Boutique-Hotels, Luxusresorts und Apartments in über 180 Ländern direkt aus Ihrem Währungsguthaben buchen.",
+  "cta": "Hotels in der App buchen",
+  "features": {
+    "title": "Transparente Preise & Sofortige Buchung",
+    "desc": "Keine Währungsumrechnungsaufschläge beim Checkout. Sichern Sie sich Ihr Zimmer mit klaren Preisen und flexibler Stornierung.",
+    "item1": "Zugang zu über 1.000.000 verifizierten Hotels und Apartments",
+    "item2": "Direkt aus dem Wallet ohne versteckte Wechselgebühren zahlen",
+    "item3": "Flexible Stornierungsbedingungen und 24/7 Buchungssupport in der App"
+  },
+  "visual": {
+    "tag": "Handverlesene Hotels",
+    "title": "Schneller Check-in & Digitale Schlüssel",
+    "badge": "180+ Länder"
+  },
+  "faq": {
+    "title": "Hotelbuchung FAQs",
+    "q1": "Wie bezahle ich Hotelbuchungen in Getly?",
+    "a1": "Sie können sofort mit Ihrem Getly-Guthaben oder Ihrer virtuellen Karte ohne internationale Zusatzgebühren bezahlen.",
+    "q2": "Sind die Preise transparent ohne versteckte Gebühren?",
+    "a2": "Ja, der in der App angezeigte Preis ist der Gesamtbetrag inklusive aller Steuern."
+  }
+}

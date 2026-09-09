@@ -1,0 +1,25 @@
+{
+  "badge": "Hospedagens no Mundo Todo",
+  "title": "Hospedagens sob medida para cada viagem.",
+  "subtitle": "Descubra e reserve hotéis boutique, resorts e apartamentos em mais de 180 países pagando com seu saldo multimoeda.",
+  "cta": "Reservar Hotéis no App",
+  "features": {
+    "title": "Preços Claros & Confirmação Imediata",
+    "desc": "Sem surpresas no câmbio ao finalizar o pagamento. Garanta sua estadia com tarifas transparentes e cancelamento flexível.",
+    "item1": "Mais de 1.000.000 de hotéis, resorts e apartamentos verificados",
+    "item2": "Pague direto do saldo sem sobretaxas de conversão",
+    "item3": "Cancelamento flexível e atendimento 24/7 dedicado a reservas"
+  },
+  "visual": {
+    "tag": "Estadias Selecionadas",
+    "title": "Check-in Ágil & Chaves Digitais",
+    "badge": "180+ Países"
+  },
+  "faq": {
+    "title": "Perguntas sobre Hotéis",
+    "q1": "Como pago minhas diárias no Getly?",
+    "a1": "Você pode pagar na hora com o saldo da sua carteira Getly ou cartão virtual sem taxas internacionais adicionais.",
+    "q2": "Os valores incluem todas as taxas?",
+    "a2": "Sim, o valor exibido no aplicativo é o preço final com todos os impostos obrigatórios incluídos."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "badge": "Conectividad eSIM Global",
+  "title": "Planes de datos mundiales. Cero SIMs físicas.",
+  "subtitle": "Aterriza en cualquier país y conéctate a internet de alta velocidad de inmediato sin sorpresas de itinerancia.",
+  "cta": "Obtener Datos eSIM",
+  "features": {
+    "title": "Activación Instantánea en 180+ Destinos",
+    "desc": "Olvídate de buscar quioscos de SIM en el aeropuerto. Getly te permite elegir paquetes de datos regionales e instalar tu perfil al instante.",
+    "item1": "Instalación inmediata mediante código QR o activación en 1 toque",
+    "item2": "Paquetes flexibles locales, regionales y mundiales",
+    "item3": "Sin sobrecostes inesperados por itinerancia de datos"
+  },
+  "faq": {
+    "title": "Preguntas sobre eSIM",
+    "q1": "¿Mi teléfono es compatible con la eSIM de Getly?",
+    "a1": "La mayoría de dispositivos modernos de Apple, Google y Samsung son compatibles. Puedes comprobarlo al instante en la app.",
+    "q2": "¿Pierdo mi número habitual al usar la eSIM de Getly?",
+    "a2": "No. La eSIM funciona en paralelo con tu SIM física, permitiéndote recibir llamadas y usar WhatsApp normalmente."
+  }
+}

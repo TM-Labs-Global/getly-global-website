@@ -1,0 +1,163 @@
+{
+  "hero": {
+    "badge": "Super App Mondiale de Voyage",
+    "headline": "La Super App du Voyageur Moderne",
+    "headlineLine1": "La Super App du",
+    "headlineLine2": "Voyageur Moderne",
+    "subhead": "Transformer des lieux inconnus en expériences inoubliables. Un portefeuille multi-devises mondial, cartes virtuelles, eSIM, réservations de vols, hôtels, assurances et visas.",
+    "ctaPrimary": "Télécharger l'App",
+    "ctaSecondary": "Découvrir les fonctionnalités"
+  },
+  "ticker": [
+    "Portefeuille Mondial",
+    "Cartes Virtuelles",
+    "eSIM Mondiale",
+    "Réservation de Vols",
+    "Réservations d'Hôtels",
+    "Assurance Voyage",
+    "Traitement des Visas",
+    "Planificateur IA",
+    "Approvisionnement Immédiat",
+    "Multi-Devises"
+  ],
+  "partners": {
+    "backedBy": "Soutenu et approuvé par les leaders de l'industrie"
+  },
+  "pillars": {
+    "title": "Tout ce dont vous avez besoin dans une seule app.",
+    "subtitle": "Voyager est déjà assez complexe. Getly rassemble tous vos essentiels financiers, hébergements et voyages.",
+    "wallet": {
+      "eyebrow": "Portefeuille Mondial",
+      "headlineLine1": "Un seul portefeuille.",
+      "headlineLine2": "Valable partout où vous allez.",
+      "desc": "Approvisionnez, payez et retirez des fonds où que vous soyez.",
+      "cta": "Explorer le Portefeuille",
+      "badge": "Payez partout"
+    },
+    "cards": {
+      "eyebrow": "Cartes Virtuelles",
+      "headlineLine1": "Une carte virtuelle pour",
+      "headlineLine2": "chaque achat.",
+      "desc": "Cartes virtuelles instantanées, financées directement par votre portefeuille.",
+      "cta": "Explorer les Cartes",
+      "badge": "Émission Immédiate"
+    },
+    "esim": {
+      "eyebrow": "eSIM Mondiale",
+      "headlineLine1": "Atterrissez connecté.",
+      "headlineLine2": "Restez en ligne.",
+      "desc": "Activez votre forfait data en quelques secondes. Aucune carte SIM physique.",
+      "cta": "Explorer l'eSIM",
+      "badge": "180+ Pays"
+    },
+    "flights": {
+      "eyebrow": "Vols et Réservations",
+      "headlineLine1": "Réservez vos vols",
+      "headlineLine2": "depuis votre portefeuille.",
+      "desc": "Recherchez, réservez et gérez vos trajets sans quitter Getly.",
+      "cta": "Explorer les Vols",
+      "badge": "PAR → NYC"
+    },
+    "hotels": {
+      "eyebrow": "Séjours à l'Hôtel",
+      "headlineLine1": "Des hébergements adaptés",
+      "headlineLine2": "à chaque voyage.",
+      "desc": "Réservez des hôtels et appartements d'exception dans le monde entier avec votre solde.",
+      "cta": "Explorer les Hôtels",
+      "badge": "1M+ Établissements"
+    },
+    "insurance": {
+      "eyebrow": "Assurance Voyage",
+      "headlineLine1": "Une protection complète",
+      "headlineLine2": "dès votre atterrissage.",
+      "desc": "Frais médicaux d'urgence, annulation et perte de bagages couverts en un geste.",
+      "cta": "Explorer l'Assurance",
+      "badge": "Assistance 24/7"
+    },
+    "visa": {
+      "eyebrow": "Demande de Visas",
+      "headlineLine1": "Des visas rapides",
+      "headlineLine2": "en toute simplicité.",
+      "desc": "Vérifiez les formalités d'entrée, soumettez vos documents et suivez l'avancement en direct.",
+      "cta": "Explorer les Visas",
+      "badge": "120+ Destinations"
+    }
+  },
+  "pillarsIcons": {
+    "eyebrow": "Super App Features",
+    "headlineLine1": "Everything you need",
+    "headlineLine2": "in one app.",
+    "subtitle": "Travel is already complicated enough. Getly combines your wallet, travel cards, eSIM, and flights in one place."
+  },
+  "ai": {
+    "badge": "Compagnon IA Getly",
+    "title": "Itinéraires Personnalisés & Conseils Intelligents",
+    "subtitle": "Getly IA planifie votre budget journalier, suggère des lieux uniques et gère vos voyages.",
+    "cta": "Découvrir le Planificateur IA",
+    "feature1Title": "Itinéraires Intelligents",
+    "feature1Desc": "Programmes journaliers sur mesure générés en quelques secondes selon vos envies.",
+    "feature2Title": "Gestion du Budget",
+    "feature2Desc": "Estimation des dépenses quotidiennes en devises locales pour les repas et transports.",
+    "hoverHint": "Survolez pour voir Getly IA à l'œuvre"
+  },
+  "howItWorks": {
+    "badge": "Processus Simple",
+    "title": "Comment Fonctionne Getly",
+    "subtitle": "Commencez en 4 étapes simples",
+    "step1Eyebrow": "Pour Commencer",
+    "step1Title": "Téléchargez l'App Getly",
+    "step1Desc": "Installez Getly depuis l'App Store ou Google Play et validez votre profil en quelques instants.",
+    "step2Eyebrow": "Multi-Devises",
+    "step2Title": "Approvisionnez votre Portefeuille",
+    "step2Desc": "Ajoutez des fonds via carte bancaire, virement local ou réseau international.",
+    "step3Eyebrow": "Cartes & Data",
+    "step3Title": "Créez une Carte et Activez l'eSIM",
+    "step3Desc": "Générez vos cartes virtuelles et activez votre forfait internet mondial instantanément.",
+    "step4Eyebrow": "Voyagez Sans Frontières",
+    "step4Title": "Explorez le Monde en Toute Sérénité",
+    "step4Desc": "Payez à l'étranger, réservez vos vols et hôtels l'esprit tranquille."
+  },
+  "trust": {
+    "badge": "Pourquoi les Voyageurs Font Confiance à Getly",
+    "headlineLine1": "La confiance des voyageurs",
+    "headlineLine2": "dans plus de 180 pays.",
+    "subtitle": "Des frais transparents, une assistance en temps réel et un portefeuille qui fonctionne partout de la même façon.",
+    "stat1Value": "Mondial",
+    "stat1Label": "expérience pensée pour voyager",
+    "stat2Value": "0 €",
+    "stat2Label": "frais d'émission de carte*",
+    "stat3Value": "24/7",
+    "stat3Label": "assistance directe dans l'app",
+    "stat4Value": "1 app",
+    "stat4Label": "pour l'ensemble du voyage"
+  },
+  "coverage": {
+    "badge": "Présence Mondiale",
+    "title": "Disponible dans plus de 180 Destinations",
+    "subtitle": "Que vous réserviez des vols, naviguiez avec l'eSIM ou payiez avec vos cartes virtuelles, Getly voyage avec vous.",
+    "viewAll": "Découvrir tous les pays et la couverture",
+    "feature1": "Des données eSIM instantanées dès l'atterrissage",
+    "feature2": "Un portefeuille multi-devises, sans conversion manuelle",
+    "feature3": "Cartes virtuelles acceptées partout en ligne"
+  },
+  "faq": {
+    "badge": "Questions & Réponses",
+    "title": "Foire Aux Questions",
+    "subtitle": "Des questions sur Getly ? Nous avons toutes les réponses.",
+    "viewAll": "Voir toutes les questions fréquentes",
+    "q1": "Qu'est-ce que Getly ?",
+    "a1": "Getly est la super application tout-en-un pour les voyageurs modernes, les professionnels et les expatriés, regroupant portefeuille multi-devises, cartes virtuelles, eSIM, vols, hôtels, assurances et visas.",
+    "q2": "Comment approvisionner mon portefeuille Getly ?",
+    "a2": "Vous pouvez recharger instantanément par carte bancaire locale, options de paiement bancaire ou réseaux de paiement internationaux.",
+    "q3": "Comment fonctionne l'eSIM internationale ?",
+    "a3": "Getly propose des profils eSIM numériques pour plus de 180 pays. Scannez le code QR ou appuyez sur installation automatique pour surfer sur les réseaux locaux.",
+    "q4": "Puis-je réserver mes vols et hôtels avec mon solde ?",
+    "a4": "Oui ! Getly vous permet de comparer et réserver des vols et plus d'un million d'hôtels directement depuis votre solde multi-devises."
+  },
+  "download": {
+    "eyebrow": "Votre aventure commence ici",
+    "headlineLine1": "Une seule app.",
+    "headlineLine2": "Des voyages infinis.",
+    "subtitle": "Téléchargez Getly et emportez portefeuille, data, réservations et compagnon de route avec vous."
+  }
+}
