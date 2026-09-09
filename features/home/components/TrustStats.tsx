@@ -22,10 +22,6 @@ export default function TrustStats() {
       <div className="pointer-events-none absolute top-0 left-1/2 -translate-x-1/2 w-[900px] h-[900px] rounded-full bg-[var(--blue)]/15 blur-3xl" />
 
       <div className="relative max-w-3xl mx-auto px-6 text-center space-y-5">
-        <span className="inline-flex items-center rounded-full bg-[var(--blue)] text-white px-4 py-2 text-xs sm:text-sm font-semibold tracking-wide">
-          {t("badge")}
-        </span>
-
         <h2 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight leading-[1.05] text-white">
           <span className="block">{t("headlineLine1")}</span>
           <span className="block">{t("headlineLine2")}</span>
