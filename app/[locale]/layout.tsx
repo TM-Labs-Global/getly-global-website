@@ -32,12 +32,12 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
   const isRtl = locale === "ar";
 
   return (
-    <html lang={locale} dir={isRtl ? "rtl" : "ltr"} className={`scroll-smooth ${cairo.variable}`}>
+    <html lang={locale} dir={isRtl ? "rtl" : "ltr"} className={cairo.variable}>
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="/brand/icon-blue.svg" type="image/svg+xml" />
       </head>
-      <body className="antialiased bg-[var(--canvas)] text-[var(--ink)] font-sans overflow-x-hidden min-h-screen flex flex-col">
+      <body className="antialiased bg-[var(--canvas)] text-[var(--ink)] font-sans min-h-screen flex flex-col">
         <NextIntlClientProvider messages={messages} locale={locale}>
           <SmoothScrollProvider>
             <Navbar />

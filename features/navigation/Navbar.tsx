@@ -245,7 +245,10 @@ export default function Navbar() {
       {/* Mobile Drawer Menu — three collapsible sections instead of one
           long flat list. */}
       {mobileMenuOpen && (
-        <div className="pointer-events-auto fixed inset-x-4 top-20 bg-[var(--navy)]/95 backdrop-blur-2xl border border-white/15 rounded-3xl p-6 shadow-2xl flex flex-col gap-2 text-white z-50 lg:hidden max-h-[85vh] overflow-y-auto">
+        <div
+          data-lenis-prevent
+          className="pointer-events-auto fixed inset-x-4 top-20 bg-[var(--navy)]/95 backdrop-blur-2xl border border-white/15 rounded-3xl p-6 shadow-2xl flex flex-col gap-2 text-white z-50 lg:hidden max-h-[85vh] overflow-y-auto"
+        >
           {menus.map((menu) => {
             const expanded = mobileSection === menu.key;
             return (

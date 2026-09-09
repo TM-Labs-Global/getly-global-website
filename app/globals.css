@@ -27,13 +27,37 @@
   --radius-full: var(--r-full);
 }
 
+html {
+  scroll-behavior: auto !important;
+}
+
 html, body {
   font-family: var(--font-cairo), sans-serif;
   background-color: var(--canvas);
   color: var(--ink);
-  overflow-x: hidden;
   margin: 0;
   padding: 0;
+}
+
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: clip;
+}
+
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
 }
 
 /* Custom Utilities for Tabular Figures */
