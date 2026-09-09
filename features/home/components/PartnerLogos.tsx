@@ -9,6 +9,7 @@ export default function PartnerLogos() {
   const topRow = [
     { name: "Stripe", src: "/partner-logos/Stripe.svg" },
     { name: "Circle", src: "/partner-logos/circle.png" },
+    { name: "Bitnob", src: "/partner-logos/bitnob-logo.webp", sizeClass: "h-8 w-28 sm:w-36" },
     { name: "Flutterwave", src: "/partner-logos/Flutterwave_Logo.png" },
     { name: "African Union", src: "/partner-logos/african-union.png" },
   ];
@@ -18,7 +19,8 @@ export default function PartnerLogos() {
     { name: "QFC", src: "/partner-logos/QFC-logo.svg" },
     { name: "IATF", src: "/partner-logos/iatf.png" },
     { name: "Industry Partner", src: "/partner-logos/logo-main.svg" },
-    { name: "NDPC", src: "/partner-logos/ndpc.jpg", sizeClass: "h-16 w-36 sm:w-44" },
+    { name: "NDPC", src: "/partner-logos/ndpc.jpg", sizeClass: "h-14 w-32 sm:w-40" },
+    { name: "NDP Act Compliance Audit", src: "/partner-logos/getly-ndp-batch.png", sizeClass: "h-14 w-14 sm:w-16" },
   ];
 
   return (

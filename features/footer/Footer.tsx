@@ -3,6 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useTranslations } from "next-intl";
+import { Instagram, Linkedin } from "lucide-react";
 import { APP_STORE_URL, PLAY_STORE_URL } from "@/shared/utils/appLinks";
 import LanguageSwitcher from "@/shared/components/LanguageSwitcher";
 
@@ -70,6 +71,39 @@ export default function Footer() {
                   fill
                   className="object-contain object-left"
                 />
+              </a>
+            </div>
+
+            {/* Social Media Links */}
+            <div className="flex items-center gap-2.5 pt-2">
+              <a
+                href="https://www.instagram.com/get.getly/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Follow Getly on Instagram"
+                className="w-9 h-9 rounded-xl bg-white/5 hover:bg-white/15 border border-white/10 hover:border-white/25 flex items-center justify-center text-white/70 hover:text-white transition-all duration-300 transform hover:scale-105"
+              >
+                <Instagram className="w-4 h-4" />
+              </a>
+              <a
+                href="https://twitter.com/hellogetly"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Follow Getly on Twitter / X"
+                className="w-9 h-9 rounded-xl bg-white/5 hover:bg-white/15 border border-white/10 hover:border-white/25 flex items-center justify-center text-white/70 hover:text-white transition-all duration-300 transform hover:scale-105"
+              >
+                <svg className="w-3.5 h-3.5 fill-current" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+                </svg>
+              </a>
+              <a
+                href="https://ng.linkedin.com/company/getlyapp"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Follow Getly on LinkedIn"
+                className="w-9 h-9 rounded-xl bg-white/5 hover:bg-white/15 border border-white/10 hover:border-white/25 flex items-center justify-center text-white/70 hover:text-white transition-all duration-300 transform hover:scale-105"
+              >
+                <Linkedin className="w-4 h-4" />
               </a>
             </div>
           </div>
@@ -176,9 +210,56 @@ export default function Footer() {
           </div>
         </div>
 
+        {/* Regulatory Notice & Contact Information */}
+        <div className="pt-8 sm:pt-10 pb-6 sm:pb-8 border-b border-white/10 flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
+          <div className="space-y-2 text-xs text-white/60 leading-relaxed max-w-4xl">
+            <p>
+              Getly Limited, a subsidiary of Takeout Media Ltd, is a technology company working in partnership with licensed financial institutions. We are registered as Money Lending Agents under the High Court of Nigeria and audited for compliance with the Nigeria Data Protection Regulation (NDPR). Registered address: 36 Sokode Crescent, Wuse Zone 5, Abuja, Nigeria. Email:{" "}
+              <a
+                href="mailto:hello@getly.app"
+                className="text-white/85 hover:text-white underline decoration-white/30 hover:decoration-white transition-colors"
+              >
+                hello@getly.app
+              </a>
+              ,
+            </p>
+            <p>
+              Phone: NG –{" "}
+              <a
+                href="tel:+2348131296333"
+                className="text-white/85 hover:text-white transition-colors"
+              >
+                +234 813 129 6333
+              </a>
+              , QA –{" "}
+              <a
+                href="tel:+97450690946"
+                className="text-white/85 hover:text-white transition-colors"
+              >
+                +974 5069 0946
+              </a>
+            </p>
+          </div>
+
+          <div className="shrink-0 flex items-center gap-3 bg-white/5 border border-white/10 rounded-2xl p-2.5">
+            <div className="relative w-12 h-12 sm:w-14 sm:h-14 rounded-xl overflow-hidden bg-white p-1">
+              <Image
+                src="/partner-logos/getly-ndp-batch.png"
+                alt="NDP Act Compliance Audit 2025"
+                fill
+                className="object-contain"
+              />
+            </div>
+            <div className="text-[11px] text-white/70 leading-tight">
+              <p className="font-bold text-white">NDPR Audited</p>
+              <p className="text-white/50">Statutory Filing 2025</p>
+            </div>
+          </div>
+        </div>
+
         {/* Copyright Bar & Language Selector */}
         <div className="pt-6 sm:pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-white/50">
-          <p>© {new Date().getFullYear()} Getly. {t("rights")}</p>
+          <p>©2025 Getly Technologies Limited. All rights reserved.</p>
           <div className="flex items-center gap-4">
             <LanguageSwitcher isDark={true} />
             <span className="hidden sm:inline text-white/20">|</span>
