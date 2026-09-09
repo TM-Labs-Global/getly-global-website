@@ -133,12 +133,21 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
           {/* Brand Logo */}
           <Link href="/" className="flex items-center gap-2 group shrink-0">
+            {/* The logo file's own aspect ratio (125:71) is much narrower
+                than this w-28 h-8 box, so object-contain alone centered
+                it — leaving ~28px of empty space to the LEFT of the
+                visible wordmark inside the box. That pushed the logo's
+                actual left edge well to the right of the hero content's
+                left edge below it (both containers share the same
+                max-w-7xl px-6), reading as "misaligned" on mobile where
+                that gap is most obvious. object-left (already used for
+                this same logo in Footer.tsx) pins it flush left instead. */}
             <div className="relative w-28 h-8 flex items-center">
               <Image
                 src={isDarkHeader ? "/brand/getly-logo.svg" : "/brand/getly-logo-dark.svg"}
                 alt="Getly"
                 fill
-                className="object-contain transition-opacity duration-300"
+                className="object-contain object-left transition-opacity duration-300"
                 priority
               />
             </div>

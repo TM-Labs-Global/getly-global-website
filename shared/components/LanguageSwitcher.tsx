@@ -26,6 +26,8 @@ export default function LanguageSwitcher({
   const [query, setQuery] = useState("");
   const [mounted, setMounted] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
+  // Separately tracks the mobile portal's modal content (see below for why).
+  const modalContentRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     setMounted(true);
@@ -50,10 +52,28 @@ export default function LanguageSwitcher({
     });
   }, [query]);
 
-  // Handle outside click & escape key to close
+  // Handle outside click & escape key to close.
+  //
+  // The mobile picker renders through a React portal straight onto
+  // document.body (so it can never be clipped by the navbar's own
+  // overflow) — which means its DOM nodes sit OUTSIDE dropdownRef's own
+  // subtree even though they're still inside this component in React's
+  // tree. dropdownRef.current.contains(...) is a real DOM check, so it
+  // was always false for anything tapped inside the portal, meaning
+  // every tap in there — including on a language row — was treated as
+  // an "outside" click. Because this listens on "mousedown" (fires
+  // before "click"), that closed the modal and unmounted the portal
+  // BEFORE the row's own onClick/switchLocale could run, so the tap
+  // just closed the sheet with no language change — the "stuck, nothing
+  // happens" symptom. modalContentRef marks the portal's own content box
+  // as "inside" too, so only a genuine tap on the backdrop (handled
+  // separately below, with stopPropagation on the content box) closes it.
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
-      if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
+      const target = event.target as Node;
+      const insideTrigger = dropdownRef.current?.contains(target);
+      const insideMobileModal = modalContentRef.current?.contains(target);
+      if (!insideTrigger && !insideMobileModal) {
         setIsOpen(false);
       }
     }
@@ -185,6 +205,7 @@ export default function LanguageSwitcher({
             onClick={() => setIsOpen(false)}
           >
             <div
+              ref={modalContentRef}
               className="w-full max-w-sm bg-white rounded-3xl p-5 shadow-2xl flex flex-col max-h-[82vh] border border-slate-200 text-[var(--navy)] animate-in slide-in-from-bottom-6 duration-200"
               onClick={(e) => e.stopPropagation()}
               data-lenis-prevent

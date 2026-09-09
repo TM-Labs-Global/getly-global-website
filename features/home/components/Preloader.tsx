@@ -1,17 +1,44 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import Image from "next/image";
 
+// useLayoutEffect warns ("does nothing on the server") when it runs during
+// SSR, because there's no DOM to lay anything out yet — React's own
+// recommended workaround is to fall back to useEffect there and only use
+// the real layout effect once running in a browser. Used below so a
+// returning visitor's "already seen it" dismissal happens before the
+// browser paints, instead of as a visible flash after.
+const useIsomorphicLayoutEffect = typeof window !== "undefined" ? useLayoutEffect : useEffect;
+
 export default function Preloader() {
-  const [mounted, setMounted] = useState(false);
+  // No "mounted" gate: this component renders its full preloader markup
+  // by default on every render, server-rendered HTML included. The
+  // previous version started as `mounted = false` (rendering null) and
+  // only flipped true inside a useEffect — but a useEffect never runs
+  // during SSR and only runs on the client AFTER the browser has already
+  // painted the initial HTML. That left a real gap, from first paint
+  // until hydration's effect fired, where the preloader render was
+  // `null` and the actual homepage (Hero included) was sitting there
+  // fully visible and unmasked. How long that gap lasted depended on
+  // hydration speed — network, device, JS bundle size — which is exactly
+  // why the flash only showed up "sometimes" rather than every time.
+  // isDismissed is the only gate now, and it starts false so the very
+  // first paint (server and client) always shows the preloader.
   const [showRing, setShowRing] = useState(false);
   const [isFolding, setIsFolding] = useState(false);
   const [isDismissed, setIsDismissed] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
 
-  useEffect(() => {
-    // Check if user already saw the preloader in this session
+  useIsomorphicLayoutEffect(() => {
+    // Check if user already saw the preloader in this session. This can
+    // only run on the client (sessionStorage doesn't exist during SSR),
+    // so a returning visitor within the same session still sees the
+    // preloader for a moment before this dismisses it — but as a layout
+    // effect it fires before the browser paints, so in practice that's
+    // an unnoticeable flash rather than the whole raw homepage showing
+    // through, and it never touches first-time visitors at all (this
+    // branch simply doesn't run for them).
     try {
       if (sessionStorage.getItem("getly_preloader_seen")) {
         setIsDismissed(true);
@@ -21,7 +48,6 @@ export default function Preloader() {
       // Fallback for private browsing mode
     }
 
-    setMounted(true);
     document.body.style.overflow = "hidden";
 
     // Play background video
@@ -31,15 +57,21 @@ export default function Preloader() {
       });
     }
 
-    // Phase 1: Fade in the 3D ring at ~2.2s (halfway into the Earth sunrise video)
+    // Phase 1: Fade in the 3D ring at ~4s into the 10s Earth sunrise video
+    // (was 2.2s/4.8s — stretched out so the preloader gets noticeably more
+    // screen time: more of the video plays solo before the ring appears,
+    // and the ring itself now holds for ~4s instead of ~2.6s before the
+    // fold-up starts. Still finishes with time to spare inside the video's
+    // 10s length, so it's never caught folding away over a frozen last
+    // frame.)
     const ringTimer = setTimeout(() => {
       setShowRing(true);
-    }, 2200);
+    }, 4000);
 
-    // Phase 2: Trigger upward fold curtain reveal at ~4.8s
+    // Phase 2: Trigger upward fold curtain reveal at ~8s
     const foldTimer = setTimeout(() => {
       triggerFoldUp();
-    }, 4800);
+    }, 8000);
 
     return () => {
       clearTimeout(ringTimer);
@@ -62,7 +94,7 @@ export default function Preloader() {
     }, 1000);
   };
 
-  if (!mounted || isDismissed) return null;
+  if (isDismissed) return null;
 
   return (
     <div
@@ -128,7 +160,11 @@ export default function Preloader() {
           className="h-full bg-gradient-to-r from-[var(--blue)] via-cyan-400 to-[var(--blue)] transition-all ease-linear"
           style={{
             width: isFolding ? "100%" : showRing ? "85%" : "45%",
-            transitionDuration: isFolding ? "300ms" : showRing ? "2600ms" : "2200ms",
+            // Kept in lockstep with ringTimer/foldTimer above: 0→45% over
+            // the first 4s, 45%→85% over the next 4s (landing on 85%
+            // exactly as the 8s fold-up trigger fires), then a quick
+            // 100% snap once folding starts.
+            transitionDuration: isFolding ? "300ms" : showRing ? "4000ms" : "4000ms",
           }}
         />
       </div>
