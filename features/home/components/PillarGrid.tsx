@@ -49,7 +49,7 @@ export default function PillarGrid() {
       desc: t("wallet.desc"),
       cta: t("wallet.cta"),
       link: "/wallet",
-      image: "/mockup/lifestyle/man-holding-phone-from-a-top-third-eye-view.png",
+      image: "/imagery/holding-smartphone-mockup-on-the-street.jpeg",
       badgeIcon: Globe,
       badgeLabel: t("wallet.badge"),
     },
