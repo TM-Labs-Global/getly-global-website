@@ -118,7 +118,7 @@ export default function LanguageSwitcher({
             />
           </div>
 
-          <div className="max-h-72 overflow-y-auto">
+          <div className="max-h-72 overflow-y-auto" data-lenis-prevent>
             {filteredLocales.map((loc) => {
               const option = localeDetails[loc];
               const isSelected = loc === currentLocale;

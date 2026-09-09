@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { ChevronDown, Smartphone, CheckCircle, HelpCircle } from "lucide-react";
+import Link from "next/link";
+import { ChevronDown, Smartphone, CheckCircle, HelpCircle, ArrowUpRight } from "lucide-react";
 
 interface DeviceCategory {
   brand: string;
@@ -62,45 +63,47 @@ const FAQS: FAQItem[] = [
 ];
 
 export default function EsimCompatibilityFAQ() {
-  const [openIndex, setOpenIndex] = useState<number | null>(1); // Open device check by default or when clicked
+  const [openIndex, setOpenIndex] = useState<number | null>(1); // Open device check by default
 
   const toggleAccordion = (idx: number) => {
     setOpenIndex(openIndex === idx ? null : idx);
   };
 
   return (
-    <section className="py-20 lg:py-28 bg-white border-b border-[var(--line)]">
-      <div className="max-w-4xl mx-auto px-6">
+    <section className="py-24 sm:py-32 bg-[var(--surface-2)] border-t border-[var(--line)]">
+      <div className="max-w-4xl mx-auto px-6 space-y-12">
         
-        {/* Unified FAQ Header */}
-        <div className="text-center space-y-3 mb-10 sm:mb-12">
-          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-slate-100 text-xs font-bold uppercase tracking-wider text-slate-700">
-            <HelpCircle className="w-3.5 h-3.5 text-[var(--blue)]" />
+        {/* Section Header */}
+        <div className="text-center space-y-4">
+          <span className="text-xs font-bold uppercase tracking-widest text-[var(--blue)] bg-white px-4 py-1.5 rounded-full border border-[var(--line)] shadow-flat inline-flex items-center gap-1.5">
+            <HelpCircle className="w-3.5 h-3.5" />
             <span>FREQUENTLY ASKED QUESTIONS</span>
-          </div>
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[var(--navy)] tracking-tight">
+          </span>
+          <h2 className="text-3xl sm:text-4xl font-extrabold text-[var(--navy)] tracking-tight">
             Everything you need to know about Getly eSIM
           </h2>
-          <p className="text-sm sm:text-base text-[var(--ink-soft)] font-medium max-w-xl mx-auto leading-relaxed">
+          <p className="text-base text-[var(--ink-soft)] font-medium">
             Quick answers regarding device compatibility, installation, and global roaming coverage.
           </p>
         </div>
 
         {/* Accordion List */}
-        <div className="space-y-3.5">
+        <div className="space-y-4">
           {FAQS.map((faq, idx) => {
             const isOpen = openIndex === idx;
 
             return (
               <div
                 key={idx}
-                className="rounded-2xl border border-[var(--line)] bg-white overflow-hidden transition-all shadow-flat hover:border-slate-300"
+                className="bg-white rounded-2xl border border-[var(--line)] shadow-flat overflow-hidden transition-all duration-300"
               >
                 <button
+                  type="button"
                   onClick={() => toggleAccordion(idx)}
-                  className="w-full text-left px-6 py-5 flex items-center justify-between gap-4 font-bold text-base sm:text-lg text-[var(--navy)] hover:text-[var(--blue)] transition-colors"
+                  className="w-full px-6 py-5 flex items-center justify-between text-left font-bold text-[var(--navy)] text-base sm:text-lg hover:text-[var(--blue)] transition-colors"
+                  aria-expanded={isOpen}
                 >
-                  <div className="flex items-center gap-3 flex-wrap">
+                  <div className="flex items-center gap-3 flex-wrap pr-4">
                     <span>{faq.q}</span>
                     {faq.badge && (
                       <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full bg-blue-50 border border-blue-200 text-xs font-semibold text-[var(--blue)]">
@@ -110,14 +113,14 @@ export default function EsimCompatibilityFAQ() {
                     )}
                   </div>
                   <ChevronDown
-                    className={`w-5 h-5 text-[var(--blue)] shrink-0 transition-transform duration-300 ${
+                    className={`w-5 h-5 shrink-0 text-[var(--blue)] transition-transform duration-300 ${
                       isOpen ? "rotate-180" : ""
                     }`}
                   />
                 </button>
 
                 {isOpen && (
-                  <div className="px-6 pb-6 pt-2 text-sm sm:text-base text-[var(--ink-soft)] leading-relaxed border-t border-slate-100 space-y-4">
+                  <div className="px-6 pb-6 text-sm text-[var(--ink-soft)] leading-relaxed border-t border-[var(--line)]/50 pt-4 space-y-4">
                     {faq.a && <p>{faq.a}</p>}
 
                     {/* Integrated Device Compatibility Breakdown */}
@@ -156,6 +159,17 @@ export default function EsimCompatibilityFAQ() {
               </div>
             );
           })}
+        </div>
+
+        {/* View Full FAQ Link */}
+        <div className="text-center pt-4">
+          <Link
+            href="/faq"
+            className="inline-flex items-center gap-1.5 text-sm font-bold text-[var(--blue)] hover:underline"
+          >
+            <span>View All Frequently Asked Questions</span>
+            <ArrowUpRight className="w-4 h-4" />
+          </Link>
         </div>
 
       </div>

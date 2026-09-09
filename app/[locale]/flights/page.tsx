@@ -1,5 +1,6 @@
 import { JsonLd } from "@/shared/components/JsonLd";
 import ProductHero from "@/shared/components/ProductHero";
+import ProductFAQ from "@/shared/components/ProductFAQ";
 import FlightsHowItWorks from "@/features/flights/components/FlightsHowItWorks";
 import FlightsPhotoFeature from "@/features/flights/components/FlightsPhotoFeature";
 import FlightsTrustCluster from "@/features/flights/components/FlightsTrustCluster";
@@ -65,27 +66,16 @@ export default async function FlightsPage({ params }: { params: Promise<{ locale
           <FlightsTrustCluster />
 
           <FlightsTabbedFeature />
-
-          {/* Quick FAQ Strip */}
-          <div className="bg-white rounded-3xl p-8 md:p-12 border border-[var(--line)] shadow-soft space-y-6">
-            <h3 className="text-2xl font-bold text-[var(--navy)]">{t("faq.title")}</h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 pt-2">
-              <div className="space-y-2">
-                <h4 className="text-base font-bold text-[var(--navy)]">{t("faq.q1")}</h4>
-                <p className="text-sm text-[var(--ink-soft)] leading-relaxed">
-                  {t("faq.a1")}
-                </p>
-              </div>
-              <div className="space-y-2">
-                <h4 className="text-base font-bold text-[var(--navy)]">{t("faq.q2")}</h4>
-                <p className="text-sm text-[var(--ink-soft)] leading-relaxed">
-                  {t("faq.a2")}
-                </p>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
+
+      <ProductFAQ
+        title={t("faq.title")}
+        items={[
+          { q: t("faq.q1"), a: t("faq.a1") },
+          { q: t("faq.q2"), a: t("faq.a2") },
+        ]}
+      />
     </>
   );
 }

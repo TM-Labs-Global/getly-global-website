@@ -23,6 +23,17 @@ export function useLenis() {
       duration: 1.2,
       easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
       smoothWheel: true,
+      // Lenis hijacks wheel/trackpad events for its own smoothed page
+      // scroll by default, even when the event originates inside a nested
+      // overflow-y-auto element (a dropdown, modal list, etc.) — so two-
+      // finger trackpad scrolling over something like the language picker
+      // did nothing (Lenis was trying to scroll the page instead), while
+      // dragging the native scrollbar thumb worked because that bypasses
+      // wheel events entirely. allowNestedScroll makes Lenis detect a
+      // scrollable ancestor under the cursor and hand the gesture to it
+      // natively instead, so every nested scroll area on the site — not
+      // just this one dropdown — scrolls normally with trackpad/wheel.
+      allowNestedScroll: true,
     });
     lenisRef.current = lenis;
 
