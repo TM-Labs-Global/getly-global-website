@@ -139,8 +139,14 @@ export default function HowItWorksAccordion({
                 }`}
               />
 
-              {/* Step-number badge */}
-              <div className="absolute top-6 left-6 w-14 h-14 rounded-full bg-white/95 shadow-md flex items-center justify-center">
+              {/* Step-number badge: centered horizontally in default/collapsed state, aligns to left on active/expanded */}
+              <div
+                className={`absolute top-6 w-14 h-14 rounded-full bg-white/95 shadow-md flex items-center justify-center transition-all duration-[850ms] ease-[cubic-bezier(0.65,0,0.35,1)] ${
+                  isActive
+                    ? "left-6 lg:left-8 translate-x-0"
+                    : "left-1/2 -translate-x-1/2"
+                }`}
+              >
                 <span className="text-2xl font-extrabold text-[var(--navy)] tabular-nums leading-none">
                   {i + 1}
                 </span>

@@ -223,8 +223,20 @@ export default function PillarGrid() {
       </div>
 
       {/* Scroll-snap track */}
+      {/* dir="ltr" is forced here regardless of the page's own direction.
+          scrollToIndex below drives this track with scrollLeft math built
+          from getBoundingClientRect deltas (always physical/left-to-right
+          values); scrollLeft itself is NOT physical — browsers give it
+          RTL-inverted (often negative) semantics under dir="rtl", so mixing
+          the two under Arabic sent every computed target scroll position
+          out of range and the track never advanced past the first card,
+          i.e. the section looked stuck/not-rendering on locale switch to
+          Arabic. Isolating this one scroll container to LTR keeps
+          scrollLeft's simple 0-based convention regardless of document
+          direction, so the math above is correct in every locale. */}
       <div
         ref={trackRef}
+        dir="ltr"
         onPointerDown={pauseOnManualInteraction}
         onWheel={pauseOnManualInteraction}
         className="highlights-track flex overflow-x-auto snap-x snap-mandatory gap-5 px-[4vw] lg:px-[4%] pb-2"
