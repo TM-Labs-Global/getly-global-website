@@ -21,5 +21,26 @@
     "a1": "Você pode pagar na hora com o saldo da sua carteira Getly ou cartão virtual sem taxas internacionais adicionais.",
     "q2": "Os valores incluem todas as taxas?",
     "a2": "Sim, o valor exibido no aplicativo é o preço final com todos os impostos obrigatórios incluídos."
+  },
+  "howItWorks": {
+    "badge": "Reserve em minutos",
+    "title": "Da busca ao check-in, em quatro passos",
+    "subtitle": "Compare tarifas reais, pague pela sua wallet e chegue com a reserva já confirmada.",
+    "step1": {
+      "title": "Busque entre mais de 1.000.000 hospedagens",
+      "desc": "Explore hotéis, apartamentos e vilas verificados em mais de 180 países."
+    },
+    "step2": {
+      "title": "Compare tarifas transparentes",
+      "desc": "Veja o preço local sem taxas de câmbio escondidas na hora de pagar."
+    },
+    "step3": {
+      "title": "Pague com o saldo da sua wallet",
+      "desc": "Reserve diretamente do seu saldo multimoeda — sem precisar de outro cartão."
+    },
+    "step4": {
+      "title": "Faça check-in com a confirmação em mãos",
+      "desc": "Receba confirmação instantânea e cancelamento flexível, com suporte 24 horas se os planos mudarem."
+    }
   }
 }

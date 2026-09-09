@@ -21,5 +21,26 @@
     "a1": "Puedes activarla antes de viajar o programarla para que inicie automáticamente cuando salga tu vuelo.",
     "q2": "¿Cómo solicito una indemnización?",
     "a2": "Sube tus facturas o informes médicos en la app Getly. Nuestro equipo revisa tu caso en menos de 48 horas."
+  },
+  "howItWorks": {
+    "badge": "Protegido en minutos",
+    "title": "De la cobertura al reclamo, en cuatro pasos",
+    "subtitle": "Elige tu plan, actívalo antes de volar y viaja sabiendo que la ayuda está a un toque de distancia.",
+    "step1": {
+      "title": "Elige tu cobertura",
+      "desc": "Protege un solo viaje o cubre tus viajes durante todo el año."
+    },
+    "step2": {
+      "title": "Actívala con un toque",
+      "desc": "Activa tu protección antes de salir, o prográmala para que comience justo cuando despegue tu vuelo."
+    },
+    "step3": {
+      "title": "Viaja con asistencia 24/7",
+      "desc": "Comunícate con una línea de emergencia global en cualquier momento, dondequiera que te lleve tu viaje."
+    },
+    "step4": {
+      "title": "Presenta tu reclamo en la app",
+      "desc": "Sube tus recibos o informes médicos directamente — la mayoría de los reclamos se procesan en 48 horas."
+    }
   }
 }

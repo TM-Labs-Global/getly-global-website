@@ -3,6 +3,7 @@ import { Hotel, ArrowUpRight, CheckCircle2 } from "lucide-react";
 import { APP_STORE_URL } from "@/shared/utils/appLinks";
 import { JsonLd } from "@/shared/components/JsonLd";
 import ProductHero from "@/shared/components/ProductHero";
+import HotelsHowItWorks from "@/features/hotels/components/HotelsHowItWorks";
 import { getTranslations } from "next-intl/server";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -58,6 +59,8 @@ export default async function HotelsPage({ params }: { params: Promise<{ locale:
 
       <div className="py-24 bg-[var(--canvas)]">
         <div className="max-w-7xl mx-auto px-6 space-y-20">
+
+          <HotelsHowItWorks />
 
           {/* Feature Split & Photography Card */}
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center bg-white rounded-3xl p-8 md:p-12 border border-[var(--line)] shadow-soft">

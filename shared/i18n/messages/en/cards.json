@@ -52,5 +52,26 @@
       "title": "Funded straight from your wallet",
       "desc": "No separate top-up step. Every virtual card draws instantly from your Getly wallet balance the moment you spend."
     }
+  },
+  "howItWorks": {
+    "badge": "Get Started In Minutes",
+    "title": "From tap to spend, in four steps",
+    "subtitle": "Generate a virtual card, fund it from your wallet, and start spending — no plastic, no waiting.",
+    "step1": {
+      "title": "Generate your card",
+      "desc": "Create a virtual card in seconds and set your own spending limit right from the app."
+    },
+    "step2": {
+      "title": "Fund it from your wallet",
+      "desc": "Every card draws straight from your Getly balance — no separate top-up step required."
+    },
+    "step3": {
+      "title": "Spend anywhere it's accepted",
+      "desc": "Use it for online stores, subscriptions, and flight bookings, wherever payment cards are taken."
+    },
+    "step4": {
+      "title": "Freeze it in one tap",
+      "desc": "Something feels off? Freeze the card instantly and get real-time alerts on every transaction."
+    }
   }
 }

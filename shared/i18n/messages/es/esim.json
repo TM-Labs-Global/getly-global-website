@@ -16,5 +16,26 @@
     "a1": "La mayoría de dispositivos modernos de Apple, Google y Samsung son compatibles. Puedes comprobarlo al instante en la app.",
     "q2": "¿Pierdo mi número habitual al usar la eSIM de Getly?",
     "a2": "No. La eSIM funciona en paralelo con tu SIM física, permitiéndote recibir llamadas y usar WhatsApp normalmente."
+  },
+  "howItWorks": {
+    "badge": "Conectado en minutos",
+    "title": "Del aterrizaje a la conexión, en cuatro pasos",
+    "subtitle": "Olvídate del quiosco de SIM del aeropuerto — elige un plan, instálalo y estarás conectado antes de salir de la puerta.",
+    "step1": {
+      "title": "Elige tu destino y plan",
+      "desc": "Explora paquetes de datos locales, regionales o globales para tu próximo destino."
+    },
+    "step2": {
+      "title": "Instala con un código QR o un toque",
+      "desc": "Añade tu perfil eSIM directamente desde la app — sin tarjeta SIM física que cambiar."
+    },
+    "step3": {
+      "title": "Conéctate al aterrizar",
+      "desc": "Tus datos se activan al llegar, sin colas en quioscos ni sorpresas de roaming."
+    },
+    "step4": {
+      "title": "Mantén tu número activo",
+      "desc": "Tu eSIM funciona junto a tu SIM física, así que las llamadas y mensajes de tu número principal siguen llegando."
+    }
   }
 }

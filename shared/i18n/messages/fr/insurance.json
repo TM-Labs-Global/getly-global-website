@@ -21,5 +21,26 @@
     "a1": "Vous pouvez souscrire avant votre départ ou programmer l'activation automatique au moment du décollage.",
     "q2": "Comment déclarer un sinistre ?",
     "a2": "Téléchargez vos factures ou rapports médicaux dans l'application Getly. Nos équipes traitent votre dossier sous 48 heures."
+  },
+  "howItWorks": {
+    "badge": "Protégé en quelques minutes",
+    "title": "De la couverture à la demande, en quatre étapes",
+    "subtitle": "Choisissez votre formule, activez-la avant le départ et voyagez en sachant que l'aide n'est qu'à un geste.",
+    "step1": {
+      "title": "Choisissez votre couverture",
+      "desc": "Couvrez un seul voyage ou protégez tous vos déplacements toute l'année."
+    },
+    "step2": {
+      "title": "Activez-la en un geste",
+      "desc": "Activez votre protection avant le départ, ou programmez-la pour qu'elle démarre au décollage de votre vol."
+    },
+    "step3": {
+      "title": "Voyagez avec une assistance 24h/24",
+      "desc": "Joignez une ligne d'urgence internationale à tout moment, où que vous soyez."
+    },
+    "step4": {
+      "title": "Faites votre demande dans l'application",
+      "desc": "Téléversez directement vos reçus ou rapports médicaux — la plupart des demandes sont traitées sous 48 heures."
+    }
   }
 }

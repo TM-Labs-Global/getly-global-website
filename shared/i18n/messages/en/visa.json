@@ -21,5 +21,26 @@
     "a1": "Processing times vary by destination, ranging from 24 hours for automated eVisas to standard consular timeframes for complex visas.",
     "q2": "Is my personal passport information secure?",
     "a2": "Yes, all uploaded documents and biometric details are protected with multi-layered encryption and shared only with accredited consular authorities."
+  },
+  "howItWorks": {
+    "badge": "Approved In Minutes",
+    "title": "From requirements to travel, in four steps",
+    "subtitle": "Check what you need, upload your documents, and track your application without the embassy queue.",
+    "step1": {
+      "title": "Check entry requirements",
+      "desc": "Get instant eVisa and entry requirement checks for 120+ destinations."
+    },
+    "step2": {
+      "title": "Upload your documents",
+      "desc": "Scan your passport and submit your paperwork to an encrypted digital vault."
+    },
+    "step3": {
+      "title": "Track your application",
+      "desc": "Get push updates on consular approvals in real time, right from the app."
+    },
+    "step4": {
+      "title": "Travel with approval in hand",
+      "desc": "Once you're cleared, your approval is ready to show wherever you land."
+    }
   }
 }

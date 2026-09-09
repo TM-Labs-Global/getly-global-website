@@ -1,6 +1,7 @@
 import { getTranslations } from "next-intl/server";
 import { JsonLd } from "@/shared/components/JsonLd";
 import WalletHero from "@/features/wallet/components/WalletHero";
+import WalletHowItWorks from "@/features/wallet/components/WalletHowItWorks";
 import WalletAppDemo from "@/features/wallet/components/WalletAppDemo";
 import WalletBenefitsGrid from "@/features/wallet/components/WalletBenefitsGrid";
 import WalletSecurity from "@/features/wallet/components/WalletSecurity";
@@ -71,6 +72,7 @@ export default async function WalletPage({ params }: { params: Promise<{ locale:
       <JsonLd data={faqSchema} />
       <main className="min-h-screen">
         <WalletHero />
+        <WalletHowItWorks />
         <WalletAppDemo />
         <WalletBenefitsGrid />
         <WalletSecurity />

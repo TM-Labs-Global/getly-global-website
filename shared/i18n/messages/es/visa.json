@@ -21,5 +21,26 @@
     "a1": "El tiempo depende del país de destino, desde 24 horas para visados electrónicos hasta plazos consulares estándar.",
     "q2": "¿Mis datos y documentos están protegidos?",
     "a2": "Todos los documentos se cifran con los más altos estándares y se envían únicamente a entidades oficiales acreditadas."
+  },
+  "howItWorks": {
+    "badge": "Aprobado en minutos",
+    "title": "De los requisitos al viaje, en cuatro pasos",
+    "subtitle": "Consulta lo que necesitas, sube tus documentos y sigue tu solicitud sin hacer fila en la embajada.",
+    "step1": {
+      "title": "Consulta los requisitos de entrada",
+      "desc": "Obtén verificaciones instantáneas de eVisa y requisitos de entrada para más de 120 destinos."
+    },
+    "step2": {
+      "title": "Sube tus documentos",
+      "desc": "Escanea tu pasaporte y envía tu documentación a una bóveda digital cifrada."
+    },
+    "step3": {
+      "title": "Sigue tu solicitud",
+      "desc": "Recibe actualizaciones push en tiempo real sobre las aprobaciones consulares, directo en la app."
+    },
+    "step4": {
+      "title": "Viaja con tu aprobación en mano",
+      "desc": "Una vez aprobado, tu autorización está lista para mostrarla dondequiera que llegues."
+    }
   }
 }

@@ -52,5 +52,26 @@
       "title": "Funded straight from your wallet",
       "desc": "No separate top-up step. Every virtual card draws instantly from your Getly wallet balance the moment you spend."
     }
+  },
+  "howItWorks": {
+    "badge": "几分钟即可开卡",
+    "title": "从轻触到消费，只需四步",
+    "subtitle": "生成一张虚拟卡，从钱包充值，即可立即开始消费——无需实体卡，无需等待。",
+    "step1": {
+      "title": "生成您的卡片",
+      "desc": "在应用中几秒钟即可创建虚拟卡，并自行设置消费限额。"
+    },
+    "step2": {
+      "title": "从钱包为其充值",
+      "desc": "每张卡都直接从您的Getly余额扣款——无需单独充值。"
+    },
+    "step3": {
+      "title": "在任何接受的地方消费",
+      "desc": "可用于在线商店、订阅服务和机票预订，只要接受支付卡即可使用。"
+    },
+    "step4": {
+      "title": "一键冻结",
+      "desc": "感觉不对劲？立即冻结卡片，并实时接收每笔交易的提醒。"
+    }
   }
 }

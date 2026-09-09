@@ -16,5 +16,26 @@
     "a1": "La plupart des téléphones récents Apple, Google et Samsung sont compatibles. Vérifiez en un instant dans l'application.",
     "q2": "Est-ce que je conserve mon numéro habituel ?",
     "a2": "Oui, l'eSIM fonctionne en parallèle de votre carte SIM physique, vous permettant de conserver WhatsApp et vos appels entrants."
+  },
+  "howItWorks": {
+    "badge": "Connecté en quelques minutes",
+    "title": "De l'atterrissage à la connexion, en quatre étapes",
+    "subtitle": "Oubliez le kiosque SIM de l'aéroport — choisissez un forfait, installez-le, et vous serez connecté avant même de quitter la porte d'embarquement.",
+    "step1": {
+      "title": "Choisissez votre destination et votre forfait",
+      "desc": "Parcourez des forfaits data locaux, régionaux ou mondiaux pour votre prochaine destination."
+    },
+    "step2": {
+      "title": "Installez par code QR ou en un geste",
+      "desc": "Ajoutez votre profil eSIM directement depuis l'application — aucune carte SIM physique à changer."
+    },
+    "step3": {
+      "title": "Connectez-vous dès l'atterrissage",
+      "desc": "Vos données s'activent à l'arrivée, sans file d'attente au kiosque ni mauvaise surprise d'itinérance."
+    },
+    "step4": {
+      "title": "Gardez votre numéro actif",
+      "desc": "Votre eSIM fonctionne en parallèle de votre carte SIM physique, pour continuer à recevoir appels et messages sur votre numéro principal."
+    }
   }
 }

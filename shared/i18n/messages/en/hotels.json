@@ -21,5 +21,26 @@
     "a1": "You can pay instantly using your Getly multi-currency balance or your virtual travel card without paying foreign transaction fees.",
     "q2": "Are the room rates transparent with no hidden resort fees?",
     "a2": "Yes, Getly displays the total checkout price including mandatory taxes and fees before you confirm."
+  },
+  "howItWorks": {
+    "badge": "Book In Minutes",
+    "title": "From search to check-in, in four steps",
+    "subtitle": "Compare real rates, pay from your wallet, and walk in with your booking already confirmed.",
+    "step1": {
+      "title": "Search 1,000,000+ stays",
+      "desc": "Browse verified hotels, apartments, and villas in 180+ countries."
+    },
+    "step2": {
+      "title": "Compare transparent rates",
+      "desc": "See the local price with no hidden foreign exchange markups at checkout."
+    },
+    "step3": {
+      "title": "Pay from your wallet balance",
+      "desc": "Book directly from your multi-currency balance — no separate card needed."
+    },
+    "step4": {
+      "title": "Check in, confirmation in hand",
+      "desc": "Get instant confirmation and flexible cancellation, with 24/7 support if plans change."
+    }
   }
 }

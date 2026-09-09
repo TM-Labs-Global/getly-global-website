@@ -16,5 +16,26 @@
     "a1": "Die meisten modernen Geräte von Apple, Google und Samsung unterstützen eSIM. Sie können dies in der App prüfen.",
     "q2": "Behalte ich meine normale Handynummer?",
     "a2": "Ja, die eSIM arbeitet parallel zu Ihrer physischen SIM, sodass Ihre WhatsApp-Nummer und Anrufe aktiv bleiben."
+  },
+  "howItWorks": {
+    "badge": "In Minuten verbunden",
+    "title": "Von der Landung bis online in vier Schritten",
+    "subtitle": "Überspringe den SIM-Schalter am Flughafen — wähle einen Tarif, installiere ihn, und du bist verbunden, bevor du das Gate verlässt.",
+    "step1": {
+      "title": "Ziel & Tarif wählen",
+      "desc": "Durchstöbere lokale, regionale oder globale Datenpakete für dein Reiseziel."
+    },
+    "step2": {
+      "title": "Per QR-Code oder mit einem Tipp installieren",
+      "desc": "Füge dein eSIM-Profil direkt aus der App hinzu — keine physische SIM-Karte zum Wechseln."
+    },
+    "step3": {
+      "title": "Bei der Landung verbinden",
+      "desc": "Deine Daten werden bei der Ankunft aktiv — keine Warteschlange und keine Roaming-Überraschungen."
+    },
+    "step4": {
+      "title": "Deine eigene Nummer bleibt aktiv",
+      "desc": "Deine eSIM läuft parallel zu deiner physischen SIM, sodass Anrufe und Nachrichten auf deiner Hauptnummer weiterhin ankommen."
+    }
   }
 }

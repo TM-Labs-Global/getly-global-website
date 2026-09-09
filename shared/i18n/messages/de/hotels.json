@@ -21,5 +21,26 @@
     "a1": "Sie können sofort mit Ihrem Getly-Guthaben oder Ihrer virtuellen Karte ohne internationale Zusatzgebühren bezahlen.",
     "q2": "Sind die Preise transparent ohne versteckte Gebühren?",
     "a2": "Ja, der in der App angezeigte Preis ist der Gesamtbetrag inklusive aller Steuern."
+  },
+  "howItWorks": {
+    "badge": "In Minuten gebucht",
+    "title": "Von der Suche bis zum Check-in in vier Schritten",
+    "subtitle": "Vergleiche echte Preise, bezahle aus deinem Wallet und komm mit bereits bestätigter Buchung an.",
+    "step1": {
+      "title": "Über 1.000.000 Unterkünfte durchsuchen",
+      "desc": "Durchstöbere geprüfte Hotels, Apartments und Villen in über 180 Ländern."
+    },
+    "step2": {
+      "title": "Transparente Preise vergleichen",
+      "desc": "Sieh den lokalen Preis ohne versteckte Wechselkursaufschläge an der Kasse."
+    },
+    "step3": {
+      "title": "Aus deinem Wallet-Guthaben bezahlen",
+      "desc": "Buche direkt aus deinem Multiwährungs-Guthaben — keine separate Karte nötig."
+    },
+    "step4": {
+      "title": "Einchecken, Bestätigung in der Hand",
+      "desc": "Erhalte eine sofortige Bestätigung und flexible Stornierung, mit 24/7-Support bei Planänderungen."
+    }
   }
 }

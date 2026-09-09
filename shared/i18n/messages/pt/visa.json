@@ -21,5 +21,26 @@
     "a1": "O prazo varia conforme o destino, indo de 24 horas para vistos eletrônicos automatizados a prazos consulares padrão.",
     "q2": "Meus dados de passaporte estão protegidos?",
     "a2": "Todos os documentos são protegidos por criptografia de ponta e compartilhados somente com órgãos consulares oficiais."
+  },
+  "howItWorks": {
+    "badge": "Aprovado em minutos",
+    "title": "Dos requisitos à viagem, em quatro passos",
+    "subtitle": "Confira o que você precisa, envie seus documentos e acompanhe seu pedido sem fila na embaixada.",
+    "step1": {
+      "title": "Confira os requisitos de entrada",
+      "desc": "Obtenha verificações instantâneas de eVisa e requisitos de entrada para mais de 120 destinos."
+    },
+    "step2": {
+      "title": "Envie seus documentos",
+      "desc": "Digitalize seu passaporte e envie sua documentação para um cofre digital criptografado."
+    },
+    "step3": {
+      "title": "Acompanhe seu pedido",
+      "desc": "Receba atualizações push em tempo real sobre aprovações consulares, direto no app."
+    },
+    "step4": {
+      "title": "Viaje com a aprovação em mãos",
+      "desc": "Assim que aprovado, sua autorização fica pronta para apresentar onde quer que você desembarque."
+    }
   }
 }

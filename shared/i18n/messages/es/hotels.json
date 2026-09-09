@@ -21,5 +21,26 @@
     "a1": "Puedes pagar al instante usando el saldo de tu billetera Getly o tu tarjeta virtual sin tarifas internacionales.",
     "q2": "¿Los precios son definitivos sin cargos ocultos?",
     "a2": "Sí, el precio mostrado en la app es el importe exacto con todos los impuestos incluidos."
+  },
+  "howItWorks": {
+    "badge": "Reserva en minutos",
+    "title": "De la búsqueda al check-in, en cuatro pasos",
+    "subtitle": "Compara tarifas reales, paga desde tu wallet y llega con tu reserva ya confirmada.",
+    "step1": {
+      "title": "Busca entre más de 1.000.000 alojamientos",
+      "desc": "Explora hoteles, apartamentos y villas verificados en más de 180 países."
+    },
+    "step2": {
+      "title": "Compara tarifas transparentes",
+      "desc": "Ve el precio local sin recargos ocultos por tipo de cambio al pagar."
+    },
+    "step3": {
+      "title": "Paga desde tu saldo del wallet",
+      "desc": "Reserva directamente desde tu saldo multidivisa — sin necesidad de otra tarjeta."
+    },
+    "step4": {
+      "title": "Haz check-in, confirmación en mano",
+      "desc": "Recibe confirmación instantánea y cancelación flexible, con soporte 24/7 si cambian tus planes."
+    }
   }
 }

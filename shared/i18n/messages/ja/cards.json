@@ -52,5 +52,26 @@
       "title": "Funded straight from your wallet",
       "desc": "No separate top-up step. Every virtual card draws instantly from your Getly wallet balance the moment you spend."
     }
+  },
+  "howItWorks": {
+    "badge": "数分で準備完了",
+    "title": "タップから利用まで、4つのステップ",
+    "subtitle": "バーチャルカードを発行し、ウォレットからチャージして、すぐに使い始められます — プラスチックカードも待ち時間も不要です。",
+    "step1": {
+      "title": "カードを発行",
+      "desc": "アプリ内で数秒でバーチャルカードを作成し、ご自身で利用限度額を設定できます。"
+    },
+    "step2": {
+      "title": "ウォレットからチャージ",
+      "desc": "カードはGetly残高から直接引き落とされるため、別途チャージする手間はありません。"
+    },
+    "step3": {
+      "title": "利用できる場所ならどこでも",
+      "desc": "オンラインショップ、サブスクリプション、航空券の予約など、決済カードが使える場所ならどこでも利用できます。"
+    },
+    "step4": {
+      "title": "ワンタップで凍結",
+      "desc": "何か不安を感じたら、その場でカードを凍結。すべての取引をリアルタイムで通知します。"
+    }
   }
 }

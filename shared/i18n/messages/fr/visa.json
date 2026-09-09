@@ -21,5 +21,26 @@
     "a1": "Les délais varient selon le pays, allant de 24h pour les e-visas instantanés aux délais consulaires habituels.",
     "q2": "Mes données et documents sont-ils en sécurité ?",
     "a2": "Vos pièces d'identité sont chiffrées selon les normes de sécurité les plus strictes et transmises uniquement aux autorités compétentes."
+  },
+  "howItWorks": {
+    "badge": "Approuvé en quelques minutes",
+    "title": "Des conditions au voyage, en quatre étapes",
+    "subtitle": "Vérifiez ce dont vous avez besoin, téléversez vos documents et suivez votre demande sans faire la queue à l'ambassade.",
+    "step1": {
+      "title": "Vérifiez les conditions d'entrée",
+      "desc": "Obtenez des vérifications instantanées d'eVisa et de conditions d'entrée pour plus de 120 destinations."
+    },
+    "step2": {
+      "title": "Téléversez vos documents",
+      "desc": "Scannez votre passeport et soumettez vos documents dans un coffre-fort numérique chiffré."
+    },
+    "step3": {
+      "title": "Suivez votre demande",
+      "desc": "Recevez des notifications en temps réel sur les approbations consulaires, directement dans l'application."
+    },
+    "step4": {
+      "title": "Voyagez avec votre approbation en main",
+      "desc": "Une fois approuvée, votre autorisation est prête à être présentée où que vous atterrissiez."
+    }
   }
 }

@@ -16,5 +16,26 @@
     "a1": "A maioria dos aparelhos modernos da Apple, Google e Samsung é compatível. Você pode checar no app.",
     "q2": "Eu perco meu número de WhatsApp?",
     "a2": "Não. A eSIM funciona paralelamente ao seu chip físico, mantendo seu número e WhatsApp normais."
+  },
+  "howItWorks": {
+    "badge": "Conectado em minutos",
+    "title": "Do pouso à conexão, em quatro passos",
+    "subtitle": "Esqueça o quiosque de SIM do aeroporto — escolha um plano, instale e fique conectado antes mesmo de sair do portão.",
+    "step1": {
+      "title": "Escolha seu destino e plano",
+      "desc": "Explore pacotes de dados locais, regionais ou globais para o seu próximo destino."
+    },
+    "step2": {
+      "title": "Instale com um QR code ou um toque",
+      "desc": "Adicione seu perfil eSIM direto pelo app — sem chip físico para trocar."
+    },
+    "step3": {
+      "title": "Conecte-se ao pousar",
+      "desc": "Seus dados são ativados na chegada, sem fila de quiosque nem surpresas com roaming."
+    },
+    "step4": {
+      "title": "Mantenha seu número ativo",
+      "desc": "Seu eSIM funciona junto com o seu chip físico, para que chamadas e mensagens no seu número principal continuem chegando."
+    }
   }
 }

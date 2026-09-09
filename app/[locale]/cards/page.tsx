@@ -3,6 +3,7 @@ import { JsonLd } from "@/shared/components/JsonLd";
 import CardEditions from "@/features/cards/components/CardEditions";
 import CardsProtected from "@/features/cards/components/CardsProtected";
 import CardCapabilities from "@/features/cards/components/CardCapabilities";
+import CardsHowItWorks from "@/features/cards/components/CardsHowItWorks";
 import { getTranslations } from "next-intl/server";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -61,6 +62,8 @@ export default async function CardsPage({ params }: { params: Promise<{ locale: 
               request. The older alternating "Feature panels" section that
               covered this same ground has been removed. */}
           <CardCapabilities />
+
+          <CardsHowItWorks />
 
           <CardEditions />
 

@@ -21,5 +21,26 @@
     "a1": "Você pode contratar antes do embarque ou programar a ativação automática para a decolagem do seu voo.",
     "q2": "Como solicitar reembolso ou acionar a assistência?",
     "a2": "Basta anexar seus laudos ou recibos no app Getly. Nossa equipe parceira analisa a maioria dos casos em 48 horas."
+  },
+  "howItWorks": {
+    "badge": "Protegido em minutos",
+    "title": "Da cobertura ao sinistro, em quatro passos",
+    "subtitle": "Escolha seu plano, ative antes de embarcar e viaje sabendo que a ajuda está a um toque de distância.",
+    "step1": {
+      "title": "Escolha sua cobertura",
+      "desc": "Proteja uma única viagem ou cubra suas viagens o ano todo."
+    },
+    "step2": {
+      "title": "Ative com um toque",
+      "desc": "Ative sua proteção antes da partida, ou programe para começar assim que seu voo decolar."
+    },
+    "step3": {
+      "title": "Viaje com assistência 24 horas",
+      "desc": "Ligue para uma central de emergência global a qualquer momento, onde quer que sua viagem leve você."
+    },
+    "step4": {
+      "title": "Registre um sinistro pelo app",
+      "desc": "Envie recibos ou laudos médicos diretamente — a maioria dos sinistros é processada em até 48 horas."
+    }
   }
 }

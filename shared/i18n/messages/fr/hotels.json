@@ -21,5 +21,26 @@
     "a1": "Vous pouvez payer instantanément depuis votre solde Getly ou avec votre carte virtuelle sans frais internationaux.",
     "q2": "Les prix affichés sont-ils garantis sans frais cachés ?",
     "a2": "Oui, le prix affiché dans l'application est le montant exact débité, toutes taxes incluses."
+  },
+  "howItWorks": {
+    "badge": "Réservez en quelques minutes",
+    "title": "De la recherche au check-in, en quatre étapes",
+    "subtitle": "Comparez de vrais tarifs, payez depuis votre wallet et arrivez avec une réservation déjà confirmée.",
+    "step1": {
+      "title": "Recherchez parmi plus de 1 000 000 séjours",
+      "desc": "Parcourez des hôtels, appartements et villas vérifiés dans plus de 180 pays."
+    },
+    "step2": {
+      "title": "Comparez des tarifs transparents",
+      "desc": "Consultez le prix local sans majoration de change cachée au moment de payer."
+    },
+    "step3": {
+      "title": "Payez depuis votre solde wallet",
+      "desc": "Réservez directement depuis votre solde multidevise — aucune autre carte nécessaire."
+    },
+    "step4": {
+      "title": "Enregistrez-vous, confirmation en main",
+      "desc": "Recevez une confirmation instantanée et une annulation flexible, avec une assistance 24h/24 et 7j/7 en cas de changement de plans."
+    }
   }
 }

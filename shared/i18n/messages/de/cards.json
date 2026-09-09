@@ -52,5 +52,26 @@
       "title": "Funded straight from your wallet",
       "desc": "No separate top-up step. Every virtual card draws instantly from your Getly wallet balance the moment you spend."
     }
+  },
+  "howItWorks": {
+    "badge": "In Minuten startklar",
+    "title": "Vom Antippen zum Ausgeben in vier Schritten",
+    "subtitle": "Erstelle eine virtuelle Karte, lade sie aus deinem Wallet auf und leg direkt los — ganz ohne Plastikkarte und Wartezeit.",
+    "step1": {
+      "title": "Karte erstellen",
+      "desc": "Erstelle in Sekunden eine virtuelle Karte und lege dein eigenes Ausgabenlimit direkt in der App fest."
+    },
+    "step2": {
+      "title": "Aus deinem Wallet aufladen",
+      "desc": "Jede Karte greift direkt auf dein Getly-Guthaben zu — ein separater Aufladeschritt entfällt."
+    },
+    "step3": {
+      "title": "Überall bezahlen, wo sie akzeptiert wird",
+      "desc": "Nutze sie für Online-Shops, Abos und Flugbuchungen, überall wo Zahlungskarten akzeptiert werden."
+    },
+    "step4": {
+      "title": "Mit einem Tipp sperren",
+      "desc": "Etwas stimmt nicht? Sperre die Karte sofort und erhalte Echtzeit-Benachrichtigungen zu jeder Transaktion."
+    }
   }
 }

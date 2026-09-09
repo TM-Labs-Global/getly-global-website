@@ -21,5 +21,26 @@
     "a1": "Sie können ihn vor Reiseantritt buchen oder so einstellen, dass er automatisch bei Flugstart aktiviert wird.",
     "q2": "Wie reiche ich einen Schaden ein?",
     "a2": "Laden Sie Belege und Arztberichte in der Getly App hoch. Unsere Partner bearbeiten Fälle meist innerhalb von 48 Stunden."
+  },
+  "howItWorks": {
+    "badge": "In Minuten abgesichert",
+    "title": "Vom Schutz zur Schadensmeldung in vier Schritten",
+    "subtitle": "Wähle deinen Plan, aktiviere ihn vor dem Abflug und reise mit dem Wissen, dass Hilfe nur einen Tipp entfernt ist.",
+    "step1": {
+      "title": "Deinen Schutz wählen",
+      "desc": "Sichere eine einzelne Reise ab oder schütze deine Reisen das ganze Jahr über."
+    },
+    "step2": {
+      "title": "Mit einem Tipp aktivieren",
+      "desc": "Aktiviere deinen Schutz vor der Abreise, oder lass ihn genau beim Start deines Flugs beginnen."
+    },
+    "step3": {
+      "title": "Mit 24/7-Unterstützung reisen",
+      "desc": "Erreiche jederzeit eine globale Notfall-Hotline, wo auch immer deine Reise hinführt."
+    },
+    "step4": {
+      "title": "Schaden direkt in der App melden",
+      "desc": "Lade Belege oder ärztliche Berichte direkt hoch — die meisten Schäden werden innerhalb von 48 Stunden bearbeitet."
+    }
   }
 }

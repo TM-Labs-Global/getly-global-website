@@ -21,5 +21,26 @@
     "a1": "Die Dauer variiert je nach Land, von 24 Stunden bei automatisierten eVisas bis hin zu Standardfristen bei Konsulaten.",
     "q2": "Sind meine Passdaten geschützt?",
     "a2": "Alle Dokumente werden nach höchsten Sicherheitsstandards verschlüsselt und nur an offizielle Behörden übermittelt."
+  },
+  "howItWorks": {
+    "badge": "In Minuten genehmigt",
+    "title": "Von den Anforderungen bis zur Reise in vier Schritten",
+    "subtitle": "Prüfe, was du brauchst, lade deine Dokumente hoch und verfolge deinen Antrag ganz ohne Schlange vor der Botschaft.",
+    "step1": {
+      "title": "Einreisebestimmungen prüfen",
+      "desc": "Erhalte sofortige eVisa- und Einreiseprüfungen für über 120 Reiseziele."
+    },
+    "step2": {
+      "title": "Dokumente hochladen",
+      "desc": "Scanne deinen Reisepass und reiche deine Unterlagen in einem verschlüsselten digitalen Tresor ein."
+    },
+    "step3": {
+      "title": "Antrag verfolgen",
+      "desc": "Erhalte in Echtzeit Push-Updates zu konsularischen Genehmigungen, direkt in der App."
+    },
+    "step4": {
+      "title": "Mit Genehmigung in der Hand reisen",
+      "desc": "Sobald du grünes Licht hast, ist deine Genehmigung bereit, wo auch immer du landest."
+    }
   }
 }

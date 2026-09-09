@@ -3,6 +3,7 @@ import { ShieldCheck, ArrowUpRight, CheckCircle2 } from "lucide-react";
 import { APP_STORE_URL } from "@/shared/utils/appLinks";
 import { JsonLd } from "@/shared/components/JsonLd";
 import ProductHero from "@/shared/components/ProductHero";
+import InsuranceHowItWorks from "@/features/insurance/components/InsuranceHowItWorks";
 import { getTranslations } from "next-intl/server";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -57,6 +58,8 @@ export default async function InsurancePage({ params }: { params: Promise<{ loca
 
       <div className="py-24 bg-[var(--canvas)]">
         <div className="max-w-7xl mx-auto px-6 space-y-20">
+
+          <InsuranceHowItWorks />
 
           {/* Feature Split & 3D Visual */}
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center bg-white rounded-3xl p-8 md:p-12 border border-[var(--line)] shadow-soft">

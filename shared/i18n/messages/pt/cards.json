@@ -52,5 +52,26 @@
       "title": "Funded straight from your wallet",
       "desc": "No separate top-up step. Every virtual card draws instantly from your Getly wallet balance the moment you spend."
     }
+  },
+  "howItWorks": {
+    "badge": "Pronto em minutos",
+    "title": "Do toque ao gasto, em quatro passos",
+    "subtitle": "Gere um cartão virtual, carregue-o a partir da sua wallet e comece a gastar — sem plástico e sem espera.",
+    "step1": {
+      "title": "Gere seu cartão",
+      "desc": "Crie um cartão virtual em segundos e defina seu próprio limite de gastos direto no app."
+    },
+    "step2": {
+      "title": "Carregue a partir da sua wallet",
+      "desc": "Cada cartão é financiado diretamente do seu saldo Getly — sem nenhuma etapa extra de recarga."
+    },
+    "step3": {
+      "title": "Gaste onde for aceito",
+      "desc": "Use em lojas on-line, assinaturas e reservas de voos, em qualquer lugar que aceite cartões de pagamento."
+    },
+    "step4": {
+      "title": "Bloqueie com um toque",
+      "desc": "Algo parece estranho? Bloqueie o cartão instantaneamente e receba alertas em tempo real de cada transação."
+    }
   }
 }

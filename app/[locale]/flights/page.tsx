@@ -3,7 +3,6 @@ import ProductHero from "@/shared/components/ProductHero";
 import FlightsHowItWorks from "@/features/flights/components/FlightsHowItWorks";
 import FlightsPhotoFeature from "@/features/flights/components/FlightsPhotoFeature";
 import FlightsTrustCluster from "@/features/flights/components/FlightsTrustCluster";
-import FlightsFareCarousel from "@/features/flights/components/FlightsFareCarousel";
 import FlightsTabbedFeature from "@/features/flights/components/FlightsTabbedFeature";
 import { getTranslations } from "next-intl/server";
 
@@ -64,8 +63,6 @@ export default async function FlightsPage({ params }: { params: Promise<{ locale
           <FlightsPhotoFeature />
 
           <FlightsTrustCluster />
-
-          <FlightsFareCarousel />
 
           <FlightsTabbedFeature />
 

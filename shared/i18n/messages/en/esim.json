@@ -16,5 +16,26 @@
     "a1": "Most modern smartphones from Apple, Google, and Samsung support eSIM technology. You can check compatibility instantly in the app.",
     "q2": "Do I lose my primary phone number when using Getly eSIM?",
     "a2": "No. Your eSIM operates alongside your physical SIM, allowing you to keep your primary number active for WhatsApp and messages."
+  },
+  "howItWorks": {
+    "badge": "Connected In Minutes",
+    "title": "From landing to logged on, in four steps",
+    "subtitle": "Skip the airport SIM kiosk — pick a plan, install it, and you're connected before you leave the gate.",
+    "step1": {
+      "title": "Pick your destination & plan",
+      "desc": "Browse local, regional, or global data bundles for wherever you're headed."
+    },
+    "step2": {
+      "title": "Install with a QR code or a tap",
+      "desc": "Add your eSIM profile straight from the app — no physical SIM card to swap."
+    },
+    "step3": {
+      "title": "Connect the moment you land",
+      "desc": "Your data activates on arrival, so there's no kiosk queue and no roaming surprises."
+    },
+    "step4": {
+      "title": "Keep your own number active",
+      "desc": "Your eSIM runs alongside your physical SIM, so calls and messages on your main number keep coming through."
+    }
   }
 }

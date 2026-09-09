@@ -1,5 +1,6 @@
 import { JsonLd } from "@/shared/components/JsonLd";
 import ProductHero from "@/shared/components/ProductHero";
+import EsimHowItWorks from "@/features/esim/components/EsimHowItWorks";
 import EsimPlanExplorer from "@/features/esim/components/EsimPlanExplorer";
 import EsimFeatureGrid from "@/features/esim/components/EsimFeatureGrid";
 import EsimUseCases from "@/features/esim/components/EsimUseCases";
@@ -65,6 +66,8 @@ export default async function EsimPage({ params }: { params: Promise<{ locale: s
         imageAlt="Traveler connected via Getly global eSIM"
         imagePosition="object-cover object-[center_35%]"
       />
+
+      <EsimHowItWorks />
 
       {/* 2. Interactive Destination Plan Explorer (Inspiration: Image 4) */}
       <EsimPlanExplorer />

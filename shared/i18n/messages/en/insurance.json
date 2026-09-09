@@ -21,5 +21,26 @@
     "a1": "You can purchase coverage before your departure or set it to activate automatically the moment your flight takes off.",
     "q2": "How do I submit an insurance claim?",
     "a2": "Simply upload your receipts or medical reports in the Getly app. Our insurance partners process most claims within 48 hours."
+  },
+  "howItWorks": {
+    "badge": "Covered In Minutes",
+    "title": "From coverage to claim, in four steps",
+    "subtitle": "Pick your plan, activate it before you fly, and travel knowing help is one tap away.",
+    "step1": {
+      "title": "Choose your coverage",
+      "desc": "Cover a single trip or protect your travels all year round."
+    },
+    "step2": {
+      "title": "Activate with one tap",
+      "desc": "Turn on your protection before departure, or set it to start the moment your flight takes off."
+    },
+    "step3": {
+      "title": "Travel with 24/7 assistance",
+      "desc": "Reach a global emergency hotline any time, wherever your trip takes you."
+    },
+    "step4": {
+      "title": "File a claim in the app",
+      "desc": "Upload receipts or medical reports directly — most claims are processed within 48 hours."
+    }
   }
 }
