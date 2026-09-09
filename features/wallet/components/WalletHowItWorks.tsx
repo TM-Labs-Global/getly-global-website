@@ -32,7 +32,7 @@ export default async function WalletHowItWorks() {
   ];
 
   return (
-    <section className="py-24 sm:py-32 bg-[var(--canvas)] relative overflow-hidden border-b border-[var(--line)]">
+    <section className="py-24 sm:py-32 bg-white relative overflow-hidden border-b border-[var(--line)]">
       <div className="max-w-7xl mx-auto px-6 space-y-10">
         <div className="max-w-2xl space-y-4">
           <p className="text-xs font-bold uppercase tracking-widest text-[var(--blue)]">

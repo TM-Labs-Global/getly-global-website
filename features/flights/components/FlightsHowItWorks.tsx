@@ -45,14 +45,14 @@ export default async function FlightsHowItWorks() {
 
   return (
     <div className="space-y-10">
-      <div className="max-w-2xl space-y-3">
+      <div className="max-w-2xl space-y-4">
         <p className="text-xs font-bold uppercase tracking-widest text-[var(--blue)]">
           {t("badge")}
         </p>
-        <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-[var(--navy)] tracking-tight">
+        <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-[var(--navy)] tracking-tight leading-[1.1]">
           {t("title")}
         </h2>
-        <p className="text-base text-[var(--ink-soft)] leading-relaxed">
+        <p className="text-base sm:text-lg text-[var(--ink-soft)] font-medium leading-relaxed">
           {t("subtitle")}
         </p>
       </div>
