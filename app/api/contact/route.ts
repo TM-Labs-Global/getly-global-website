@@ -78,8 +78,11 @@ export async function POST(request: Request) {
     const apiKey = process.env.RESEND_API_KEY;
     if (apiKey) {
       const resend = new Resend(apiKey);
-      const recipientEmail = process.env.CONTACT_RECIPIENT_EMAIL || "info@getly.qa";
-      const fromEmail = process.env.RESEND_FROM_EMAIL || "Getly Inquiries <info@getly.qa>";
+      const rawRecipient = process.env.CONTACT_RECIPIENT_EMAIL || "info@getly.qa";
+      const recipientEmail = rawRecipient.replace(/^["']|["']$/g, "").trim();
+
+      const rawFrom = process.env.RESEND_FROM_EMAIL || "Getly Inquiries <info@getly.qa>";
+      const fromEmail = rawFrom.replace(/^["']|["']$/g, "").trim();
 
       const emailSubject = cleanSubject
         ? `[Getly ${deptLabel}] ${cleanSubject}`
