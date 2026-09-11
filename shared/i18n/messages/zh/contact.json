@@ -1,0 +1,104 @@
+{
+  "metaTitle": "联系我们",
+  "badge": "联系我们",
+  "heroLine1": "随时为您提供支持，",
+  "heroLine2": "跨越全球每个时区。",
+  "title": "随时为您提供支持，跨越全球每个时区。",
+  "subtitle": "在帮助中心快速查找指南，或直接与我们的专业团队沟通。无论您的旅程到达何处，我们全天候提供贴心支持——包括周末与节假日。",
+  "primary": {
+    "chatTitle": "应用内在线客服",
+    "chatDesc": "直接在 Getly 移动应用内连接支持团队，享受母语沟通与即时解答。",
+    "chatCta": "获取应用",
+    "helpTitle": "浏览帮助中心",
+    "helpDesc": "查看有关虚拟卡、eSIM 激活、钱包安全及全球漫游覆盖的详细指引与解答。",
+    "helpCta": "访问帮助与常见问题"
+  },
+  "urgent": {
+    "title": "遇到紧急情况或卡片遗失？",
+    "desc": "在 Getly 应用内一键锁卡以确保资金安全。若您无法访问设备，请即刻联系我们的应急恢复团队。",
+    "cta": "获取优先协助"
+  },
+  "recovery": {
+    "badge": "帮助与常见问题",
+    "title": "常见问题解答",
+    "subtitle": "关于您的 Getly 账户、钱包、虚拟卡和 eSIM 的常见疑问解答。",
+    "items": [
+      {
+        "q": "如何登录或找回我的 Getly 账户？",
+        "a": "Getly 使用您注册的电子邮箱进行身份认证。在登录页面输入您的邮箱，并点击“忘记密码”，即可在收件箱收到安全登录链接或 OTP 验证码。无需使用手机号。"
+      },
+      {
+        "q": "如果没有收到邮箱验证码该怎么办？",
+        "a": "请检查垃圾邮件或推广邮件文件夹。确保输入的邮箱地址无误。如果两分钟内仍未收到，请在应用中点击“请求新验证码”或联系客服 info@getly.qa。"
+      },
+      {
+        "q": "如何更改我的注册邮箱？",
+        "a": "若已登录，可在“个人资料 → 安全”中通过双重验证更新邮箱。若已失去该邮箱的访问权限，请联系客服 info@getly.qa，我们将在核实身份后协助恢复。"
+      },
+      {
+        "q": "虚拟旅行卡遗失或怀疑异常时如何冻结或补办？",
+        "a": "打开 Getly 应用中的“卡片”页面，立即点击“冻结卡片”以暂停所有交易。您可以随时一键解冻，或直接删除并在几秒内重新生成一张全新的虚拟卡。"
+      },
+      {
+        "q": "如何为我的 Getly 美元钱包充值？",
+        "a": "您可以使用本地借记卡、信用卡、银行支付通道或全球支付网络在几秒钟内完成钱包充值。本地货币将按透明的实时汇率结算为您的美元余额。"
+      },
+      {
+        "q": "Getly 出境 eSIM 是如何运作的？",
+        "a": "在 eSIM 页面选择目的地，并通过应用内一键安装或扫描二维码完成配置。落地 180 多个支持国家和地区后，自动连接当地高速移动网络，零漫游费。"
+      }
+    ],
+    "viewAll": "查看所有帮助与常见问题"
+  },
+  "quickAccess": {
+    "title": "寻找特定咨询渠道？",
+    "business": {
+      "title": "商业与商务合作",
+      "email": "hello@getly.app"
+    },
+    "press": {
+      "title": "媒体与公关咨询",
+      "email": "hello@getly.app"
+    },
+    "complaints": {
+      "title": "投诉与合规申诉",
+      "email": "hello@getly.app",
+      "desc": "正式争议调解与监管事务"
+    },
+    "phone": {
+      "title": "联络区域服务台",
+      "ng": "+234 813 129 6333",
+      "qa": "+974 5069 0946"
+    }
+  },
+  "form": {
+    "title": "希望给我们留言？",
+    "subtitle": "填写下列表单，我们将在 2 小时内与您取得联系。",
+    "fullName": "姓名",
+    "fullNamePlaceholder": "Alex Morgan",
+    "email": "电子邮箱",
+    "emailPlaceholder": "alex@example.com",
+    "department": "咨询部门",
+    "departments": {
+      "support": "客户支持",
+      "partnership": "商务合作",
+      "press": "媒体传播",
+      "compliance": "合规与法务",
+      "other": "一般咨询"
+    },
+    "subject": "主题",
+    "subjectPlaceholder": "我们能为您提供什么帮助？",
+    "message": "留言内容",
+    "messagePlaceholder": "请详细描述您的咨询事项...",
+    "submit": "提交咨询",
+    "submitting": "提交中...",
+    "successTitle": "咨询已成功送达！",
+    "successMessage": "感谢您的联络。我们的团队会尽快查看并与您取得联系。",
+    "submitAnother": "提交其他咨询",
+    "emailDirect": "直接发邮件",
+    "responseTime": "平均回复时间：2 小时以内"
+  },
+  "footer": {
+    "hq": "Getly Limited, Takeout Media Ltd. 旗下子公司 — 36 Sokode Crescent, Wuse Zone 5, Abuja, Nigeria"
+  }
+}

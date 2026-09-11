@@ -1,0 +1,104 @@
+{
+  "metaTitle": "Ponte en Contacto",
+  "badge": "Ponte en Contacto",
+  "heroLine1": "Aquí cuando nos necesitas,",
+  "heroLine2": "en cualquier huso horario.",
+  "title": "Aquí cuando nos necesitas, en cualquier huso horario.",
+  "subtitle": "Explora guías instantáneas en nuestro Centro de Ayuda o comunícate directamente con nuestro equipo. A donde sea que viaje tu destino, estamos listos para ayudarte — día, noche o fin de semana.",
+  "primary": {
+    "chatTitle": "Chat en vivo en la app",
+    "chatDesc": "Conéctate con nuestro equipo de soporte directamente desde la app Getly. Respuestas ágiles en tu idioma preferido, siempre que lo necesites.",
+    "chatCta": "Descarga la app",
+    "helpTitle": "Explora el Centro de Ayuda",
+    "helpDesc": "Descubre tutoriales y respuestas sobre tarjetas virtuales, configuración de eSIM, seguridad de tu billetera y cobertura global.",
+    "helpCta": "Ir a Ayuda y FAQ"
+  },
+  "urgent": {
+    "title": "¿Necesitas ayuda urgente o extraviaste tu tarjeta?",
+    "desc": "Bloquea tu tarjeta al instante en la app Getly con un solo toque para proteger tu saldo. Si no puedes acceder a tu dispositivo, contáctanos para una recuperación prioritaria.",
+    "cta": "Atención prioritaria"
+  },
+  "recovery": {
+    "badge": "Ayuda y Preguntas",
+    "title": "Preguntas frecuentes",
+    "subtitle": "Respuestas rápidas a preguntas comunes sobre tu cuenta Getly, billetera, tarjetas virtuales y eSIM.",
+    "items": [
+      {
+        "q": "¿Cómo inicio sesión o recupero el acceso a mi cuenta de Getly?",
+        "a": "Getly utiliza tu correo electrónico registrado para la autenticación de la cuenta. En la pantalla de inicio de sesión, introduce tu correo y pulsa '¿Olvidaste tu contraseña?' para recibir un enlace seguro o un código OTP en tu bandeja de entrada. No se requiere número de teléfono."
+      },
+      {
+        "q": "¿Qué debo hacer si no he recibido mi código de verificación por correo?",
+        "a": "Revisa tus carpetas de correo no deseado (spam) y promociones. Asegúrate de haber escrito correctamente tu dirección de correo. Si el código no llega en dos minutos, pulsa 'Solicitar nuevo código' en la aplicación o contacta con soporte en info@getly.qa."
+      },
+      {
+        "q": "¿Cómo cambio mi correo electrónico registrado?",
+        "a": "Si has iniciado sesión, puedes actualizar tu correo en Perfil → Seguridad con doble autenticación. Si has perdido el acceso a tu correo, ponte en contacto con nuestro equipo en info@getly.qa para verificar tu identidad y restablecer el acceso."
+      },
+      {
+        "q": "¿Cómo congelo o reemplazo mi tarjeta virtual de viaje?",
+        "a": "Abre la pestaña Tarjetas en la app de Getly y pulsa 'Congelar tarjeta' al instante para pausar cualquier actividad. Puedes descongelarla en cualquier momento con un solo toque o eliminarla y generar una nueva tarjeta virtual en segundos."
+      },
+      {
+        "q": "¿Cómo recargo mi billetera USD de Getly?",
+        "a": "Puedes recargar tu billetera en segundos usando cualquier tarjeta de débito o crédito local, opciones de pago bancario o canales de pago globales. Tu moneda local se convierte a tipos de cambio transparentes y en tiempo real a tu saldo en USD."
+      },
+      {
+        "q": "¿Cómo funciona la eSIM de Getly al viajar al extranjero?",
+        "a": "Elige tu destino en la pestaña eSIM e instala tu perfil de datos digital con el instalador de la app o el código QR. Se conecta automáticamente a redes móviles locales de alta velocidad al aterrizar en más de 180 países, sin cargos de roaming."
+      }
+    ],
+    "viewAll": "Ver todos los artículos de Ayuda y Preguntas Frecuentes"
+  },
+  "quickAccess": {
+    "title": "¿Buscas algo específico?",
+    "business": {
+      "title": "Negocios y Alianzas",
+      "email": "hello@getly.app"
+    },
+    "press": {
+      "title": "Prensa y Medios",
+      "email": "hello@getly.app"
+    },
+    "complaints": {
+      "title": "Reclamaciones y Cumplimiento",
+      "email": "hello@getly.app",
+      "desc": "Disputas formales y derivaciones normativas"
+    },
+    "phone": {
+      "title": "Habla con una sede regional",
+      "ng": "+234 813 129 6333",
+      "qa": "+974 5069 0946"
+    }
+  },
+  "form": {
+    "title": "¿Prefieres escribirnos?",
+    "subtitle": "Completa el siguiente formulario y nuestro equipo te responderá en menos de 2 horas.",
+    "fullName": "Nombre Completo",
+    "fullNamePlaceholder": "Alex Morgan",
+    "email": "Correo Electrónico",
+    "emailPlaceholder": "alex@ejemplo.com",
+    "department": "Departamento",
+    "departments": {
+      "support": "Soporte al Cliente",
+      "partnership": "Alianzas y Negocios",
+      "press": "Prensa y Comunicación",
+      "compliance": "Cumplimiento y Legal",
+      "other": "Consulta General"
+    },
+    "subject": "Asunto",
+    "subjectPlaceholder": "¿En qué podemos ayudarte?",
+    "message": "Mensaje",
+    "messagePlaceholder": "Cuéntanos más sobre tu consulta...",
+    "submit": "Enviar Mensaje",
+    "submitting": "Enviando...",
+    "successTitle": "¡Mensaje Recibido!",
+    "successMessage": "Gracias por contactarnos. Un especialista revisará tu mensaje y te responderá muy pronto.",
+    "submitAnother": "Enviar otra consulta",
+    "emailDirect": "Escribir por Correo",
+    "responseTime": "Tiempo promedio de respuesta: menos de 2 horas"
+  },
+  "footer": {
+    "hq": "Getly Limited, subsidiaria de Takeout Media Ltd. — 36 Sokode Crescent, Wuse Zone 5, Abuja, Nigeria"
+  }
+}

@@ -1,25 +1,274 @@
 {
   "badge": "法律条款与合规声明",
+  "heroTitle": "法务与合规中心",
+  "heroSubtitle": "我们面向全球现代出行的服务承诺、条款规范与监管合规准则。",
+  "navGeneral": "通用政策",
+  "navCompliance": "合规与安全",
   "lastUpdated": "最近更新时间：2026年9月",
   "privacy": {
-    "title": "隐私保护政策",
-    "description": "Getly 如何收集、使用和保护您的个人数据及出行信息。",
-    "section1Title": "1. 我们收集的信息",
-    "section1Desc": "Getly 收集提供跨境旅行、多币种钱包、eSIM 流量、酒店住宿及机票预订所需的基本个人信息，包括身份资料、设备信息及交易记录。",
-    "section2Title": "2. 信息的使用方式",
-    "section2Desc": "我们严格将您的信息用于运营 Getly 应用、核验身份、激活 eSIM、处理支付交易及防范欺诈风险，严守合规标准。",
-    "section3Title": "3. 数据安全与存储",
-    "section3Desc": "我们采用多层高强度加密存储与生物识别验证技术，确保您的隐私数据不受未经授权的访问或泄露。"
+    "title": "数据隐私政策",
+    "badge": "符合 NDPA 2023 规范",
+    "effectiveDate": "生效日期：2025 年 7 月 28 日",
+    "lastUpdated": "最近更新：2025 年 7 月",
+    "description": "Getly 如何依据《2023 年尼日利亚数据保护法》（NDPA 2023）及国际数据保护标准履行个人数据保护责任。",
+    "s1": {
+      "title": "1. 关于本政策",
+      "s1_1Title": "1.1 Introduction",
+      "p1": "Getly Ltd (“Getly”), a subsidiary of Takeout Media Ltd, takes its responsibilities regarding data protection very seriously. This Data Privacy Policy (“Policy”) outlines how Getly manages these responsibilities.",
+      "p2": "Getly obtains, uses, stores, and processes information (“Personal Data”) relating to potential users, employees including clients, former employees and clients, current and former contractors, website and application users, and other contacts (collectively referred to as “Data Subjects”). When processing Personal Data, Getly is committed to meeting individuals’ reasonable expectations of privacy by complying with applicable data protection Laws.",
+      "p3": "This Policy ensures that Getly defines how Personal Data must be processed, sets expectations for those processing data on its behalf, complies with data protection Laws and best practices, protects its reputation by ensuring that Personal Data is handled in line with Data Subjects’ rights, and safeguards against risks of data breaches and other violations.",
+      "s1_2Title": "1.2 Scope",
+      "p4": "This Policy applies to all Personal Data processed by Getly, regardless of where the data is stored or the identity of the Data Subject. All staff and others processing Personal Data on Getly’s behalf must comply with this Policy. Failure to do so may result in disciplinary action.",
+      "p5": "All Getly staff are required to read, understand, and fully comply with this Policy. Getly reserves the right to seek redress against any staff member whose failure to comply results in damages, legal action, or reputational harm.",
+      "p6": "The data protection officer (“DPO”) is responsible for ensuring compliance with this Policy and for implementing appropriate practices, processes, controls, and training. The DPO is the Chief Technology Officer and can be reached at hello@getly.app."
+    },
+    "s2": {
+      "title": "2. 术语定义",
+      "intro": "When processing Personal Data, Getly adheres to the following principles in line with applicable data protection laws in Nigeria:",
+      "b1": "Ensure lawfulness, fairness, and transparency when processing Personal Data.",
+      "b2": "Collect Personal Data only for specified, explicit, and legitimate purposes.",
+      "b3": "Limit data collection to what is necessary for the intended purpose.",
+      "b4": "Maintain accuracy and keep data up to date where necessary.",
+      "b5": "Avoid retaining data longer than necessary for the intended purpose.",
+      "b6": "Protect data security using appropriate technical and organizational measures.",
+      "s2_1Title": "2.1 Consent",
+      "p1": "The Data Subject consents to the processing of Personal Data through a clear statement or positive action. Consent must be specific and expressly given. If consent is included in a document addressing other matters, it must be separated and clearly distinguished.",
+      "p2": "Before giving consent, Data Subjects will be informed of their right to withdraw it at any time by uninstalling the app. Withdrawal must be promptly honoured once the app is uninstalled.",
+      "p3": "Consent may need to be renewed if Getly intends to process Personal Data for a different or incompatible purpose that was not disclosed when the Data Subject first consented.",
+      "p4": "Getly will store event tracking information as evidence of consent to demonstrate compliance.",
+      "p5": "Consent will not be sought, given, or accepted in circumstances that may promote atrocities, hate, child rights violations, criminal acts, or anti-social conduct.",
+      "s2_2Title": "2.2 Data Collection",
+      "p6": "Getly may collect Personal Data depending on the service and platform it creates. This includes names, dates of birth, phone numbers, email addresses, nationality, tax identity numbers, bank details, bank verification numbers, identity numbers, location data, photographs, IP addresses, MAC addresses, IMEI numbers, IMSI numbers, and other relevant information.",
+      "p7": "Data is collected through in-app forms and device information. When users communicate with Getly via email or other channels, Getly may retain those communications to process inquiries, respond to requests, and improve services. Getly’s servers automatically record information sent by the user’s browser when accessing its services.",
+      "p8": "Getly collects Personal Data for evaluating credit risk, conducting due diligence, ensuring regulatory compliance, and for marketing purposes.",
+      "p9": "Before collecting Personal Data, Getly will provide the Data Subject with the following information in its privacy policy:",
+      "i1": "Identity and contact details of Getly;",
+      "i2": "The email address of the DPO;",
+      "i3": "The purpose and legal basis for processing the data;",
+      "i4": "Legitimate interests pursued by Getly or any person or entity other than Getly (“Third Party”) with access to the data;",
+      "i5": "Recipients or categories of recipients of the data (if any);",
+      "i6": "If applicable, intention to transfer data to a foreign country or Third Party and the adequacy of protections;",
+      "i7": "Right to withdraw consent at any time without affecting the lawfulness of prior processing;",
+      "i8": "Right to lodge a complaint with National Information Technology Development Agency or any other relevant authority;",
+      "i9": "Whether providing Personal Data is a statutory or contractual requirement and the consequences of not providing it; and",
+      "i10": "Intention to further process Personal Data for a purpose other than the original one and relevant details before such processing.",
+      "p10": "Personal Data must be accurate and kept up to date where necessary. Inaccurate or incomplete records can lead to incorrect conclusions and should be promptly corrected."
+    },
+    "s3": {
+      "title": "3. 数据保护基本原则",
+      "intro": "Getly must ensure data processing is lawful. Processing is lawful if any of the following apply:",
+      "l1": "Data Subject consents to processing for specific purposes;",
+      "l2": "The processing is necessary for the performance of a contract with the Data Subject or in order to take steps at the request of the Data Subject prior to entering into a contract;",
+      "l3": "The processing is necessary for compliance with a legal obligation to which Getly is subject;",
+      "l4": "The processing is necessary to protect the vital interests of the Data Subject or another natural person; and",
+      "l5": "The processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in Getly.",
+      "s3_1Title": "3.1 Data Subject Rights",
+      "rIntro": "Data Subjects have the following rights regarding their personal data:",
+      "r1": "Withdraw consent at any time, e.g., by uninstalling the app;",
+      "r2": "Object to data processing in certain cases;",
+      "r3": "Request correction of inaccurate or incomplete data;",
+      "r4": "Restrict processing where data accuracy is disputed;",
+      "r5": "Avoid decisions based solely on automated processing unless consented to or legally permitted;",
+      "r6": "Stop processing likely to cause damage or distress;",
+      "r7": "Receive notice of data breaches posing high risks to their rights; and",
+      "r8": "Lodge complaints with the Nigeria Data Protection Commission (“NDPC”) or other relevant authorities.",
+      "s3_2Title": "3.2 Requests",
+      "req1": "Getly must provide information on processing to the Data Subject in a concise, transparent, and accessible form using clear and plain language, especially for information directed at a child.",
+      "req2": "Information may be provided electronically.",
+      "req3": "We verify the identity of any individual requesting data. If there is reasonable doubt about the requestor’s identity, we may request additional information to confirm the Data Subject’s identity.",
+      "req4": "Forward any Data Subject Access Request immediately to the DPO at hello@getly.app.",
+      "req5": "Information and any action taken must be provided free of charge. If the request is manifestly unfounded or excessive, especially if repetitive, Getly may: charge a reasonable fee based on administrative costs; or refuse to act on the request and notify the NDPC.",
+      "req6": "Do not disclose Personal Data to third parties without proper authorisation. For example, spouses and parents do not have an automatic right to access the Data Subject’s data.",
+      "req7": "Do not alter, conceal, block, or destroy Personal Data after receiving an access request. Contact hello@getly.app before making any changes to data that is the subject of a request.",
+      "s3_3Title": "3.3 Accountability",
+      "acc1": "Getly must implement appropriate technical and organisational measures to ensure compliance with data protection principles and demonstrate compliance with the following:",
+      "accB1": "Appointing a suitably qualified DPO.",
+      "accB2": "Integrating data protection into policies and procedures, including privacy notices and records of processing and breaches.",
+      "accB3": "Training staff on data protection compliance and maintaining records of training.",
+      "accB4": "Regularly testing privacy measures and conducting periodic audits to assess and improve compliance.",
+      "s3_4Title": "3.4 Data Security",
+      "sec1": "Getly implements appropriate safeguards including encryption and pseudonymization, where appropriate, and maintaining confidentiality (limiting access to those authorised), integrity, and availability of data to protect Personal Data from unauthorised or unlawful processing, loss, destruction, or damage.",
+      "sec2": "Measures must be in place to prevent accidental loss, disclosure, or processing of data. Extra care should be taken to protect Sensitive Personal Data from unauthorised access or disclosure.",
+      "sec3": "Security procedures must cover the entire lifecycle of Personal Data from collection to destruction.",
+      "sec4": "All staff must comply with security policies and not attempt to circumvent administrative, physical, and technical safeguards."
+    },
+    "s4": {
+      "title": "4. 处理个人数据的合法性基础",
+      "s4_1Title": "4.1 Responsibilities of the DPO",
+      "dpoIntro": "The DPO is responsible for:",
+      "d1": "Advising Getly and its employees on their obligations under the Nigeria Data Protection Act 2023 (“NDPA”) and other applicable data protection laws;",
+      "d2": "Monitoring compliance with this Policy and Getly’s internal data protection policies, including training and audits;",
+      "d3": "Providing advice on data protection impact assessments when requested;",
+      "d4": "Supervising internal data processing;",
+      "d5": "Handling requests, complaints, and enquiries from Data Subjects and law enforcement agencies;",
+      "d6": "Acting as the contact point between Getly and NDPC; and",
+      "d7": "Considering the risks associated with data processing, taking into account its nature, scope, and purpose.",
+      "s4_2Title": "4.2 Employee Responsibilities",
+      "empIntro": "Employees handling Personal Data must:",
+      "e1": "Keep all Personal Data secure;",
+      "e2": "Avoid disclosing Personal Data to unauthorised third parties;",
+      "e3": "Ensure all processing complies with this Policy;",
+      "e4": "Direct queries, access requests, and complaints to the DPO or data protection team;",
+      "e5": "Promptly report data breaches to the DPO and support resolution efforts;",
+      "e6": "Seek advice from the DPO or data protection team when uncertain about data protection matters or authorised disclosures;",
+      "e7": "Ensure temporary staff, contractors, or interns involved in data processing understand data protection principles; and",
+      "e8": "Process Personal Data only as required for job duties.",
+      "s4_3Title": "4.3 Third-Party Data Processors",
+      "tp1": "Data Processing by a Third Party must be governed by a written contract between the Third Party and Getly.",
+      "tp2": "When external companies process Personal Data on behalf of Getly, Getly remains responsible for the security and proper use of the data.",
+      "tp3": "If a Third-Party data processor (“Data Processor”) is used: the Data Processor must be selected by Getly and provide sufficient guarantees about its security measures; the DPO must ensure that these security measures are in place; and a written contract, provided by the Information Compliance Team, must outline the data processing scope and purpose and be signed by both parties.",
+      "tp4": "Getly shall ensure that the Data Processor does not have a record of violating data processing principles and is accountable to NDPC or a reputable authority within or outside Nigeria.",
+      "tp5": "Getly may only transfer Personal Data to approved Third-Party service providers that comply with data protection Laws and agree to act solely on Getly’s instructions.",
+      "s4_4Title": "4.4 Contractors, Short Term and Voluntary Staff",
+      "cIntro": "Getly is responsible for Personal Data handled by anyone working on its behalf. Managers hiring contractors, short-term, or voluntary staff must ensure they are properly vetted for data processing activities and that:",
+      "c1": "Personal Data is kept secure and confidential;",
+      "c2": "All Personal Data is returned to Getly upon completion of work or securely destroyed, with confirmation provided to Getly;",
+      "c3": "Getly is notified before disclosing Personal Data to any other party;",
+      "c4": "Personal Data is not stored or processed outside Nigeria without Getly’s written consent; and",
+      "c5": "Access to Personal Data is restricted to what is essential for the work.",
+      "s4_5Title": "4.5 Customer/Client and User Responsibilities",
+      "uIntro": "Customers/Clients and Users are responsible for:",
+      "u1": "Familiarizing themselves with Getly’s Policy at the start of their relationship with Getly; and",
+      "u2": "Ensuring that any Personal Data provided to Getly’s is accurate and up to date."
+    },
+    "s5": {
+      "title": "5. 数据主体的合法权利",
+      "p1": "Getly is required to report any Personal Data breach where there is a risk to the rights and freedoms of the Data Subject.",
+      "p2": "If the breach poses a high risk to the Data Subject, Getly must notify the Data Subject unless corrective steps have been taken to eliminate the risk; security measures (e.g., encryption) render the data unintelligible; or informing the Data Subject would require disproportionate effort (in such cases, a public notice or similar measure must be used).",
+      "p3": "Getly has procedures to handle suspected breaches and will notify Data Subjects or NDPC where legally required. Breaches must be remedied within one month of the report.",
+      "p4": "Any suspected breach should be reported immediately to the data protection team at hello@getly.app. Getly will retain evidence of breaches to comply with data protection laws.",
+      "recIntro": "Employees or staff who detect a breach must record:",
+      "rec1": "The facts of the breach;",
+      "rec2": "Its effects; and",
+      "rec3": "The remedial actions taken.",
+      "liabIntro": "Getly will not be liable for breaches resulting from:",
+      "liab1": "Events beyond its control (e.g., natural disasters);",
+      "liab2": "Acts of terrorism, war, or civil unrest;",
+      "liab3": "Transfers of data to a Third Party on the Data Subject’s instructions; and",
+      "liab4": "Use of data by a Third Party designated by the Data Subject."
+    },
+    "s6": {
+      "title": "6. 数据接收方的责任与义务",
+      "p1": "Personal Data transfers to foreign countries or international organizations for processing require confirmation from the Attorney-General of the Federation that the destination provides adequate data protection under NDPC regulations.",
+      "p2": "Applications to the Attorney-General must include applicable data protection laws, and the foreign recipient’s data protection policies.",
+      "p3": "If the Attorney-General has not ruled on adequacy, data transfer is permitted only if:",
+      "t1": "The Data Subject explicitly consents after being informed of the risks;",
+      "t2": "The transfer is necessary for contract performance or pre-contractual measures requested by the Data Subject;",
+      "t3": "The transfer is required for a contract between Getly and another party in the Data Subject’s interest; and",
+      "t4": "The transfer is necessary for public interest, legal claims, or to protect the Data Subject’s vital interests when the Data Subject cannot consent.",
+      "p4": "The Data Subject must be clearly informed of any likely data protection violations arising from the transfer unless they are subject to legal action in the destination country."
+    },
+    "s7": {
+      "title": "7. 影响评估与源头隐私设计",
+      "b1": "All employees must undergo regular training to comply with data protection Laws.",
+      "b2": "We periodically test our systems and processes to ensure compliance.",
+      "b3": "We review systems and processes under our control to confirm alignment with this Policy."
+    },
+    "s8": {
+      "title": "8. 个人数据安全事件与违规处置",
+      "b1": "We comply with privacy laws when marketing to customers, clients, alumni, and other potential users.",
+      "b2": "We may send marketing texts or emails to existing customers/clients if contact details were obtained during a sale and the marketing relates to similar services."
+    },
+    "s9": {
+      "title": "9. 个人数据的跨境与外部传输",
+      "p1": "Personal Data should not be shared with third parties without Consent, a legal obligation, or another legal basis for Processing, except for:",
+      "s1": "Reports to credit bureaus; and",
+      "s2": "Contact information shared with collection agencies if the user fails to repay a loan.",
+      "p2": "Law enforcement agencies have no automatic right to access Personal Data without a court order, but voluntary disclosure may be allowed for crime prevention or detection. Refer law enforcement requests to the DPO.",
+      "p3": "Personal Data may be shared for research purposes, subject to applicable safeguards. For guidance, contact the data protection team at hello@getly.app."
+    },
+    "s10": {
+      "title": "10. 个人数据保留期限",
+      "p1": "Personal data shall be retained for the minimum duration necessary to fulfill the specific purposes for which it was collected, unless a longer retention period is mandated by law. Specifically, Transactional and Financial Records are maintained for seven (7) years to satisfy statutory tax and Anti-Money Laundering (AML) obligations, while Identity Verification (KYC) materials are preserved for five (5) years post-account closure. All non-essential behavioral and marketing data is systematically purged or anonymized within twenty-four (24) months of user inactivity, ensuring continued compliance with data minimization principles and global privacy regulations."
+    },
+    "s11": {
+      "title": "11. 本政策的修订与变更",
+      "p1": "We may amend this Policy at any time. You will be notified of any changes.",
+      "date": "签署日期：2025 年 7 月 28 日"
+    },
+    "dpoCardTitle": "数据保护官 (DPO) 联络方式",
+    "dpoCardDesc": "若有数据主体访问请求、隐私咨询或数据合规事项：",
+    "ndpaBadge": "符合 NDPA 2023 规范"
   },
   "terms": {
-    "title": "用户服务协议",
-    "description": "Getly 移动应用及官方平台的用户服务条款与通用协议。",
-    "section1Title": "1. 条款的接受",
-    "section1Desc": "下载、访问或使用 Getly 应用程序即表示您同意受本用户服务协议的约束。",
-    "section2Title": "2. 提供的服务",
-    "section2Desc": "Getly 携手持牌金融与旅游合作伙伴，提供多币种钱包、虚拟旅行卡、全球 eSIM、机票酒店预订、境外保险及电子签证服务。",
-    "section3Title": "3. 用户责任与义务",
-    "section3Desc": "您同意提供真实有效的个人身份信息，妥善保管设备凭据，并在遵守各项适用法律的前提下使用本服务。"
+    "title": "使用条款",
+    "version": "版本 2.0",
+    "description": "适用于 Getly 移动应用程序、平台及官方网站的通用使用条款与用户服务协议。",
+    "position": {
+      "title": "主体定位",
+      "p1": "Getly Tech Lab Ltd (“Getly”, “we” or “us”), a subsidiary of Takeout Media Ltd, a company registered under the laws of the Federal Republic of Nigeria offers a modern financial technology services platform, for everyone. These Terms of Service is an agreement between us, the Operator of this site and the User (“you” or “your”). The Terms of Service govern the use of our site, mobile application, online portal, electronic form, survey, interactive exhibit, and any other channel or mobile feature that we manage or operate."
+    },
+    "access": {
+      "title": "账户访问",
+      "p1": "Access to some parts of our site requires creating an account (“Account”) with a username and password. We have our procedural safeguards that comply with regulatory standards and regulations such as the Nigeria Data Protection Act, 2023. You are responsible for safeguarding your login details (“Identifier”). Any use of your Identifier will be attributed to you and may legally bind you, even if used by someone else and may be relied upon by us and any Third Party. “Third Party” includes any partner or service provider we work with to provide services. You agree to notify us immediately of any unauthorized use or security breach. You agree that the information you provide to us on Account registration through our site or our app will be true, accurate, current, and complete."
+    },
+    "eligibility": {
+      "title": "准入资格",
+      "p1": "Our sites are only available to Users who can form legally binding contracts under applicable and relevant laws. By accessing or using the site, you represent and warrant that (a) you are at least 18 years of age, or over the age of majority in the state or country where you are a resident or citizen, and (b) if you are using the sites on behalf of an entity, you are authorized to accept these Terms on that entity’s behalf."
+    },
+    "alerts": {
+      "title": "提醒与通知",
+      "p1": "By creating a User Account, you agree to receive alerts via email and mobile notifications. You can adjust or disable these alerts in your settings when sign into your Account. You can unsubscribe from marketing emails at any time."
+    },
+    "permitted": {
+      "title": "允许与禁止的使用行为",
+      "p1": "You must comply with all relevant laws, including those on privacy, intellectual property, taxation, and regulation. The services are for personal, non-commercial use, and you are responsible for safeguarding your login details.",
+      "p2": "You are prohibited from interfering with the site’s security features or using unauthorized methods to access data. Do not upload or share content you don’t have the right to use or that infringes on others’ rights. Sharing harmful, illegal, or offensive content, including spam and malware, is strictly forbidden.",
+      "p3": "Misrepresenting your identity, collecting user data without consent, or using automated tools to access the site is not allowed. Any attempt to manipulate the site’s systems, test vulnerabilities, or reverse-engineer software is prohibited.",
+      "p4": "The platform is strictly for cooperative-related activities. Misusing funds to exploit currency fluctuations may lead to account suspension, with refunds processed at the original value or exchange rate at the time of funding, minus applicable charges. Repeated violations may result in permanent suspension.",
+      "p5": "If any provision is deemed invalid, the remaining terms will remain in effect. Failure to enforce any term does not waive the right to do so later. You cannot transfer this agreement without our consent, but we may assign it without your approval. Changes to any term herein take effect once posted. If you disagree, stop using the site."
+    },
+    "disclaimer": {
+      "title": "免责声明",
+      "p1": "Your use of this app or site, including any personal information you provide, is entirely at your own risk. The app, site, and all related materials, information, products, and services are provided “as is” and “as available” without any guarantees or warranties. We do not guarantee that the app or site will be secure, accurate, reliable, timely, or free from interruptions or errors.",
+      "p2": "We cannot ensure that the app or site will be free from viruses or other harmful components. We also make no assurances about the accuracy, quality, completeness, or usefulness of any information provided, including content shared through social media.",
+      "p3": "Any advice or information obtained from the app or site does not create any warranty unless expressly stated. If you choose to rely on such information, you do so at your own risk. Some jurisdictions may not allow the exclusion of certain warranties, so some of these limitations may not apply to you."
+    },
+    "liability": {
+      "title": "责任限制",
+      "p1": "In no event shall we or any of our officers, directors, employees, or agents be liable to you for any damages whatsoever, including without limitation indirect, incidental, special, punitive, or consequential damages, arising out of or in connection with your use of this app or our website, their content and/or User information, including but not limited to the quality, accuracy, or utility of the information provided as part of or through this app or for any decisions made on the basis of such information, whether the damages are foreseeable and whether or not we have been advised of the possibility of such damages. The foregoing limitation of liability shall apply to the fullest extent permitted by law in the applicable jurisdiction."
+    },
+    "ownership": {
+      "title": "知识产权归属",
+      "p1": "Our sites and content are protected by copyright, trademark, patent, and other intellectual property laws. All ownership and intellectual property rights in the site and content are owned by Getly or our licensors. All rights not expressly granted to you are reserved. The site and content may include licensed materials, and our licensors may enforce their rights if these Terms are violated. You may not use our trademarks, logos, or trade dress without our express written consent. Any permitted use must comply with the guidelines we provide. If you believe your copyrighted work has been improperly used on our site, please contact us at hello@getly.app. Your notification must include:",
+      "bullet1": "A physical or electronic signature of a person authorized to act on behalf of the copyright owner.",
+      "bullet2": "A description of the copyrighted work and its location on the site.",
+      "bullet3": "Your contact details, including address, phone number, and email.",
+      "bullet4": "A statement that you have a good faith belief that the use is unauthorized.",
+      "bullet5": "A statement, under penalty of perjury, that the information in the notice is accurate and that you are authorized to act on behalf of the copyright owner."
+    },
+    "termination": {
+      "title": "账户中止与终止",
+      "p1": "We reserve the right to suspend or terminate your access to the site if you violate any of the Terms and Conditions. If we believe, in our sole discretion, that a violation of these Terms of Service has occurred, we may take any other corrective action we deem appropriate including investigating suspected violations. We may seek to gather information from a user who is suspected of violating these Terms of Service (or from any other user) and you agree to provide us with such information. We will fully cooperate with any law enforcement authorities or court order requesting or directing us to disclose the identity of anyone posting, publishing, or otherwise making available any User information, emails, or other materials that are believed to violate these Terms and Conditions. You may request termination of your User Account at any time and for any reason by sending an email to hello@getly.app. Any suspension, termination, or cancellation shall not affect your obligations to under these Terms of Service (including but not limited to ownership of copyright, indemnification, and limitation of liability), which by their sense and context are intended to survive such suspension, termination, or cancellation."
+    },
+    "linkedSites": {
+      "title": "第三方链接网站",
+      "p1": "Our site may contain links to other sites (“Linked Sites”). Linked Sites are not under our control and we’re not responsible for Linked Sites, or for any information or materials on, or any form of transmission received from, any Linked Service. The inclusion of a link does not imply our endorsement or any association with the operators of the Linked Sites. Linked Sites may have their own policies and terms, and we are not responsible for any Linked Site’s policies or terms. You access Linked Sites at your own risk."
+    },
+    "notices": {
+      "title": "通知与法律送达",
+      "p1": "We may give you all notices (including legal process) that we’re required to give by any lawful method, including by posting notice on the sites or by sending it to any email or mailing address that you provide to us."
+    },
+    "amendment": {
+      "title": "条款修订",
+      "p1": "These Terms of Service is subject to change without notice. We reserve the right to amend, update, or remove any content at any time, without liability. You agree to any applicable additional Terms before using the site. Unless otherwise specified in any additional Term(s), the additional Terms supplement and are incorporated into these Terms. If any of the additional Terms are inconsistent with these Terms, the additional Terms will take first precedence."
+    },
+    "severability": {
+      "title": "可分割性",
+      "p1": "If any provision of these Terms of Service is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms of Service will otherwise remain in full force and effect. The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder."
+    },
+    "governingLaw": {
+      "title": "适用法律与管辖权",
+      "p1": "You agree that these Terms of Service shall be governed by and interpreted in accordance with the laws of the Federal Republic of Nigeria. Any legal action or proceeding arising under these Terms of Service will be brought exclusively in courts located in Nigeria and the parties hereby irrevocably consent to the personal jurisdiction and venue therein. You agree you will comply with all applicable laws, including, without limitation, privacy laws, intellectual property laws, anti-spam laws, export control laws, tax laws, and regulatory requirements. Our site and app are accessible globally, but we make no representations about the legality of access from your location. You are responsible for complying with local laws."
+    },
+    "inquiries": {
+      "title": "咨询联络",
+      "p1": "If you have any feedback or questions about these Terms of Service or any other information, please contact us at hello@getly.app."
+    },
+    "acceptance": {
+      "title": "确认与接受",
+      "p1": "By accessing or using our site or app, you confirm that you have read and agree to our Terms of Service and Privacy Policy."
+    }
   },
   "cookie": {
     "title": "Cookie 与隐私政策",
@@ -47,8 +296,10 @@
     "section1Title": "1. 我们的服务承诺",
     "section1Desc": "我们始终致力于提供高品质服务。若您遇到任何产品或服务问题，全天候专属客服团队将竭诚为您解决。",
     "section2Title": "2. 如何提交申诉",
-    "section2Desc": "您可通过应用内帮助中心直接发起投诉，或发送邮件至 complaints@getly.app 并附上相关订单编号与详情。",
+    "section2Desc": "您可通过应用内帮助中心直接发起投诉，或发送邮件至 hello@getly.app 并附上相关订单编号与详情。",
     "section3Title": "3. 处理时效与调解",
-    "section3Desc": "我们将在 24 小时内确认受理，并在 15 个工作日内提供最终处理方案。"
+    "section3Desc": "我们将在 24 小时内确认受理，并在 15 个工作日内提供最终处理方案。",
+    "emailCardTitle": "通过电子邮件提交",
+    "emailCardDesc": "将您的问题详情、交易参考号或合规咨询直接发送给我们的专门团队。"
   }
 }

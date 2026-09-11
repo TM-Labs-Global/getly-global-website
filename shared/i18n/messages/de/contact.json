@@ -1,0 +1,104 @@
+{
+  "metaTitle": "Kontakt aufnehmen",
+  "badge": "Kontakt aufnehmen",
+  "heroLine1": "Immer für Sie da,",
+  "heroLine2": "in jeder Zeitzone.",
+  "title": "Immer für Sie da, in jeder Zeitzone.",
+  "subtitle": "Entdecken Sie Soforthilfen in unserem Hilfebereich oder sprechen Sie direkt mit unserem Team. Wohin Ihre Reise auch führt: Wir unterstützen Sie rund um die Uhr — auch am Wochenende.",
+  "primary": {
+    "chatTitle": "In-App Live-Chat",
+    "chatDesc": "Verbinden Sie sich direkt in der Getly-App mit unserem Support. Erhalten Sie schnelle Antworten in Ihrer bevorzugten Sprache.",
+    "chatCta": "App herunterladen",
+    "helpTitle": "Hilfebereich durchsuchen",
+    "helpDesc": "Detaillierte Anleitungen zu virtuellen Karten, eSIM-Aktivierung, Wallet-Sicherheit und weltweiter Abdeckung.",
+    "helpCta": "Hilfe & FAQ aufrufen"
+  },
+  "urgent": {
+    "title": "Dringende Hilfe oder Karte verlegt?",
+    "desc": "Sperren Sie Ihre Karte sofort in der Getly-App mit einem Fingertipp, um Ihr Guthaben zu schützen. Bei Geräteverlust wenden Sie sich an unseren Prioritäts-Support.",
+    "cta": "Prioritäts-Hilfe"
+  },
+  "recovery": {
+    "badge": "Hilfe & FAQ",
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Schnelle Antworten auf häufige Fragen zu Ihrem Getly-Konto, Wallet, virtuellen Karten und eSIM.",
+    "items": [
+      {
+        "q": "Wie melde ich mich an oder stelle den Zugriff auf mein Getly-Konto wieder her?",
+        "a": "Getly verwendet Ihre registrierte E-Mail-Adresse für die Authentifizierung. Geben Sie auf dem Anmeldebildschirm Ihre E-Mail-Adresse ein und tippen Sie auf 'Passwort vergessen', um einen sicheren Anmeldelink oder OTP-Code in Ihrem Posteingang zu erhalten. Keine Telefonnummer erforderlich."
+      },
+      {
+        "q": "Was mache ich, wenn ich meinen E-Mail-Bestätigungscode nicht erhalten habe?",
+        "a": "Überprüfen Sie Ihren Spam- und Junk-Ordner auf Nachrichten von Getly. Stellen Sie sicher, dass Ihre E-Mail-Adresse korrekt eingegeben wurde. Tippen Sie nach zwei Minuten auf 'Neuen Code anfordern' oder wenden Sie sich an info@getly.qa."
+      },
+      {
+        "q": "Wie ändere ich meine registrierte E-Mail-Adresse?",
+        "a": "Wenn Sie angemeldet sind, können Sie Ihre E-Mail-Adresse unter Profil → Sicherheit mit Zwei-Faktor-Authentifizierung aktualisieren. Wenn Sie keinen Zugriff mehr auf Ihre E-Mail haben, kontaktieren Sie uns unter info@getly.qa."
+      },
+      {
+        "q": "Wie sperre oder ersetze ich meine virtuelle Reisekarte?",
+        "a": "Öffnen Sie den Reiter 'Karten' in der Getly-App und tippen Sie sofort auf 'Karte sperren', um jede Aktivität zu pausieren. Sie können die Sperre jederzeit aufheben oder in Sekundenschnelle eine neue virtuelle Karte erstellen."
+      },
+      {
+        "q": "Wie lade ich mein Getly USD-Wallet auf?",
+        "a": "Laden Sie Ihr Wallet in Sekundenschnelle mit jeder Standard-Debit- oder Kreditkarte, Bankzahlungsoption oder globalen Zahlungswegen auf. Ihre Landeswährung wird zu transparenten Live-Kursen in USD umgerechnet."
+      },
+      {
+        "q": "Wie funktioniert die Getly eSIM auf Auslandsreisen?",
+        "a": "Wählen Sie Ihr Reiseziel im eSIM-Reiter und installieren Sie das digitale Datenprofil per QR-Code oder Direkttipp. Sobald Sie in über 180 Ländern landen, verbindet sich Ihr Smartphone automatisch mit schnellen Mobilfunknetzen – ganz ohne Roaming-Gebühren."
+      }
+    ],
+    "viewAll": "Alle Hilfe- und FAQ-Artikel ansehen"
+  },
+  "quickAccess": {
+    "title": "Suchen Sie etwas Bestimmtes?",
+    "business": {
+      "title": "Geschäftspartner & B2B",
+      "email": "hello@getly.app"
+    },
+    "press": {
+      "title": "Presse & Medien",
+      "email": "hello@getly.app"
+    },
+    "complaints": {
+      "title": "Beschwerden & Compliance",
+      "email": "hello@getly.app",
+      "desc": "Offizielle Streitigkeiten und regulatorische Eskalationen"
+    },
+    "phone": {
+      "title": "Regionale Niederlassungen",
+      "ng": "+234 813 129 6333",
+      "qa": "+974 5069 0946"
+    }
+  },
+  "form": {
+    "title": "Möchten Sie uns schreiben?",
+    "subtitle": "Füllen Sie das Formular aus – unser Team meldet sich innerhalb von 2 Stunden bei Ihnen.",
+    "fullName": "Vollständiger Name",
+    "fullNamePlaceholder": "Alex Morgan",
+    "email": "E-Mail-Adresse",
+    "emailPlaceholder": "alex@beispiel.de",
+    "department": "Abteilung",
+    "departments": {
+      "support": "Kundensupport",
+      "partnership": "Geschäftspartnerschaften",
+      "press": "Presse & Medien",
+      "compliance": "Compliance & Recht",
+      "other": "Allgemeine Anfrage"
+    },
+    "subject": "Betreff",
+    "subjectPlaceholder": "Wie können wir Ihnen helfen?",
+    "message": "Nachricht",
+    "messagePlaceholder": "Beschreiben Sie Ihr Anliegen...",
+    "submit": "Anfrage übermitteln",
+    "submitting": "Wird übermittelt...",
+    "successTitle": "Anfrage eingegangen!",
+    "successMessage": "Vielen Dank für Ihre Kontaktaufnahme. Unser Team prüft Ihre Nachricht und antwortet zeitnah.",
+    "submitAnother": "Weitere Anfrage senden",
+    "emailDirect": "Direkt per E-Mail",
+    "responseTime": "Durchschnittliche Antwortzeit: unter 2 Stunden"
+  },
+  "footer": {
+    "hq": "Getly Limited, Tochtergesellschaft der Takeout Media Ltd. — 36 Sokode Crescent, Wuse Zone 5, Abuja, Nigeria"
+  }
+}

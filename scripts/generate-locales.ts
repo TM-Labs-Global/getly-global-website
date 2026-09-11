@@ -533,7 +533,7 @@ const translations: Record<string, Record<string, any>> = {
         section1Title: "1. Nuestro Compromiso",
         section1Desc: "Nos esforzamos por ofrecer un servicio excepcional. Si experimentas algún problema con tu billetera, tarjeta, eSIM o reserva, nuestro equipo de soporte especializado está disponible 24/7 para resolver tu consulta con rapidez.",
         section2Title: "2. Cómo Presentar una Reclamación",
-        section2Desc: "Puedes presentar una queja formal directamente a través del Centro de Ayuda en la app o enviando un correo a complaints@getly.app con la referencia de la transacción y los detalles del caso.",
+        section2Desc: "Puedes presentar una queja formal directamente a través del Centro de Ayuda en la app o enviando un correo a hello@getly.app con la referencia de la transacción y los detalles del caso.",
         section3Title: "3. Plazos de Resolución y Derivación",
         section3Desc: "Acusamos recibo de todas las quejas formales en un plazo de 24 horas y nuestro objetivo es ofrecer una resolución completa en un máximo de 15 días hábiles. Si no quedas satisfecho, tienes derecho a derivar el asunto a organismos independientes de resolución de disputas."
       }
@@ -1002,7 +1002,7 @@ const translations: Record<string, Record<string, any>> = {
         section1Title: "1. Notre Engagement",
         section1Desc: "Nous accordons une priorité absolue à la satisfaction client. Notre équipe d'assistance dédiée est joignable 24/7 pour répondre à vos questions.",
         section2Title: "2. Soumettre une Réclamation",
-        section2Desc: "Vous pouvez formuler une réclamation officielle depuis le centre d'aide de l'application ou par courriel à complaints@getly.app.",
+        section2Desc: "Vous pouvez formuler une réclamation officielle depuis le centre d'aide de l'application ou par courriel à hello@getly.app.",
         section3Title: "3. Délais de Traitement",
         section3Desc: "Nous accusons réception de toute réclamation sous 24 heures et apportons une réponse circonstanciée dans un délai maximum de 15 jours ouvrés."
       }
@@ -1471,7 +1471,7 @@ const translations: Record<string, Record<string, any>> = {
         section1Title: "1. Unser Engagement",
         section1Desc: "Kundenzufriedenheit steht bei uns an erster Stelle. Unser Support-Team steht Ihnen 24/7 zur Verfügung, um Anliegen rasch zu klären.",
         section2Title: "2. Beschwerde einreichen",
-        section2Desc: "Offizielle Beschwerden können direkt im In-App-Hilfebereich oder per E-Mail an complaints@getly.app eingereicht werden.",
+        section2Desc: "Offizielle Beschwerden können direkt im In-App-Hilfebereich oder per E-Mail an hello@getly.app eingereicht werden.",
         section3Title: "3. Bearbeitungsfristen",
         section3Desc: "Wir bestätigen den Eingang innerhalb von 24 Stunden und streben eine abschließende Klärung innerhalb von 15 Werktagen an."
       }
@@ -1940,7 +1940,7 @@ const translations: Record<string, Record<string, any>> = {
         section1Title: "1. Nosso Compromisso",
         section1Desc: "Priorizamos a excelência e transparência. Nosso time de atendimento está disponível 24 horas por dia para ajudar.",
         section2Title: "2. Como Enviar uma Reclamação",
-        section2Desc: "Você pode registrar sua manifestação no suporte do aplicativo ou enviar um e-mail para complaints@getly.app.",
+        section2Desc: "Você pode registrar sua manifestação no suporte do aplicativo ou enviar um e-mail para hello@getly.app.",
         section3Title: "3. Prazos de Resposta",
         section3Desc: "Confirmamos o recebimento em até 24 horas e buscamos apresentar a solução definitiva em até 15 dias úteis."
       }
@@ -2409,7 +2409,7 @@ const translations: Record<string, Record<string, any>> = {
         section1Title: "1. 我们的服务承诺",
         section1Desc: "我们始终致力于提供高品质服务。若您遇到任何产品或服务问题，全天候专属客服团队将竭诚为您解决。",
         section2Title: "2. 如何提交申诉",
-        section2Desc: "您可通过应用内帮助中心直接发起投诉，或发送邮件至 complaints@getly.app 并附上相关订单编号与详情。",
+        section2Desc: "您可通过应用内帮助中心直接发起投诉，或发送邮件至 hello@getly.app 并附上相关订单编号与详情。",
         section3Title: "3. 处理时效与调解",
         section3Desc: "我们将在 24 小时内确认受理，并在 15 个工作日内提供最终处理方案。"
       }
@@ -2878,7 +2878,7 @@ const translations: Record<string, Record<string, any>> = {
         section1Title: "1. 基本姿勢",
         section1Desc: "お客様に安心してご利用いただけるよう誠実に対応いたします。お困りの際は年中無休のサポート窓口までご連絡ください。",
         section2Title: "2. 申し立て方法",
-        section2Desc: "アプリ内のヘルプセンターまたは complaints@getly.app 宛てに詳細を記載の上ご連絡いただけます。",
+        section2Desc: "アプリ内のヘルプセンターまたは hello@getly.app 宛てに詳細を記載の上ご連絡いただけます。",
         section3Title: "3. 対応スケジュール",
         section3Desc: "24時間以内に受付確認を行い、原則15営業日以内に最終的な解決案をご提示いたします。"
       }
@@ -3347,7 +3347,7 @@ const translations: Record<string, Record<string, any>> = {
         section1Title: "1. التزامنا تجاه العملاء",
         section1Desc: "نحرص على تقديم أعلى مستويات الخدمة. فريق الدعم المخصص لدينا متاح على مدار الساعة للمساعدة وحل أي استفسار.",
         section2Title: "2. كيفية تقديم شكوى",
-        section2Desc: "يمكنك تقديم شكوى رسمية عبر مركز المساعدة في التطبيق أو عبر البريد الإلكتروني complaints@getly.app.",
+        section2Desc: "يمكنك تقديم شكوى رسمية عبر مركز المساعدة في التطبيق أو عبر البريد الإلكتروني hello@getly.app.",
         section3Title: "3. مواعيد الرد والمعالجة",
         section3Desc: "نؤكد استلام الشكوى خلال 24 ساعة، ونسعى للوصول إلى حل نهائي خلال 15 يوم عمل كحد أقصى."
       }

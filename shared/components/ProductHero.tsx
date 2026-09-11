@@ -5,6 +5,7 @@ import GetAppButton from "@/shared/components/GetAppButton";
 import { useViewportHeight } from "@/shared/hooks/useViewportHeight";
 
 interface ProductHeroProps {
+  badge?: string;
   headlineLine1: string;
   headlineLine2: string;
   subtitle: string;
@@ -14,6 +15,7 @@ interface ProductHeroProps {
 }
 
 export default function ProductHero({
+  badge,
   headlineLine1,
   headlineLine2,
   subtitle,
@@ -64,6 +66,12 @@ export default function ProductHero({
       {/* 3. Bottom-left content cluster */}
       <div className="relative z-10 max-w-7xl mx-auto w-full px-6 pt-28 pb-8 md:pb-14 lg:pb-16">
         <div className="max-w-xl space-y-5">
+          {badge && (
+            <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs font-bold uppercase tracking-wider text-white">
+              <span>{badge}</span>
+            </div>
+          )}
+
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight text-white leading-[1.08]">
             <span className="block">{headlineLine1}</span>
             <span className="block">{headlineLine2}</span>

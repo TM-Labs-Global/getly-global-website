@@ -83,6 +83,7 @@ export default getRequestConfig(async ({ requestLocale }) => {
     blog,
     press,
     legal,
+    contact,
   ] = await Promise.all([
     loadNamespace("common", locale),
     loadNamespace("home", locale),
@@ -102,6 +103,7 @@ export default getRequestConfig(async ({ requestLocale }) => {
     loadNamespace("blog", locale),
     loadNamespace("press", locale),
     loadNamespace("legal", locale),
+    loadNamespace("contact", locale),
   ]);
 
   return {
@@ -125,6 +127,7 @@ export default getRequestConfig(async ({ requestLocale }) => {
       blog,
       press,
       legal,
+      contact,
     },
   };
 });

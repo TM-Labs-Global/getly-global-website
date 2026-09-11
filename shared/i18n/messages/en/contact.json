@@ -1,0 +1,104 @@
+{
+  "metaTitle": "Get in Touch",
+  "badge": "Get in Touch",
+  "heroLine1": "Here when you need us,",
+  "heroLine2": "in every time zone.",
+  "title": "Here when you need us, in every time zone.",
+  "subtitle": "Explore instant guides in our Help Center or connect with our team directly. Wherever your journey takes you, we're ready to help — day, night, or weekend.",
+  "primary": {
+    "chatTitle": "In-app live chat",
+    "chatDesc": "Connect with our support team directly inside the Getly app. Get fast answers in your preferred language, anytime you need a hand.",
+    "chatCta": "Get the app",
+    "helpTitle": "Browse the Help Center",
+    "helpDesc": "Find step-by-step walkthroughs and instant answers on virtual cards, eSIM setup, wallet security, and regional coverage.",
+    "helpCta": "Visit Help & FAQ"
+  },
+  "urgent": {
+    "title": "Need urgent help or misplaced your card?",
+    "desc": "Lock your card instantly inside the Getly app with one tap to keep your balance safe. If you're locked out of your device, get in touch with our team for priority recovery.",
+    "cta": "Get priority help"
+  },
+  "recovery": {
+    "badge": "Help & FAQs",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Quick answers to common questions about your Getly account, wallet, virtual cards, and eSIM.",
+    "items": [
+      {
+        "q": "How do I sign in or recover my Getly account?",
+        "a": "Getly uses your registered email address for account authentication. On the sign-in screen, enter your email and tap 'Forgot password' to receive a secure login link or reset OTP in your inbox. No phone number is required."
+      },
+      {
+        "q": "What should I do if I haven't received my email verification code?",
+        "a": "Check your email spam and junk folders for a message from Getly. Ensure your registered email address was entered correctly. If the code hasn't arrived after two minutes, tap 'Request New Code' in the app or contact our team at info@getly.qa."
+      },
+      {
+        "q": "How do I change my registered account email?",
+        "a": "If you are signed in, you can update your email under Profile → Security with dual authentication. If you've lost access to your email inbox, reach out to our support team at info@getly.qa so we can verify your identity and restore access."
+      },
+      {
+        "q": "How do I freeze or replace my virtual travel card?",
+        "a": "Open the Cards tab in the Getly app and tap 'Freeze Card' immediately to pause all activity. You can unfreeze it at any time with one tap, or remove it and generate a new virtual card in seconds."
+      },
+      {
+        "q": "How do I fund my Getly USD wallet?",
+        "a": "You can top up your wallet in seconds using any domestic debit or credit card, bank payment option, or global payment rails. Your local currency is converted at transparent live rates into your USD balance."
+      },
+      {
+        "q": "How does the Getly eSIM work when traveling abroad?",
+        "a": "Pick your destination in the eSIM tab and install your digital data profile using the in-app installer or QR code. It connects to high-speed local mobile networks automatically as soon as your flight lands in 180+ countries, with zero roaming fees."
+      }
+    ],
+    "viewAll": "View all Help & FAQ articles"
+  },
+  "quickAccess": {
+    "title": "Looking for something specific?",
+    "business": {
+      "title": "Business & Partnerships",
+      "email": "hello@getly.app"
+    },
+    "press": {
+      "title": "Press & Media",
+      "email": "hello@getly.app"
+    },
+    "complaints": {
+      "title": "Complaints & Compliance",
+      "email": "hello@getly.app",
+      "desc": "Formal disputes and regulatory escalations"
+    },
+    "phone": {
+      "title": "Speak to a regional desk",
+      "ng": "+234 813 129 6333",
+      "qa": "+974 5069 0946"
+    }
+  },
+  "form": {
+    "title": "Prefer to write to us?",
+    "subtitle": "Fill out the form below and our team will get back to you within 2 hours.",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Alex Morgan",
+    "email": "Email Address",
+    "emailPlaceholder": "alex@example.com",
+    "department": "Department",
+    "departments": {
+      "support": "Customer Support",
+      "partnership": "Business & Partnerships",
+      "press": "Press & Media",
+      "compliance": "Compliance & Legal",
+      "other": "General Inquiry"
+    },
+    "subject": "Subject",
+    "subjectPlaceholder": "How can we help you?",
+    "message": "Message",
+    "messagePlaceholder": "Tell us more about your inquiry...",
+    "submit": "Submit Inquiry",
+    "submitting": "Submitting...",
+    "successTitle": "Inquiry Received!",
+    "successMessage": "Thank you for reaching out. A member of our team will review your message and respond shortly.",
+    "submitAnother": "Submit another inquiry",
+    "emailDirect": "Email Direct",
+    "responseTime": "Average reply time: under 2 hours"
+  },
+  "footer": {
+    "hq": "Getly Limited, a subsidiary of Takeout Media Ltd. — 36 Sokode Crescent, Wuse Zone 5, Abuja, Nigeria"
+  }
+}

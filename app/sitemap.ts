@@ -18,6 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/coverage",
     "/security",
     "/about",
+    "/contact",
     "/faq",
     "/blog",
     "/press",

@@ -197,6 +197,11 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/contact" className="hover:text-white transition-colors">
+                  {t("contact")}
+                </Link>
+              </li>
+              <li>
                 <Link href="/legal/privacy-policy" className="hover:text-white transition-colors">
                   {t("privacy")}
                 </Link>

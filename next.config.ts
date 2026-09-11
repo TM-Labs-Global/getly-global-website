@@ -13,6 +13,35 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  async redirects() {
+    return [
+      {
+        source: "/privacy",
+        destination: "/privacy-policy",
+        permanent: true,
+      },
+      {
+        source: "/terms-of-service",
+        destination: "/terms",
+        permanent: true,
+      },
+      {
+        source: "/compliance",
+        destination: "/legal/complaints",
+        permanent: true,
+      },
+      {
+        source: "/legal/compliance",
+        destination: "/legal/complaints",
+        permanent: true,
+      },
+      {
+        source: "/complaints",
+        destination: "/legal/complaints",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default withNextIntl(nextConfig);
