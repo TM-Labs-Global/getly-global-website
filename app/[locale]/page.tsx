@@ -11,11 +11,11 @@ import { JsonLd } from "@/shared/components/JsonLd";
 import { APP_STORE_URL, PLAY_STORE_URL } from "@/shared/utils/appLinks";
 
 export const metadata = {
-  title: "Getly — The Super App For Modern Traveller",
+  title: "Getly — The Super App For Modern Travellers",
   description:
     "Turning unfamiliar places into unforgettable experiences. Getly combines a global multi-currency wallet, virtual cards, global eSIMs, and flight bookings in one app.",
   openGraph: {
-    title: "Getly — The Super App For Modern Traveller",
+    title: "Getly — The Super App For Modern Travellers",
     description:
       "Turning unfamiliar places into unforgettable experiences. Getly combines a global multi-currency wallet, virtual cards, global eSIMs, and flight bookings in one app.",
     url: "https://getly.app",
@@ -33,7 +33,7 @@ export default function HomePage() {
     name: "Getly",
     url: "https://getly.app",
     logo: "https://getly.app/brand/getly-logo.svg",
-    description: "The Super App For Modern Traveller — turning unfamiliar places into unforgettable experiences.",
+    description: "The Super App For Modern Travellers — turning unfamiliar places into unforgettable experiences.",
   };
 
   const appSchema = {

@@ -1,6 +1,6 @@
 # Getly
 
-> The Super App For Modern Traveller — one hidden global wallet, virtual
+> The Super App For Modern Travellers — one hidden global wallet, virtual
 > cards, eSIM, flight bookings, hotel stays, travel protection, and visa processing
 > in a single app for travellers, immigrants, and professionals.
 

@@ -69,7 +69,7 @@ export default function TokenGallery() {
           <div>
             <span className="text-xs font-mono text-[var(--mist)]">Display H1 (3.5rem / 56px)</span>
             <p className="text-5xl font-extrabold text-[var(--navy)] leading-tight">
-              The Super App For Modern Traveller
+              The Super App For Modern Travellers
             </p>
           </div>
           <div>
